@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "code-block-plugin:Add code block",
+    "editor:insert-mathblock",
+    "obsidian-excalidraw-plugin:excalidraw-insert-transclusion",
+    "advanced-cursors:add-cursor-above",
+    "advanced-cursors:add-cursor-below"
+  ]
+}

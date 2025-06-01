@@ -1,0 +1,590 @@
+{
+  "main": {
+    "id": "a4382883349a2944",
+    "type": "split",
+    "children": [
+      {
+        "id": "a368b0d7cd1ef551",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c1040fa5528420a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINALG Lineær algebra/Aflevering/C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C"
+            }
+          },
+          {
+            "id": "09a81e4cf3aa4d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINALG Lineær algebra/Lineære systemer/Mindste kvadraters metode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mindste kvadraters metode"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "515f8aeef7e2425f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a930830c16e2e580",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fee564b4682444f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "556a6deb6509f8f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mindste",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "40aff0a7b0b4ec93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7305112d2ee5dcb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "297bf862217ba9c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84635ea8c3d9f352",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LINALG Lineær algebra/Aflevering/B.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for B"
+            }
+          },
+          {
+            "id": "ee0036bfc3ad13eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "INTER Interaktionsdesign/INTER.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from INTER"
+            }
+          },
+          {
+            "id": "dfd5acdc99d9e9c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b197c9c75195065e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LINALG Lineær algebra/Lineære systemer/Mindste kvadraters metode.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mindste kvadraters metode"
+            }
+          },
+          {
+            "id": "8321cc7611264410",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "396a68c3598166f9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "6d789f1db87deec2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f9df4c6c7960256e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3c741930dd77aafb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "06accfbf5ba21b3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b04e86bca5b7eef9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4481a79da12200b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "61a42fefe4fb0d54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8d4b76017a299c18",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5383707f2dddfc3e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1f4b8af836503d67",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "252c7876615cbf12",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3265f51561148d56",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3dff67569b73b8dd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "baf9545d44655d88",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7f2b7f07791388a2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a38dd61dfa280a7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8dfa0ab4e545c8bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1b0eab0cf510ce3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "dbf7d9b969840db2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "cb7ce2e479c42fce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "84e8956587b3a241",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b437854806205a8b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "352b6c6febde553e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3b4ede2e5855274b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b800019e3be7cc1f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a2a88dd7b235efac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7af227e443e85308",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1625a7608dc02054",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bde08bc1644f4b86",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8c96cac0f4f1b667",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4927bf7fdbd8e182",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "44b14a59b57c7c8c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "91295b56e5c16c62",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "graph:Open graph view": false,
+      "print:Print note": false
+    }
+  },
+  "active": "396a68c3598166f9",
+  "lastOpenFiles": [
+    "LINALG Lineær algebra/Aflevering/C.md",
+    "LINALG Lineær algebra/Lineære systemer/Mindste kvadraters metode.md",
+    "LINALG Lineær algebra/Matricer/Diagonalisering af matricer.md",
+    "LINALG Lineær algebra/Matricer/Matrixpotenser.md",
+    "LINALG Lineær algebra/Matricer/Potenser af diagonalisérbare matricer.md",
+    "LINALG Lineær algebra/Underrum/Nulrum.md",
+    "LINALG Lineær algebra/Geometrisk multiplicitet.md",
+    "LINALG Lineær algebra/Algebraisk multiplicitet.md",
+    "LINALG Lineær algebra/Underrum/Egenrum.md",
+    "SU Softwareudvikling/Designing software/Design.md",
+    "LINALG Lineær algebra/Aflevering/B.md",
+    "LINALG Lineær algebra/Egenværdier.md",
+    "LINALG Lineær algebra/Matricer/Determinant.md",
+    "LINALG Lineær algebra/Aflevering/A.md",
+    "LINALG Lineær algebra/Cayley–Hamilton’s sætning.md",
+    "LINALG Lineær algebra/Vektorer/Ortogonalt underrum.md",
+    "LINALG Lineær algebra/Komplekse tal/Konjugering og modulus.md",
+    "Assets/Pasted image 20250528102346.png",
+    "Assets/Pasted image 20250528101315.png",
+    "Assets/Pasted image 20250528101300.png",
+    "LINALG Lineær algebra/Komplekse tal",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "LINALG Lineær algebra/Komplekse tal/Komplekse tal.md",
+    "Assets/Pasted image 20250528095602.png",
+    "Assets/Pasted image 20250528094937.png",
+    "Assets/Pasted image 20250528094754.png",
+    "Assets/Pasted image 20250528094743.png",
+    "Assets/Pasted image 20250528094407.png",
+    "Assets/Pasted image 20250528094200.png",
+    "Assets/Pasted image 20250528093338.png",
+    "LINALG Lineær algebra/Underrum/Underrum.md",
+    "LINALG Lineær algebra/Lineære systemer/Kerne og billede.md",
+    "LINALG Lineær algebra/Vektorer/Ortogonale vektorer.md",
+    "LINALG Lineær algebra/Vektorer/Ortogonal projektion.md",
+    "LINALG Lineær algebra/Vektorer/Prikprodukt.md",
+    "LINALG Lineær algebra/Vektorer/Ortogonale matricer.md",
+    "LINALG Lineær algebra/Matricer/Projektionsmatricen.md",
+    "LINALG Lineær algebra/Matricer/Invers matrix.md",
+    "LINALG Lineær algebra/Underrum",
+    "Assets/Pasted image 20250506214839.png.~tmp",
+    "Assets/Pasted image 20250506214653.png.~tmp",
+    "LINALG Lineær algebra/Vektorer",
+    "LINALG Lineær algebra/Aflevering",
+    "Assets/Pasted image 20250429211216.png.~tmp",
+    "Assets/Pasted image 20250429211149.png.~tmp",
+    "LINALG Lineær algebra/Lineære systemer",
+    "Assets/Pasted image 20250428105458.png.~tmp"
+  ]
+}
