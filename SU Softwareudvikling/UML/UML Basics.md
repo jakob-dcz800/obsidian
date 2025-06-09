@@ -3,7 +3,7 @@ tags:
   - Software-development
   - Design
 ---
-
+	
 # UML Basics
 
 **Unified Modelling Language** is a standard for modelling [[Terminology#Object-oriented programming|object-oriented]] software. It is a general-purpose visual modelling language that is intended to provide a standard way to visualize the design of a system.

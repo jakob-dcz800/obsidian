@@ -28,6 +28,7 @@ $$
 
 ![[Pasted image 20250513223514.png]]
 ![[Pasted image 20250513223531.png]]
+
 ## Theorem
 
 ### 4.16 (a) Løsning af normalligningerne

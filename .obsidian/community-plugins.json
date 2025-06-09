@@ -1,11 +1,11 @@
 [
   "obsidian-excalidraw-plugin",
   "code-block-plugin",
-  "highlightr-plugin",
   "obsidian-style-settings",
   "obsidian-latex-suite",
-  "obsidian-git",
   "copy-url-in-preview",
   "advanced-cursors",
-  "print"
+  "print",
+  "obsidian-banners",
+  "obsidian-git"
 ]

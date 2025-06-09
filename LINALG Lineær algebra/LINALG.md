@@ -1,3 +1,6 @@
+---
+banner: "![[Pasted image 20250528101300.png]]"
+---
 # 
 
 ## Matricer

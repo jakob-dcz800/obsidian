@@ -10,11 +10,11 @@
 [[Invers matrix]]
 ## Theorem
 
-### 4.6
+### 4.6 Matricer med parvist ortonormale søjler
 ![[Pasted image 20250511171213.png]]
 
 [[Invers matrix#Højre- og venstreinverse|Højre- og venstreinvers matrix]]
-### 4.7
+### 4.7 Ortogonale matricer og prikprodukt
 ![[Pasted image 20250511171408.png]]
 
 [[Prikprodukt]]

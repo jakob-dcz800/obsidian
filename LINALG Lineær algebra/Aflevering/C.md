@@ -267,8 +267,7 @@ $$
 $$
 ## b)
 
-Givet vores QR faktorisering er vi givet en ortonormal basis $\mathbf{Q}$ for underrummet $\mathcal{U}$.
-Projektionsmatricen er derfor givet ved 
+Givet vores QR faktorisering er vi givet en ortonormal basis $\mathbf{Q}$ for underrummet $\mathcal{U}$. Projektionsmatricen er derfor givet ved 
 $$
 \mathbf{P}=\mathbf{QQ}^T
 $$
@@ -470,7 +469,7 @@ $$
 Vi bestemmer først $\mathbf{A}^T$
 $$
 \mathbf{A}^T =
-\mathbf{A} = \begin{bmatrix}
+\begin{bmatrix}
 3 & 1 & 19 \\
 0 & 2 & 14 \\
 -2 & 6 & -15 \\
@@ -483,13 +482,184 @@ $$
 19 & 14 & -15 & 10 
 \end{array}\right]
 $$
-Derefter nulls-space ved at sætte $\mathbf{Ax}=\mathbf{0}$
-
+Derefter null-space ved at sætte $\mathbf{Ax}=\mathbf{0}$
+$$
+\left[\begin{array}{cccc}
+3 & 0 & -2 & 6 \\
+1 & 2 & 6 & -2 \\
+19 & 14 & -15 & 10
+\end{array} \right]
+\xrightarrow[]{
+\begin{matrix}
+r_{1}\leftrightarrow r_{2}
+\end{matrix}
+}
+\left[\begin{array}{cccc}
+1 & 2 & 6 & -2 \\
+3 & 0 & -2 & 6 \\
+19 & 14 & -15 & 10
+\end{array} \right]
+$$
+$$
+\left[\begin{array}{cccc}
+1 & 2 & 6 & -2 \\
+3 & 0 & -2 & 6 \\
+19 & 14 & -15 & 10
+\end{array} \right]
+\xrightarrow[]{
+\begin{matrix}
+-3r_{1}+r_{2}\to r_{2} \\
+-19r_{1}+r_{3}\to r_{3}
+\end{matrix}
+}
+\left[\begin{array}{cccc}
+1 & 2 & 6 & -2 \\
+0 & -6 & -20 & 12 \\
+0 & -24 & -129 & 48
+\end{array} \right]
+$$
+$$
+\left[\begin{array}{cccc}
+1 & 2 & 6 & -2 \\
+0 & -6 & -20 & 12 \\
+0 & -24 & -129 & 48
+\end{array} \right]
+\xrightarrow[]{
+\begin{matrix}
+-\frac{1}{6}r_{2}\to r_{2}
+\end{matrix}
+}
+\left[\begin{array}{cccc}
+1 & 2 & 6 & -2 \\
+0 & 1 & 10/3 & -2 \\
+0 & -24 & -129 & 48
+\end{array} \right]
+$$
+$$
+\left[\begin{array}{cccc}
+1 & 2 & 6 & -2 \\
+0 & 1 & 10/3 & -2 \\
+0 & -24 & -129 & 48
+\end{array} \right]
+\xrightarrow[]{
+\begin{matrix}
+-2r_{2}+r_{1}\to r_{1} \\
+24r_{2}+r_{3}\to r_{3}
+\end{matrix}
+}
+\left[\begin{array}{cccc}
+1 & 0 & -2/3 & 2 \\
+0 & 1 & 10/3 & -2 \\
+0 & 0 & -49 & 0
+\end{array} \right]
+$$
+$$
+\left[\begin{array}{cccc}
+1 & 0 & -2/3 & 2 \\
+0 & 1 & 10/3 & -2 \\
+0 & 0 & -49 & 0
+\end{array} \right]
+\xrightarrow[]{
+\begin{matrix}
+-\frac{1}{49}r_{3}\to r_{3} \\
+\frac{2}{3}r_{3}+r_{1}\to r_{1} \\
+-\frac{10}{3}r_{3}+r_{2}\to r_{2}
+\end{matrix}
+}
+\left[\begin{array}{cccc}
+1 & 0 & 0 & 2 \\
+0 & 1 & 0 & -2 \\
+0 & 0 & 1 & 0
+\end{array} \right]
+$$
+Vi får altså det ortogonale komplement til at være
+$$
+\begin{pmatrix}
+-2 \\
+2 \\
+0 \\
+1
+\end{pmatrix}
+$$
+Vi mangler dog den ortonormale basis, og vi normaliserer vektoren
+$$
+\frac{1}{\sqrt{ 9 }}
+\begin{pmatrix}
+-2 \\
+2 \\
+0 \\
+1
+\end{pmatrix}
+=
+\begin{pmatrix}
+-2/3 \\
+2/3 \\
+0 \\
+1/3
+\end{pmatrix}
+$$
+Vi ender her med den ortonormale base for det ortogonale underrum
 ## e) 
 
-Hvis B fortsat er en ortonormal basis er den transponerede matrix den inverse
+Vi opskriver B som en *ortogonal* matrix (altså hvor alle søjler er parvist ortonormale)
+$$
+\mathbf{B}=
+(\mathbf{q}_{1}, \mathbf{q}_{2},\mathbf{q}_{3},\mathbf{q}_{4})=
+\left[\begin{array}{cccc}
+\frac{3}{7} & \frac{8}{21} & \frac{10}{21} & -\frac{2}{3} 
+\\
+ 0 & \frac{1}{3} & \frac{2}{3} & \frac{2}{3} 
+\\
+ -\frac{2}{7} & \frac{6}{7} & -\frac{3}{7} & 0 
+\\
+ \frac{6}{7} & \frac{2}{21} & -\frac{8}{21} & \frac{1}{3} 
+\end{array}\right]
+$$
+
+Da $\mathbf{B}$ er en ortogonal matrix, er den transponerede matrix dens inverse. Derfor kan vi skrive den inverse matrix således
+$$
+\mathbf{B}^{-1}=\mathbf{B}^T=
+\left[\begin{array}{cccc}
+\frac{3}{7} & 0 & -\frac{2}{7} & \frac{6}{7} 
+\\
+ \frac{8}{21} & \frac{1}{3} & \frac{6}{7} & \frac{2}{21} 
+\\
+ \frac{10}{21} & \frac{2}{3} & -\frac{3}{7} & -\frac{8}{21} 
+\\
+ -\frac{2}{3} & \frac{2}{3} & 0 & \frac{1}{3} 
+\end{array}\right]
+$$
+$$
+\mathbf{v}=
+\begin{pmatrix}
+\sqrt{ 5 } \\
+\sqrt{ 7 } \\
+\sqrt{ 11 } \\
+\sqrt{ 13 }
+\end{pmatrix}
+$$
+Normen, $\|\mathbf{Bv}\|$ er lig $\|\mathbf{v}\|$: (thm 4.7)
+$$
+\begin{align}
+\|\mathbf{Bv}\| & =\sqrt{ (\mathbf{Bv})^T(\mathbf{BV}) } \\
+ & =\sqrt{ \mathbf{v}^T\mathbf{B}^T\mathbf{Bv} } \\
+ & =\sqrt{ \mathbf{v}^T\mathbf{v} } \\
+ & =\|\mathbf{v}\|
+\end{align}
+$$
 
 
+Derfor kan vi regne længden af $\mathbf{Bv}$ som længden af $\mathbf{v}$:
+$$
+\begin{align}
+\|\mathbf{Bv}\|=
+\|\mathbf{v}\|
+& =\sqrt{ \sqrt{ 5 }^2+\sqrt{ 7 }^2+\sqrt{ 11 }^2+\sqrt{ 13 }^2 } \\
+ & = \sqrt{ 5+7+11+13 }  \\
+  & =\sqrt{ 36 } \\
+& = 6
+\end{align}
+$$
 # 2
 
 
@@ -774,8 +944,7 @@ Deres geometriske multipliciteter er givet ved:
 $$
 \begin{align}
 g_{\lambda1}=g_{1}=1 \\
-g_{\lambda2}=g_{-2}=2 \\ \\
-
+g_{\lambda2}=g_{-2}=2 \\
 n=g_{\lambda1}+g_{\lambda_{2}}=3
 \end{align}
 $$
@@ -960,4 +1129,92 @@ $$
 \overline{b}
 \end{pmatrix}
 =(\mathbf{A}^T\mathbf{A})^{-1}\mathbf{A}^T\mathbf{b}
+$$
+Når vi regner denne, får vi $\begin{pmatrix}0.496  \\ -961.958\end{pmatrix}$
+Vi kan omskrive dette til ax+b form: $\ln y =0.496x-961.958$
+
+
+## b)
+
+
+Den skal på forskrift
+
+Vi skal altså have en eksponentialfunktion $y(t)=ce^{ax}$
+Vi tager vores lineære funktion og behandler den, som er den på formen $\ln y(t)=\ln(c)+ax$
+Vi sætter tal på
+$$
+\begin{align}
+y  & = e^{-961.95892} \cdot e^{0.4964519(t)}  \\
+e^{70/2-70/2} \cdot y &  = e^{70/2-70/2} \cdot e^{-961.95892} \cdot e^{0.4964519(t)}
+\end{align}
+$$
+$y(t)=1.46\cdot 10^{15}\cdot e^{0.496(t-2008)}$
+
+---
+lad os sige at vi har en eksponentiel funktion $y(t)=ce^{at}$. Denne beskriver datasættets udvikler over $t$. Vi får den lineære funktion ved at tage ln på begge sider:
+$$
+\begin{align}
+\ln y(t) & =\ln(ce^{at}) \\
+ & = \ln(c)+\ln(e^{at}) \\
+ & =\ln(c)+at
+\end{align}
+$$
+---
+![[Pasted image 20250603173418.png]]
+![[Pasted image 20250603174834.png]]
+Vi har den lineære funktion:
+$\ln y =0.4964519427402t-961.9589222904$
+
+Vi beskriver kvotienterne som $a=0.49\dots, b=(-962.95\dots)$. Vi tager eksponentialfunktionen på begge sider og trækker a ud af parentesen. 
+$$
+\begin{align}
+e^{\ln y} & = e^{0.4964519427402(t)-961.9589222904} \\
+y & = e^{0.4964519427402(t)-961.9589222904}
+\end{align}
+$$
+Vi vil gerne sætte $a$ udenfor udtrykket ved at udregne:
+$$
+-961.9589222904 \cdot(-1/0.4964519427402) = 1937.667757
+$$
+Her får vi ligningens skæring med t-aksen. Antal FLOPS er altså 0 i år ~1937. På denne måde "normaliserer" vi t, og $(t-1937.667757)$ bliver et slags "referencepunkt"
+Vi indsætter i ligningen:
+$$
+\begin{align}
+y & = e^{0.4964519427402\cdot(t-1937.667757)}
+\end{align}
+$$
+Målet er nu at genindsætte $t-2008$ i udtrykket, samt bevare $0.49...$ som konstant. Vi må derfor finde en konstant $c$ som vi må gange på udtrykket. Det er tydeligt at $t−1937.667757=(t−2008)+70.33224$, altså differencen mellem de to $t$'er er $70.33224$. 
+
+Det kan vi benytte, når vi nu bruger reglen $e^{k(a+b)}=e^{ka}⋅e^{kb}$:
+$$
+\begin{align}
+y(t)& =e^{0.4964519427402⋅(t−1937.667757)} \\
+ & = e^{0.4964519427402⋅((t−2008)+70.332243)} \\
+ & = e^{0.4964519427402⋅(t−2008)}⋅e^{0.4964519427402⋅70.332243} \\
+ & = 1.459074419\cdot10^{15}\cdot e^{0.4964519427402(t-2008)} \\
+ & \approx 1.46\cdot 10^{15}\cdot e^{0.496(t-2008)}
+\end{align}
+$$
+Vi ser altså, at udtrykket $\ln y$ kan omskrives til eksponentialfunktionen $y\approx1.46\cdot 10^{15}\cdot e^{0.46(t-2008)}$
+
+## c)
+
+Vi indsætter $t=2000$ i udtrykket:
+$$
+y(2000)\approx1.46\cdot 10^{15}\cdot e^{0.496(2000-2008)} = 2.761037794\cdot10^{13}
+$$
+Her er den off med ca. $26 \%$, det svarer til $20.384.377.940.000 \text{ FLOPS}$ (hvilket er omkring antallet af røde blodceller man har i kroppen). Når vi prøver det af på vores lineære udtryk for vi nogenlunde det samme når vi sætter det som eksponent for $e$:
+$$
+e^{0.4964*2000 - 961.958}=2.480335395\cdot10^{13}
+$$
+Dette er stadig for højt til at passe med den historiske data - men det er nu også et estimat. Vi prøver igen med $t=2030$
+$$
+y(2030)\approx1.46\cdot 10^{15}\cdot e^{0.496(2030-2008)} =8.005237890\cdot10^{19} 
+$$
+Dette tal ser ud til at passe temmelig godt når vi kigger på grafen. Vi har altså estimaterne:
+$$
+\begin{align}
+y(2000) & = 2.761037794\cdot10^{13}\\
+y(2030) & = 8.005237890\cdot10^{19} 
+\end{align}
 $$
