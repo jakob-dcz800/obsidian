@@ -32,6 +32,7 @@ Example:
 
 ![[Pasted image 20250308231548.png]]
 
+![[Pasted image 20250612121308.png]]
 ### UML in LaTeX
 
 ![[Pasted image 20250308231707.png]]

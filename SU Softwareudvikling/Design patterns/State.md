@@ -22,3 +22,16 @@ Concrete State
 **Some games have state as a tree.**
 
 It encapsulates varying behaviour for same object, based on its internal state. This can be cleaner way for object to change its behaviour at runtime without resorting to conditional statements and thus improve maintainability
+
+## Difference between state and strategy
+
+Strategy pattern: application chooses strategy **externally**  
+State pattern: state is determined by state machine **internally**
+
+| Feature             | State Pattern                                        | Strategy Pattern                          |
+| ------------------- | ---------------------------------------------------- | ----------------------------------------- |
+| Purpose             | Change behavior based on internal state              | Choose an algorithm at runtime            |
+| Focus               | Object state transitions                             | Interchangeable algorithms                |
+| Control of behavior | Controlled internally (by the context or state)      | Set externally (by the client)            |
+| Behavior change     | Often automatic, due to state change                 | Manual, client sets the strategy          |
+| Example             | TCP connection states (Connected, Closed, Listening) | Sorting strategies (QuickSort, MergeSort) |

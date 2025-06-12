@@ -1,6 +1,10 @@
 # Observer pattern
-Reduces the amount of time an object has to pull data from another. Observers push data instead.
+
+Reduces the amount of times an object has to pull data from another. 
+Observers push data instead.
 Allows the detection of changes to objects.
+
+![[Pasted image 20250612125250.png]]
 
 Decouple changes of values from something that is interested in the changes.
 Examples: 
@@ -13,14 +17,13 @@ Subject is active, observer is passive.
 
 This is part of [[Dependency inversion]] design principle.
 
-Idea: 
+**Idea**: 
 	• The (observed) subject allows the logging on and off of observers. 
 	• Observers are waiting passively for notification by the subject. 
 	• The subject has a notification mechanism and informs all registered observers that an event has occurred. 
 	• The observer can obtain information about the subject after the notification of an event, which has occurred, thus completing the observation.
 
 ![[Pasted image 20250310113534.png]]
-
 ![[Pasted image 20250310113714.png]]
 
 ![[Pasted image 20250310113731.png]]

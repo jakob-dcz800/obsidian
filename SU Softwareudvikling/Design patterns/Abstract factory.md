@@ -1,5 +1,6 @@
-
 # Abstract factory pattern
+
+![[Pasted image 20250612132343.png]]
 
 An Abstract Factory allows the use of the same procedures for different families of objects. 
 

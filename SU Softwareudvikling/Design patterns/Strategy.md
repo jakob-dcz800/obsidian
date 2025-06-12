@@ -21,3 +21,7 @@ Decision is done internally in `AClass`
 • If changes are made, the strategy object is replaced
 
 [[Design patterns]]
+
+![[Pasted image 20250612123007.png]]
+
+![[State#Difference between state and strategy]]

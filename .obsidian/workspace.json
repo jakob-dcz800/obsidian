@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4b4cd957020db8e8",
+        "id": "d9ae3aa089ea9955",
         "type": "tabs",
         "children": [
           {
-            "id": "0a0bb49d9b618dc7",
+            "id": "0776381285aae935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SU Softwareudvikling/UML/UML Basics.md",
+                "file": "SU Softwareudvikling/Exam notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UML Basics"
+              "title": "Exam notes"
             }
           },
           {
-            "id": "44eed4118cc0b617",
+            "id": "97c45076d628c841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SU Softwareudvikling/Designing software/GRASP.md",
+                "file": "SU Softwareudvikling/Design patterns/Abstract factory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GRASP"
-            }
-          },
-          {
-            "id": "f04e8656648e2c0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POP Programmering og problemløsning/Terminology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terminology"
+              "title": "Abstract factory"
             }
           }
         ],
@@ -107,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 263.5
   },
   "right": {
     "id": "7305112d2ee5dcb1",
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINALG Lineær algebra/LINALG.md",
+                "file": "SU Softwareudvikling/Design patterns/Abstract factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LINALG"
+              "title": "Backlinks for Abstract factory"
             }
           },
           {
@@ -142,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINALG Lineær algebra/LINALG.md",
+                "file": "SU Softwareudvikling/Design patterns/Abstract factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LINALG"
+              "title": "Outgoing links from Abstract factory"
             }
           },
           {
@@ -253,19 +239,38 @@
             "id": "33517bd6b8e7b8e0",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "32eeb3c962eaebc4",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
               "title": "Saved Queries"
             }
+          },
+          {
+            "id": "e9bf81ba1cfe8f72",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
-    "collapsed": true
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,51 +279,51 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Open graph view": false,
-      "print:Print note": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33517bd6b8e7b8e0",
+  "active": "97c45076d628c841",
   "lastOpenFiles": [
-    "SU Softwareudvikling/Designing software/GRASP.md",
-    "POP Programmering og problemløsning/Terminology.md",
-    "SU Softwareudvikling/Designing software/Single responsibility.md",
-    "SU Softwareudvikling/Designing software/SOLID.md",
-    "SU Softwareudvikling/Designing software/open-closed principle.md",
-    "SU Softwareudvikling/Designing software/Liskov substitution.md",
+    "Assets/Pasted image 20250612132343.png",
+    "SU Softwareudvikling/Design patterns/Singleton.md",
+    "SU Softwareudvikling/Exam notes.md",
+    "SU Softwareudvikling/Design patterns/Mediator.md",
+    "SU Softwareudvikling/Design patterns/Observer.md",
+    "Assets/Pasted image 20250612125250.png",
+    "Assets/Pasted image 20250612125245.png",
+    "SU Softwareudvikling/Design patterns/Iterator.md",
+    "SU Softwareudvikling/Design patterns/Strategy.md",
     "SU Softwareudvikling/UML/UML Basics.md",
+    "SU Softwareudvikling/Design patterns/State.md",
+    "Assets/Pasted image 20250612123007.png",
+    "SU Softwareudvikling/Design patterns/Decorator.md",
+    "Assets/Pasted image 20250612122124.png",
+    "Assets/Pasted image 20250612112204.png",
+    "Assets/Pasted image 20250612121308.png",
     "SU Softwareudvikling/UML/UML Terminology.md",
-    "LINALG Lineær algebra/Matricer/Vandermondematricen.md",
-    "LINALG Lineær algebra/Aflevering/C.md",
-    "LINALG Lineær algebra/Vektorer/Gram–Schmidt processen.md",
-    "Assets/Pasted image 20250603190249.png",
-    "Assets/Pasted image 20250603174834.png",
-    "Assets/Pasted image 20250603173418.png",
-    "LINALG Lineær algebra/Theorems.md",
-    "LINALG Lineær algebra/Lineære systemer/Mindste kvadraters metode.md",
-    "LINALG Lineær algebra/Vektorer/Ortogonale matricer.md",
-    "Assets/Pasted image 20250603124918.png",
-    "LINALG Lineær algebra/Vektorer/Norm.md",
-    "LINALG Lineær algebra/Vektorer/Ortogonal projektion.md",
-    "LINALG Lineær algebra/Vektorer/Ortogonale vektorer.md",
-    "LINALG Lineær algebra/Vektorer/Ortonormale baser.md",
-    "LINALG Lineær algebra/Vektorer/Ortogonalt underrum.md",
-    "SU Softwareudvikling/Testing/Black-box testing.md",
-    "LINALG Lineær algebra/Underrum/Underrum.md",
-    "LINALG Lineær algebra/Underrum/Baser.md",
-    "LINALG Lineær algebra/Vektorer/Enhedsvektor.md",
-    "LINALG Lineær algebra/Aflevering/C2.md",
-    "LINALG Lineær algebra/Aflevering/B.md",
-    "LINALG Lineær algebra/Underrum/Nulrum.md",
+    "Assets/Pasted image 20250612120723.png",
+    "SU Softwareudvikling/Design patterns/Composite.md",
+    "Assets/Pasted image 20250612120344.png",
+    "Assets/Pasted image 20250612115043.png",
+    "SU Softwareudvikling/Design patterns/Façade.md",
+    "Assets/Pasted image 20250612114325.png",
+    "SU Softwareudvikling/Design patterns/Object adapter.md",
+    "SU Softwareudvikling/Design patterns/Class adapter.md",
+    "SU Softwareudvikling/Csharp basics/Reference and value types.md",
+    "SU Softwareudvikling/Designing software/GRASP.md",
+    "SU Softwareudvikling/Object oriented analysis and design/Object oriented analysis and design.md",
+    "SU Softwareudvikling/Learning goals.md",
+    "SU Softwareudvikling/Testing/Continuous integration.md",
+    "SU Softwareudvikling/Designing software/Design.md",
+    "LINALG Lineær algebra/Aflevering/A.md",
+    "index.md",
+    "POP Programmering og problemløsning/Terminology.md",
+    "SU Softwareudvikling/SU.md",
+    "Untitled.canvas",
+    "SU Softwareudvikling/Designing software/Single responsibility.md",
     "Untitled 2.canvas",
-    "Assets/Pasted image 20250528102346.png",
-    "Assets/Pasted image 20250528101315.png",
-    "Assets/Pasted image 20250528101300.png",
     "LINALG Lineær algebra/Komplekse tal",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Assets/Pasted image 20250528095602.png",
-    "Assets/Pasted image 20250528094937.png",
-    "Assets/Pasted image 20250528094754.png",
     "LINALG Lineær algebra/Underrum",
     "Assets/Pasted image 20250506214839.png.~tmp",
     "Assets/Pasted image 20250506214653.png.~tmp",

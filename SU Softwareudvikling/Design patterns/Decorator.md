@@ -1,8 +1,11 @@
 # Decorator pattern
 
-Allows the creation of heterogeneous [[stack]] structures.
+**Decorator** is a structural design pattern that lets you attach new behaviours to objects by placing these objects inside special wrapper objects that contain the behaviours.
+
+Allows the creation of heterogeneous (diverse in character or content) [[stack]] structures.
 
 The class diagram leaves the impression, that the Decorator pattern is a simplified form of the [[#Composite patterns|Composite]] pattern. But decorator patterns are used with an entirely different purpose.
+![[Pasted image 20250612120723.png]]
 
 ![[Pasted image 20250310102604.png]]
 
@@ -18,9 +21,12 @@ The idea is to build **sequential structures**.
 • A stack consists of structurally different elements, 
 	• the last element without a successor and 
 	• preceding elements, which have exactly one direct successor. 
-• The different elements offer different attributes and different behaviour. 
+**• The different elements offer different attributes and different behaviour.** 
+
+* You can instantiate the decorators in an order and get desired behavior. 
+![[Pasted image 20250612122124.png]]
 • But the attributes and behaviour refer with regards to content always to all the following elements. 
-• Each additional element expands (= decorates) the existing elements. 
+**• Each additional element expands (= decorates) the existing elements.** 
 • The entire stack has the same semantics like its second element. 
 • Requirement: All elements must offer the same interface to the outside
 
