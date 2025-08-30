@@ -1,3 +1,7 @@
+---
+tags:
+  - Matrices
+---
 # Basisskift
 
 
@@ -16,3 +20,17 @@ Første søjle i P er første [[Baser|basisvektors]] [[koordinater]] i C med hen
 Matricen er interessant fordi:
 Hvis vi tager en vilkårlig vektor $\mathbf{v}$ i underrumet $\mathcal{U}$, tager dens koordinater i henhold til $\mathcal{C}$ og ganger med matricen $\mathbf{P}$, får vi vektorens koordinater iht. basen $\mathcal{B}$
 Vi går altså fra C til B
+
+## Eksempel
+
+### 1
+![[Pasted image 20250616113153.png]]
+![[Pasted image 20250616113209.png]]
+![[Pasted image 20250616113222.png]]
+
+# Den inverse til basisskiftmatricen
+
+![[Pasted image 20250616113433.png]]
+
+![[Pasted image 20250616113446.png]]
+

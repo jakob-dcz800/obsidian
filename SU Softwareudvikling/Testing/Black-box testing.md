@@ -1,3 +1,7 @@
+---
+tags:
+  - Testing
+---
 # Black-box testing
 
 i.e. specification-based testing

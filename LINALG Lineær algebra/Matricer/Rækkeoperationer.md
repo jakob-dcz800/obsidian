@@ -37,3 +37,17 @@ $$
 $$
 Vi kan altså nå den nye $r_{2}$ ved en kombination af de gamle $r_{1}, r_{2}$
 Når vi altså har den reducerede echelonform, er alle rækkerne et resultat af kombinationer af de originale rækker.
+
+## Eksempel
+
+### 1
+![[Pasted image 20250616113856.png]]
+![[Pasted image 20250616113827.png]]
+
+### 2
+![[Pasted image 20250616113939.png]]
+![[Pasted image 20250616113951.png]]
+
+### 3
+![[Pasted image 20250616114011.png]]
+![[Pasted image 20250616114023.png]]

@@ -12,6 +12,7 @@ tags:
 [[#Testing]]
 [[#Programming paradigms]]
 [[#Runtime]]
+[[downcast]]
 ## Lingo
 
 ### Programming vs. coding
@@ -117,6 +118,10 @@ An **ADT** consists of
 - an [[#Interface|interface]] containing the declarations of the [[#Types|type]], its operations ([[#Function|functions]]) and their [[#Specification|specification]] (what they do)
 - an implementation containing the definitions (source code) of the operations
 - examples illustrating use of the operations
+
+>[!NOTE]
+ADT form the foundation for the concept of classes. In languages that support classes, you can implement each abstract data type as its own class. 
+**Classes** usually involve the additional concepts of [[#inheritance]] and [[#Polymorphism|polymorphism]]. One way of thinking of a class is as an abstract data type plus inheritance and polymorphism.
 ### Recursive data types
 
 ### Generic type
@@ -240,6 +245,8 @@ Objects and classes are used to obtain abstraction of data.
 
 #### Polymorphism
 Polymorphism means "*many forms*", and it occurs when we have many classes that are related to each other by inheritance. Like we specified in the previous chapter; Inheritance lets us inherit attributes and methods from another class. Polymorphism uses those methods to perform different tasks.
+
+A key concept in object-oriented programming that allows objects of different classes to be treated as objects of a common type
 
 #### Encapsulation
 **Encapsulation** refers to the bundling of data with the mechanisms or methods that operate on the data. It may also refer to the limiting of direct access to some of that data, such as an object's components.

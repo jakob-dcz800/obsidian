@@ -1,3 +1,7 @@
+---
+tags:
+  - Matrices
+---
 # Blokmatricer
 
 Man kan opdele en stor [[LINALG Lineær algebra/Matricer/Matricer|matrix]] i mindre dele eller blokke

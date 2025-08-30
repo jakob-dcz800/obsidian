@@ -51,3 +51,7 @@ Code either satisfies its specification; or it does not
 	• Record the rate at which you're finding bugs each week 
 	• Once you've got several data points, fit a curve to the data that can be used to predict the date at which the bug rate will be low enough to ship 
 	• This might be better than guessing
+
+### Additional links:
+[[Stubs and drivers]]
+[[Testing of Object-Oriented Programs]]

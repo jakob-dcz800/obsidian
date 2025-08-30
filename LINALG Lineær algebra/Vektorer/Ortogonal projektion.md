@@ -19,6 +19,8 @@ $$
 $$
 
 ![[Pasted image 20250513220231.png]]
+
+**vigtig:**
 ![[Pasted image 20250513220330.png]]
 
 Vi skal kende en ortogonal basis for U før vi kan benytte den generelle formel.

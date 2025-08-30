@@ -51,3 +51,9 @@ Ved løsning af problemer som kræver lineær algebra kan det, i datalogiske sam
 ### QR-faktorisering
 ![[Pasted image 20250513222752.png]]
 ![[Pasted image 20250513222807.png]]
+
+#### 2
+
+![[Pasted image 20250615143213.png]]
+![[Pasted image 20250616114332.png]]
+![[Pasted image 20250616114320.png]]

@@ -4,35 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d9ae3aa089ea9955",
+        "id": "334fd3f35c3e0a3c",
         "type": "tabs",
         "children": [
           {
-            "id": "0776381285aae935",
+            "id": "8089de31c3694833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SU Softwareudvikling/Exam notes.md",
+                "file": "CompSys Computersystemer/Bøger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exam notes"
+              "title": "Bøger"
             }
           },
           {
-            "id": "97c45076d628c841",
+            "id": "2b409ba69b77659f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SU Softwareudvikling/Design patterns/Abstract factory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abstract factory"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -93,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 200
   },
   "right": {
     "id": "7305112d2ee5dcb1",
@@ -109,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SU Softwareudvikling/Design patterns/Abstract factory.md",
+                "file": "SU Softwareudvikling/UML/Sequence diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Abstract factory"
+              "title": "Backlinks for Sequence diagrams"
             }
           },
           {
@@ -128,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SU Softwareudvikling/Design patterns/Abstract factory.md",
+                "file": "SU Softwareudvikling/UML/Sequence diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Abstract factory"
+              "title": "Outgoing links from Sequence diagrams"
             }
           },
           {
@@ -176,83 +172,13 @@
             }
           },
           {
-            "id": "15f9e8660f36f332",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f25e254a2b3f4088",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "4d08a3f5bd53722e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "a0f303fc3bc47486",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "839ee63f51107897",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "589d3d7491935d78",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "33517bd6b8e7b8e0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "32eeb3c962eaebc4",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -264,9 +190,59 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "10491b68ceb78efa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "da51127b3f57bc05",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0c3f505f8ddb631e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "12c773664c0fe54b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5eb57b3fae6d1b61",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -274,6 +250,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
@@ -282,56 +259,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97c45076d628c841",
+  "active": "2b409ba69b77659f",
   "lastOpenFiles": [
-    "Assets/Pasted image 20250612132343.png",
-    "SU Softwareudvikling/Design patterns/Singleton.md",
-    "SU Softwareudvikling/Exam notes.md",
-    "SU Softwareudvikling/Design patterns/Mediator.md",
-    "SU Softwareudvikling/Design patterns/Observer.md",
-    "Assets/Pasted image 20250612125250.png",
-    "Assets/Pasted image 20250612125245.png",
-    "SU Softwareudvikling/Design patterns/Iterator.md",
-    "SU Softwareudvikling/Design patterns/Strategy.md",
-    "SU Softwareudvikling/UML/UML Basics.md",
-    "SU Softwareudvikling/Design patterns/State.md",
-    "Assets/Pasted image 20250612123007.png",
-    "SU Softwareudvikling/Design patterns/Decorator.md",
-    "Assets/Pasted image 20250612122124.png",
-    "Assets/Pasted image 20250612112204.png",
-    "Assets/Pasted image 20250612121308.png",
-    "SU Softwareudvikling/UML/UML Terminology.md",
-    "Assets/Pasted image 20250612120723.png",
-    "SU Softwareudvikling/Design patterns/Composite.md",
-    "Assets/Pasted image 20250612120344.png",
-    "Assets/Pasted image 20250612115043.png",
-    "SU Softwareudvikling/Design patterns/Façade.md",
-    "Assets/Pasted image 20250612114325.png",
-    "SU Softwareudvikling/Design patterns/Object adapter.md",
-    "SU Softwareudvikling/Design patterns/Class adapter.md",
-    "SU Softwareudvikling/Csharp basics/Reference and value types.md",
-    "SU Softwareudvikling/Designing software/GRASP.md",
-    "SU Softwareudvikling/Object oriented analysis and design/Object oriented analysis and design.md",
-    "SU Softwareudvikling/Learning goals.md",
-    "SU Softwareudvikling/Testing/Continuous integration.md",
-    "SU Softwareudvikling/Designing software/Design.md",
-    "LINALG Lineær algebra/Aflevering/A.md",
-    "index.md",
+    "CompSys Computersystemer/CompSys.md",
+    "CompSys Computersystemer/Bøger.md",
+    "CompSys Computersystemer/Functions and text",
+    "CompSys Computersystemer/Computer arithmatic",
+    "CompSys Computersystemer/Assembly and machine code",
+    "CompSys Computersystemer/Intro til C",
+    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Bøger.md",
+    "SU Softwareudvikling/Testing/Testing.md",
+    "SU Softwareudvikling/Exam/Slides.md",
+    "SU Softwareudvikling/Software management/Software Development Lifecycle.md",
+    "SU Softwareudvikling/Design patterns/Design patterns.md",
+    "NOTE.md",
+    "Abstract State Machine Model.md",
+    "lexical closure.md",
+    "SU Softwareudvikling/Exam/Exam notes.md",
     "POP Programmering og problemløsning/Terminology.md",
-    "SU Softwareudvikling/SU.md",
+    "CompSys Computersystemer",
+    "POP Programmering og problemløsning/downcast.md",
+    "Overblik.base",
+    "MASD Matematisk analyse og sandsynlighedsteori i datalogi",
+    "SU Softwareudvikling/Index.base",
+    "SU Softwareudvikling/Design patterns/Abstract factory.md",
+    "SU Softwareudvikling/Object oriented analysis and design/Object oriented analysis and design.md",
+    "SU Softwareudvikling/UML/UML Basics.md",
+    "SU Softwareudvikling/Software management/Agile development.md",
+    "Assets/Pasted image 20250617224507.png",
+    "Assets/Pasted image 20250617223925.png",
+    "Assets/Pasted image 20250617221105.png",
+    "SU Softwareudvikling/UML/UML Terminology.md",
+    "Assets/Pasted image 20250617193830.png",
+    "SU Softwareudvikling/Object oriented analysis and design/Object oriented design.md",
+    "Assets/Pasted image 20250617150931.png",
+    "index.md",
+    "POP Programmering og problemløsning/POP.md",
+    "LINALG Lineær algebra/Aflevering/Eksamen 2018.md",
+    "LINALG Lineær algebra/Aflevering/Eksamen 2024.md",
+    "LINALG Lineær algebra/Cayley–Hamilton’s sætning.md",
+    "Assets/Pasted image 20250616124918.png",
+    "LINALG Lineær algebra/Aflevering/C.md",
+    "LINALG Lineær algebra/Aflevering/Eksamen 2020.md",
+    "Assets/Pasted image 20250616123954.png",
+    "Assets/Pasted image 20250616123941.png",
+    "Assets/Pasted image 20250616123928.png",
+    "Assets/Pasted image 20250616123843.png",
+    "SU Softwareudvikling/Exam",
     "Untitled.canvas",
-    "SU Softwareudvikling/Designing software/Single responsibility.md",
     "Untitled 2.canvas",
     "LINALG Lineær algebra/Komplekse tal",
-    "Untitled 1.canvas",
-    "LINALG Lineær algebra/Underrum",
-    "Assets/Pasted image 20250506214839.png.~tmp",
-    "Assets/Pasted image 20250506214653.png.~tmp",
-    "LINALG Lineær algebra/Vektorer",
-    "LINALG Lineær algebra/Aflevering",
-    "Assets/Pasted image 20250429211216.png.~tmp",
-    "Assets/Pasted image 20250429211149.png.~tmp",
-    "LINALG Lineær algebra/Lineære systemer",
-    "Assets/Pasted image 20250428105458.png.~tmp"
+    "Untitled 1.canvas"
   ]
 }

@@ -1,3 +1,7 @@
+---
+tags:
+  - Math
+---
 # Algebraisk multiplicitet
 
 ![[Geometrisk multiplicitet#Sætning]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - Testing
+---
 # Acceptance and integration
 
 ![[Pasted image 20250512103139.png]]

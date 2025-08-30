@@ -42,3 +42,5 @@ Design patterns are not to be followed strictly, but are only *ideas*
 [[Iterator]]
 [[Singleton]]
 [[State]]
+
+[[Object oriented design]]

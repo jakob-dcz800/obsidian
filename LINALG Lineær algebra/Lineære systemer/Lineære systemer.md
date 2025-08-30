@@ -60,3 +60,8 @@ Vi vil skrive det som $Ax = b$, hvor vi tænker på at koefficientmatricen $A$ �
 
 ### Eksempel
 ![[Pasted image 20250519144622.png]]
+## Eksempel
+
+### 1
+
+![[Pasted image 20250615120451.png]]

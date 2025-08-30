@@ -96,3 +96,11 @@ Hvis din [[Lineære transformationer|lineære transformation]] både er [[Injekt
 ### 1
 ![[Pasted image 20250506215011.png]]
 ![[Pasted image 20250506215023.png]]
+
+### 2
+![[Pasted image 20250616114131.png]]
+![[Pasted image 20250616114144.png]]
+
+### 3
+![[Pasted image 20250616114234.png]]
+![[Pasted image 20250616114205.png]]![[Pasted image 20250616114245.png]]

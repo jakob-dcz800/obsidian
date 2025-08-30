@@ -33,6 +33,4 @@ Disadvantages:
 
 ![[Pasted image 20250311134945.png]]
 
-
-
 ![[Pasted image 20250311134818.png]]

@@ -2,6 +2,12 @@
 
 Structured process from problem to solution.
 
+• Information/problem domain is modeled. 
+• Behaviour is represented. 
+• Function is described.
+• Data, functional, and behavioral models are divided to uncover greater detail. 
+• Early models represent the essence of the problem, while later ones provide implementation details.
+
 ![[Pasted image 20250428112433.png]]
 
 This can go on forever, but:
@@ -10,17 +16,12 @@ You are done when you go through it and dont discover something new.
 
 ![[Pasted image 20250428102304.png]]
 ### Application domain
-
 The environment in which the system is operating
-
 ### Solution domain
-
 The available technologies to build the system
-
 Application domain model is the analysis-part.
 
 ### Problem domain
-
 Domain = subject area 
 Problem domain = program topic/theme/subject
 
@@ -61,7 +62,6 @@ Boundary concepts are stable concepts, i.e. they don't change that much over tim
 Single responsibility approach
 
 ### Domain model
-
 ![[Pasted image 20250428104616.png]]
 
 "is a"
@@ -75,15 +75,11 @@ Not UML
 
 
 #### Extracting attributes
-
 ![[Pasted image 20250428105659.png]]
 
 ### Traceability Matrix
-
 ![[Pasted image 20250428105920.png]]
-
 ![[Pasted image 20250428105943.png]]
-
 This is a way to see what is meant in in respect to use cases.
 
 ## Pre- and postconditions
@@ -92,5 +88,4 @@ This is a way to see what is meant in in respect to use cases.
 
 NOT UML:
 ![[Pasted image 20250428112008.png]]
-
 ![[Pasted image 20250428112143.png]]

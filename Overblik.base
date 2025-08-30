@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      not:
+        - file.inFolder("Assets")
+    order:
+      - file.name
+      - tags

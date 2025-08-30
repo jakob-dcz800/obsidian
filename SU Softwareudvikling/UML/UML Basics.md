@@ -26,9 +26,11 @@ Dotted arrow is "implementation of", and [[Terminology#Inheritance|inheritance]]
 	Composition: "*Host has a copy of guest*" - Guest makes no sense without guest
 
 Example:
-	Association: Students *know* each other
-	Aggregation: Students *have some* courses
-	Composition: Students *has an* ID card
+	Association: Students *know* each other (line)
+	Aggregation: Students *have some* courses (hollow diamond)
+	Composition: Students *has an* ID card (whole diamond)
+
+Hollow diamond: a class is part of another class but can leave at any time
 
 ![[Pasted image 20250308231548.png]]
 
@@ -43,3 +45,51 @@ Example:
 
 ![[Pasted image 20250310112332.png]]
 ![[Pasted image 20250310112419.png]]
+
+## Uni- and bidirectional association
+
+![[Pasted image 20250613210524.png]]
+
+## Associations
+
+For two objects `Foo` and `Bar` we have:
+
+**Dependency:**
+```csharp
+class Foo
+{
+    ...
+    fooMethod(Bar bar){}
+    ...
+}
+```
+
+**Association:**
+```csharp
+class Foo
+{
+    private Bar bar;
+    ...
+}
+```
+
+**Composition:** (When `Foo` dies so does `Bar`)
+```csharp
+class Foo
+{
+    ...
+    private Bar bar = new Bar();
+    ...
+}
+```
+
+**Aggregation:** (When `Foo` dies, `Bar` may live on)
+```csharp
+class Foo 
+{
+    private List<Bar> bars;
+}
+```
+
+https://stackoverflow.com/questions/12604031/c-sharp-code-for-association-aggregation-composition
+

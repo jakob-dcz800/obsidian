@@ -19,7 +19,12 @@ Abstraction of both sides, data and functionality.
 
 ![[Pasted image 20250310111541.png]]
 
-• Advantages: • The implementation of the data structure underlying the aggregate remains hidden. • The aggregate objects can be exchanged without modifying the application, since the access via the iterator remains unchanged. • Disadvantages: • Iterators require additional programming effort. • Iterators may need to be informed of changes to the aggregate.
+• Advantages: 
+	• The implementation of the data structure underlying the aggregate remains hidden. 
+	• The aggregate objects can be exchanged without modifying the application, since the access via the iterator remains unchanged. 
+• Disadvantages: 
+	• Iterators require additional programming effort. 
+	• Iterators may need to be informed of changes to the aggregate.
 
 ### Implementation
 

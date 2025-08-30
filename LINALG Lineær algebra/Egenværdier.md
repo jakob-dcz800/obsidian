@@ -22,6 +22,8 @@ Vi får et polynomium in n'te grad
 ![[Pasted image 20250521133803.png]]
 
 2) Vi skal finde rødderne i det karakteristiske polynomium
+
+
 ## Eksempel
 
 ### 1

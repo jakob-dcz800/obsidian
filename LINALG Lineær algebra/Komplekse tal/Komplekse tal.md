@@ -7,7 +7,7 @@
 
 ![[Pasted image 20250528094754.png]]
 
-Vi tjekker om 1\cdot 1 stadig giver 1
+Vi tjekker om $1\cdot 1$ stadig giver $1$
 
 ![[Pasted image 20250528094937.png]]
 

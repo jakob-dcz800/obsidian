@@ -9,7 +9,9 @@ This is especially valuable in a production environment, where changes to source
 
 ## Polymorphic Open/Closed Principle
 
-All member variables should be private. • Global variables should be avoided.
+All member variables should be private
+Global variables should be avoided
 ## Meyer's Open/Closed Principle
 
-Implementation of a class should only be modified to correct errors. • Changes or new features require that a different class be created (Interfaces)
+Implementation of a class should only be modified to correct errors. 
+Changes or new features require that a different class be created (Interfaces)

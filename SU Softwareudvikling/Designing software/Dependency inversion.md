@@ -13,3 +13,5 @@ Abstractions should not depend on details. Details should depend on abstractions
 Must haves / trademarks:
 	• Loose Coupling 
 	• Dependency Injection / Inversion of Control
+
+**Clients should depend on interfaces (abstractions) rather than concrete implementations**

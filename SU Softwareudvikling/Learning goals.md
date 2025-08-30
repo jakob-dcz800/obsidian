@@ -102,7 +102,6 @@ Formal Specification - Techniques for the unambiguous specification of software
 * Understand difference between code walks and (formal) code reviews
 * Can conduct simple code review in a group  
 * Understand the importance of code reviews for industrial software quality
-
 ## B4-08 Software Development Lifecycle
 • To introduce the general phases of the software (development) life cycle 
 • To survey the main types of model, 
