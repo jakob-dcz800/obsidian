@@ -1,6 +1,12 @@
+formulas:
+  File path: "[[file.asLink()]]"
 views:
   - type: table
     name: Table
     filters:
       and:
         - file.inFolder("SU Softwareudvikling")
+    order:
+      - file.name
+      - file.path
+      - formula.File path

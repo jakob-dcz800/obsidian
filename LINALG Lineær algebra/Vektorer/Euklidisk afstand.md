@@ -1,6 +1,6 @@
 # Euklidisk afstand
 
-Afstanden mellem spidsen af to vektorer
+Afstanden mellem spidsen af to [[Vektorrum|vektorer]]
 ## Definition
 
 ![[Pasted image 20250511164654.png]]

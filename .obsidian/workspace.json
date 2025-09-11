@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "334fd3f35c3e0a3c",
+        "id": "cfe1052b148d7ac0",
         "type": "tabs",
         "children": [
           {
-            "id": "8089de31c3694833",
+            "id": "edf830b35d776e8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompSys Computersystemer/Bøger.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bøger"
-            }
-          },
-          {
-            "id": "2b409ba69b77659f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arithmetic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,157 +79,7 @@
   "right": {
     "id": "7305112d2ee5dcb1",
     "type": "split",
-    "children": [
-      {
-        "id": "297bf862217ba9c1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "84635ea8c3d9f352",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "SU Softwareudvikling/UML/Sequence diagrams.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Sequence diagrams"
-            }
-          },
-          {
-            "id": "ee0036bfc3ad13eb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "SU Softwareudvikling/UML/Sequence diagrams.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Sequence diagrams"
-            }
-          },
-          {
-            "id": "b197c9c75195065e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "LINALG Lineær algebra/Aflevering/C.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of C"
-            }
-          },
-          {
-            "id": "91295b56e5c16c62",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e5204c782c6e446a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "32eeb3c962eaebc4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e9bf81ba1cfe8f72",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "10491b68ceb78efa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "da51127b3f57bc05",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "0c3f505f8ddb631e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "12c773664c0fe54b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5eb57b3fae6d1b61",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
-            }
-          }
-        ],
-        "currentTab": 6
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 380.5
   },
@@ -259,56 +94,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b409ba69b77659f",
+  "active": "edf830b35d776e8f",
   "lastOpenFiles": [
-    "CompSys Computersystemer/CompSys.md",
-    "CompSys Computersystemer/Bøger.md",
-    "CompSys Computersystemer/Functions and text",
-    "CompSys Computersystemer/Computer arithmatic",
-    "CompSys Computersystemer/Assembly and machine code",
-    "CompSys Computersystemer/Intro til C",
-    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Bøger.md",
-    "SU Softwareudvikling/Testing/Testing.md",
-    "SU Softwareudvikling/Exam/Slides.md",
-    "SU Softwareudvikling/Software management/Software Development Lifecycle.md",
-    "SU Softwareudvikling/Design patterns/Design patterns.md",
-    "NOTE.md",
-    "Abstract State Machine Model.md",
-    "lexical closure.md",
-    "SU Softwareudvikling/Exam/Exam notes.md",
-    "POP Programmering og problemløsning/Terminology.md",
-    "CompSys Computersystemer",
-    "POP Programmering og problemløsning/downcast.md",
-    "Overblik.base",
-    "MASD Matematisk analyse og sandsynlighedsteori i datalogi",
+    "DMA Diskret matematik og algoritmer/Diskret matematik/Hele tal.md",
+    "DMA Diskret matematik og algoritmer/Diskret matematik/Serier og sæt.md",
+    "DMA Diskret matematik og algoritmer/Diskret matematik/Relationer.md",
+    "DMA Diskret matematik og algoritmer/Diskret matematik/Rekursionsformler.md",
+    "DMA Diskret matematik og algoritmer/Diskret matematik/Matricer.md",
+    "DMA Diskret matematik og algoritmer/Diskret matematik/Logik og beviser.md",
+    "DMA Diskret matematik og algoritmer/Diskret matematik/Kombinatorik, tælleproblemer og sandsynlighed.md",
+    "DMA Diskret matematik og algoritmer/Diskret matematik/Matematiske beviser.md",
+    "CompSys Computersystemer/Assembly and machine code/RISC-V.md",
+    "CompSys Computersystemer/Assembly and machine code/Memory and registers.md",
+    "CompSys Computersystemer/Assembly and machine code/Byte ordering.md",
+    "CompSys Computersystemer/Intro til C/Show Bytes.md",
+    "CompSys Computersystemer/Computer arithmetic/Floating points.md",
+    "CompSys Computersystemer/Computer arithmetic/Numbers.md",
+    "CompSys Computersystemer/Intro til C/Types.md",
+    "CompSys Computersystemer/Intro til C/C language.md",
+    "CompSys Computersystemer/Intro til C/Unions.md",
+    "CompSys Computersystemer/Intro til C/The compiler.md",
+    "CompSys Computersystemer/Intro til C/Strings.md",
+    "CompSys Computersystemer/Computer arithmetic/Floating point operations.md",
+    "CompSys Computersystemer/Intro til C/Expressing computations.md",
+    "CompSys Computersystemer/Intro til C/Operations.md",
+    "CompSys Computersystemer/Intro til C/Abstract state machine.md",
+    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Functions/Grænseværdier.md",
+    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Functions/Epsilon-delta teknikken.md",
+    "LINALG Lineær algebra/Matricer/Potenser af diagonalisérbare matricer.md",
+    "Assets/Pasted image 20250908215537.png",
+    "Assets/Pasted image 20250908215336.png",
+    "Assets/Pasted image 20250908215326.png",
+    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Integration",
+    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Optimization",
     "SU Softwareudvikling/Index.base",
-    "SU Softwareudvikling/Design patterns/Abstract factory.md",
-    "SU Softwareudvikling/Object oriented analysis and design/Object oriented analysis and design.md",
-    "SU Softwareudvikling/UML/UML Basics.md",
-    "SU Softwareudvikling/Software management/Agile development.md",
-    "Assets/Pasted image 20250617224507.png",
-    "Assets/Pasted image 20250617223925.png",
-    "Assets/Pasted image 20250617221105.png",
-    "SU Softwareudvikling/UML/UML Terminology.md",
-    "Assets/Pasted image 20250617193830.png",
-    "SU Softwareudvikling/Object oriented analysis and design/Object oriented design.md",
-    "Assets/Pasted image 20250617150931.png",
-    "index.md",
-    "POP Programmering og problemløsning/POP.md",
-    "LINALG Lineær algebra/Aflevering/Eksamen 2018.md",
-    "LINALG Lineær algebra/Aflevering/Eksamen 2024.md",
-    "LINALG Lineær algebra/Cayley–Hamilton’s sætning.md",
-    "Assets/Pasted image 20250616124918.png",
-    "LINALG Lineær algebra/Aflevering/C.md",
-    "LINALG Lineær algebra/Aflevering/Eksamen 2020.md",
-    "Assets/Pasted image 20250616123954.png",
-    "Assets/Pasted image 20250616123941.png",
-    "Assets/Pasted image 20250616123928.png",
-    "Assets/Pasted image 20250616123843.png",
-    "SU Softwareudvikling/Exam",
+    "Assets/Pasted image 20250908135849.png",
+    "Assets/Pasted image 20250908135616.png",
+    "Assets/Pasted image 20250908125719.png",
+    "Assets/Pasted image 20250908125326.png",
+    "Assets/Pasted image 20250908125203.png",
+    "Assets/Pasted image 20250908125027.png",
+    "Assets/Pasted image 20250908124955.png",
+    "CompSys Computersystemer/CompSys.base",
+    "DIS Databases and Information Systems/SQL",
+    "DIS Databases and Information Systems",
+    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Derivatives",
+    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Functions",
+    "Overblik.base",
+    "CompSys Computersystemer/Functions and text",
     "Untitled.canvas",
     "Untitled 2.canvas",
-    "LINALG Lineær algebra/Komplekse tal",
     "Untitled 1.canvas"
   ]
 }

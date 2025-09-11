@@ -71,6 +71,8 @@ There are no literals for memory references in F#.
 ### Literal
 In computer science, a **literal** is a textual representation (notation) of a value as it is written in source code.
 
+### Expression
+These are code snippets that compute a value based on other values
 ### Function
 
 ### Function value
@@ -100,7 +102,7 @@ Types define valid input and output to a function
 A type denotes a set of values; e.g.  
 	`int`
 	`int list`
-A type is not an object that is stored in memory at run time.  
+F# (and probably more): **A type is not an object that is stored in memory at run time.** 
 	A type is not value.  
 	Types and values are different “kinds of things”.  
 	Values are elements of types.  

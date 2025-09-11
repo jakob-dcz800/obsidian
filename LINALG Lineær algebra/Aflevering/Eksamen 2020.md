@@ -11,7 +11,7 @@ $$
 \end{array}
 \right]
 $$
-Vi bringer på echelonform:
+Vi bringer på [[Rækkeechelonform]]:
 $$
 \left[
 \begin{array}{ccc|c}

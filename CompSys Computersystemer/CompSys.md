@@ -1,2 +1,0 @@
-
-[[CompSys Computersystemer/Bøger|Bøger]]
