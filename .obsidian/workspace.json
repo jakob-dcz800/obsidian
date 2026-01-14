@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cfe1052b148d7ac0",
+        "id": "b49d00aa8dc2074a",
         "type": "tabs",
         "children": [
           {
-            "id": "edf830b35d776e8f",
+            "id": "b3e70489c699e00b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CompSys/Operating systems/Concurrency/Deadlock.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Deadlock"
             }
           }
         ]
@@ -29,6 +34,7 @@
       {
         "id": "a930830c16e2e580",
         "type": "tabs",
+        "dimension": 71.9406674907293,
         "children": [
           {
             "id": "6fee564b4682444f",
@@ -37,31 +43,14 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "556a6deb6509f8f6",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "arithmetic",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "40aff0a7b0b4ec93",
+            "id": "60587bfd3cc9993a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -71,77 +60,777 @@
             }
           }
         ]
+      },
+      {
+        "id": "5774a816c727823b",
+        "type": "tabs",
+        "dimension": 28.059332509270707,
+        "children": [
+          {
+            "id": "42a405c0ad7d9490",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CompSys/Operating systems/Concurrency/Deadlock.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.08255208333333,
+                  "lineSizeMultiplier": 1.51640625,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Deadlock"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 254.5
   },
   "right": {
     "id": "7305112d2ee5dcb1",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "b60dca5f3aadf0e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59428a3582d72e26",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "e2faa8369a224e04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LINALG Lineær algebra/Vektorer/Norm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Norm"
+            }
+          },
+          {
+            "id": "ee622bff832f9568",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LINALG Lineær algebra/Vektorer/Norm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Norm"
+            }
+          },
+          {
+            "id": "d5891f6f063aaf1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LINALG Lineær algebra/Vektorer/Norm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Norm"
+            }
+          },
+          {
+            "id": "24ae43bd34c2196f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7a8d1d5d393c7157",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ec3e07240554a3af",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "347147dbad06558b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "61882392dba4dfdf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9c7f9d3c73a422d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "826204c40c34fa47",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a2fc8e326c9bc9fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c98cf6f7114650ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e16c18c365c7dac3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f7c183a34b82b1fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3776e1f43a58fac1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5510b85dac02f7c7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3410a9a4ae133062",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "eb5f6dbcaa837d90",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0ba0214315559b91",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "888899deb40af9d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f97c5c4863bdda45",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9d29e4f9035d7808",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c914e2a18251e864",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2cc7e6a7fe6de19e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "49eeb119861604e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "82bca535ee7f11b7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "16601533483f20bb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7c9c8f893a3716d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "73bea63b51897281",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a99a90ecbf7ac436",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2de444c9517b7346",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b62cb0ba06507ba7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4df7ae58932ca9d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b7e878382294a3dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6c5b3f3a32e3b091",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1c65c351498afaa8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0998315fdff7bab5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "839c7a0a38cee00b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c540422534b75ddf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bee1fbfdebe87584",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b8f49f356fadac46",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "fcab73c940b0d7f4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "317617159defd375",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "979e6cf00208f761",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9bbabf18c019ebc4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9d2a61e9b30f3522",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "25eb753a9fca5c67",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e684066819534ca3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "348517ffb4ac290e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2f079fbecaddb2be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bd4668107f381590",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7da2f411eccfb2c7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c0c8128f679e06d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "14d491fae09a9b4b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0a4bc03320aa2c05",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d3c0eaed4299c332",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3a6cbe7bd14bfae4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "55cf0232b2ba3cd5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d4959ae2e3208171",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "98abf784c576fa2b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5d95eb62dbe04d50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ac23ad51e9d8e091",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          }
+        ],
+        "currentTab": 62
+      }
+    ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "edf830b35d776e8f",
+  "active": "ac23ad51e9d8e091",
   "lastOpenFiles": [
-    "DMA Diskret matematik og algoritmer/Diskret matematik/Hele tal.md",
-    "DMA Diskret matematik og algoritmer/Diskret matematik/Serier og sæt.md",
-    "DMA Diskret matematik og algoritmer/Diskret matematik/Relationer.md",
-    "DMA Diskret matematik og algoritmer/Diskret matematik/Rekursionsformler.md",
-    "DMA Diskret matematik og algoritmer/Diskret matematik/Matricer.md",
-    "DMA Diskret matematik og algoritmer/Diskret matematik/Logik og beviser.md",
-    "DMA Diskret matematik og algoritmer/Diskret matematik/Kombinatorik, tælleproblemer og sandsynlighed.md",
-    "DMA Diskret matematik og algoritmer/Diskret matematik/Matematiske beviser.md",
-    "CompSys Computersystemer/Assembly and machine code/RISC-V.md",
-    "CompSys Computersystemer/Assembly and machine code/Memory and registers.md",
-    "CompSys Computersystemer/Assembly and machine code/Byte ordering.md",
-    "CompSys Computersystemer/Intro til C/Show Bytes.md",
-    "CompSys Computersystemer/Computer arithmetic/Floating points.md",
-    "CompSys Computersystemer/Computer arithmetic/Numbers.md",
-    "CompSys Computersystemer/Intro til C/Types.md",
-    "CompSys Computersystemer/Intro til C/C language.md",
-    "CompSys Computersystemer/Intro til C/Unions.md",
-    "CompSys Computersystemer/Intro til C/The compiler.md",
-    "CompSys Computersystemer/Intro til C/Strings.md",
-    "CompSys Computersystemer/Computer arithmetic/Floating point operations.md",
-    "CompSys Computersystemer/Intro til C/Expressing computations.md",
-    "CompSys Computersystemer/Intro til C/Operations.md",
-    "CompSys Computersystemer/Intro til C/Abstract state machine.md",
-    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Functions/Grænseværdier.md",
-    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Functions/Epsilon-delta teknikken.md",
-    "LINALG Lineær algebra/Matricer/Potenser af diagonalisérbare matricer.md",
-    "Assets/Pasted image 20250908215537.png",
-    "Assets/Pasted image 20250908215336.png",
-    "Assets/Pasted image 20250908215326.png",
-    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Integration",
-    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Optimization",
-    "SU Softwareudvikling/Index.base",
-    "Assets/Pasted image 20250908135849.png",
-    "Assets/Pasted image 20250908135616.png",
-    "Assets/Pasted image 20250908125719.png",
-    "Assets/Pasted image 20250908125326.png",
-    "Assets/Pasted image 20250908125203.png",
-    "Assets/Pasted image 20250908125027.png",
-    "Assets/Pasted image 20250908124955.png",
-    "CompSys Computersystemer/CompSys.base",
-    "DIS Databases and Information Systems/SQL",
-    "DIS Databases and Information Systems",
-    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Derivatives",
-    "MASD Matematisk analyse og sandsynlighedsteori i datalogi/Functions",
-    "Overblik.base",
-    "CompSys Computersystemer/Functions and text",
+    "CompSys/Operating systems/Concurrency/Concurrency.md",
+    "CompSys/Operating systems/Concurrency/Threads.md",
+    "CompSys/Operating systems/Concurrency/Starvation.md",
+    "CompSys/Operating systems/Concurrency/Deadlock.md",
+    "CompSys/Assembly and machine code/Memory and registers.md",
+    "CompSys/Operating systems/Memory hierarchy.md",
+    "CompSys/Operating systems/Addressing.md",
+    "CompSys/Intro til C/Pointers.md",
+    "CompSys/Hardware/Memory hierarchy.md",
+    "CompSys/Operating systems/MMU.md",
+    "CompSys/Operating systems/Operating systems.md",
+    "CompSys/Operating systems/Page table.md",
+    "CompSys/Operating systems/Virtual memory.md",
+    "CompSys/Intro til C/Abstract state machine.md",
+    "Regneregler.md",
+    "MAD/Exam/Exam calculations.md",
+    "Assets/Pasted image 20260113181148.png",
+    "Assets/Pasted image 20260113174008.png",
+    "SU/Exam/Slides.md",
+    "MAD/Statistics/MLE.md",
+    "MAD/Exam",
+    "MAD/Statistics/Maximum likelihood estimation.md",
+    "Assets/Pasted image 20260112155853.png",
+    "CompSys/Assembly and machine code/RISC-V.md",
+    "CompSys/Assembly and machine code/Byte ordering.md",
+    "CompSys/Assembly and machine code/Basic operations.md",
+    "CompSys/Hardware/Exam questions/Exam questions.md",
+    "MAD/Statistics/Hypothesis testing.md",
+    "MAD/Statistics/Bayesian learning.md",
+    "MAD/Statistics/Bernoulli distribution.md",
+    "Assets/Pasted image 20260108185937.png",
+    "Assets/Pasted image 20260108184841.png",
+    "Assets/Pasted image 20260108184705.png",
+    "CompSys/Hardware/Exam questions",
+    "Assets/Pasted image 20260108182026.png",
+    "Assets/Pasted image 20260108182008.png",
+    "Assets/Pasted image 20260108181957.png",
+    "Assets/Pasted image 20260108181759.png",
+    "Excalidraw/cache.excalidraw",
+    "Excalidraw/cache.excalidraw.crswap",
+    "PD",
+    "AD",
+    "DIS",
+    "IPS",
+    "MAD/Statistics",
+    "MAD/Regression",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

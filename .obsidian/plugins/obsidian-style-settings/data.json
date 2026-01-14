@@ -30,7 +30,7 @@
   "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
   "anuppuccin-theme-settings@@anp-table-toggle": true,
-  "anuppuccin-theme-settings@@anp-table-auto": true,
+  "anuppuccin-theme-settings@@anp-table-auto": false,
   "anuppuccin-theme-settings@@anp-table-th-highlight": true,
   "anuppuccin-theme-settings@@anp-table-align-th": "left",
   "anuppuccin-theme-settings@@tag-border-width": 2,
@@ -57,5 +57,7 @@
   "anuppuccin-theme-settings@@anp-latex-inline-color": "anp-latex-inline-sky",
   "anuppuccin-theme-settings@@anp-latex-block-color": "anp-latex-block-sapphire",
   "anuppuccin-theme-settings@@anp-hide-external-link-icon": false,
-  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-rosewater"
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-rosewater",
+  "anuppuccin-theme-settings@@anp-table-align-td": "left",
+  "anuppuccin-theme-settings@@cards-image-height": "300px"
 }

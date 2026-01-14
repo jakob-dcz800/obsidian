@@ -65,18 +65,10 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "K"
+      "key": "P"
     }
   ],
-  "editor:insert-link": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "K"
-    }
-  ],
+  "editor:insert-link": [],
   "app:go-back": [
     {
       "modifiers": [
@@ -172,6 +164,33 @@
         "Shift"
       ],
       "key": "D"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
     }
   ]
 }

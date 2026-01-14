@@ -1,3 +1,0 @@
-## Operand
-
-The object of a mathematical operation, i.e., it is the object or quantity that is operated on.

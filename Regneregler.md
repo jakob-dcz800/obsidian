@@ -1,109 +1,157 @@
+---
+tags:
+  - Math
+---
+
 # Brøker
 
 #### Forlænge brøk
-
-![](https://regneregler.dk/wp-content/uploads/2024/07/broek.png)
-
+$$
+\frac{a}{b}=\frac{a\cdot c}{b\cdot c}
+$$
 #### Forkorte brøk
-
-![](https://regneregler.dk/wp-content/uploads/2024/07/forkort.png)
-
+$$
+\frac{a}{b}=\frac{a:b}{b:c}
+$$
 #### Lægge sammen
-
-![](https://regneregler.dk/wp-content/uploads/2024/07/broek-sammen.png)
-
+$$
+\frac{a}{b} + \frac{c}{d}=
+\frac{a\cdot d+c\cdot b}{b\cdot d}
+$$
 #### Trække fra
-
-![](https://regneregler.dk/wp-content/uploads/2024/07/traek-sammen.png)
-
+$$
+\frac{a}{b}-\frac{c}{d}
+=\frac{a\cdot d-c\cdot b}{b\cdot d}
+$$
 #### Gange
-
-![](https://regneregler.dk/wp-content/uploads/2024/07/broek-gange.png)
-
+$$
+\frac{a}{b}\cdot \frac{c}{d}
+=
+\frac{a\cdot c}{b\cdot d}
+$$
 #### Dividere
-
-![](https://regneregler.dk/wp-content/uploads/2024/07/broek-dividere.png)
-
+$$
+\frac{a}{b} : \frac{c}{d}
+= \frac{a}{b}\cdot \frac{d}{c}
+=\frac{a\cdot d}{b\cdot c}
+$$
 #### Kvadratrod
-
-![](https://regneregler.dk/wp-content/uploads/2024/07/kvadratrod.png)
-
+$$
+\sqrt{ \frac{a}{b} }
+= \frac{\sqrt{ a }}{\sqrt{ b }}
+$$
 #### Heltal
-
-![](https://regneregler.dk/wp-content/uploads/2024/07/heltal-broek.png)
-
-<div style="page-break-after: always;"></div>
+$$
+a=\frac{a}{1}
+$$
+---
 # Rødder og potenser
 
-|   |   |
-|---|---|
-|Regel|Forklaring|
-|![a^n=a*a*...*a](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT0AAAAxCAYAAACoLn5SAAAEuUlEQVR42u2dXahVRRTHJ+9NoxIzIntIkx4s8KOSSokiQjE08sGiyEjBfInQF0Gph1DRIEmKIA0pocigh6wIxQ8qvWnhFb8woa4RoSkl5oNhKaa2hlmXu9q5z93nePe+Z878fvCHe86sdebMrMWc2XvPzHUOAAAAAAAAAAAAAAAAAAAAAAAAAFqBsaKtov2ibaJRpmyK6BN9v1N0UPQCXQYAsXKdDmYjRO2iE6JDoqtEb4lWim429ktFlxj4ACBWXhQtMq+7dFDzs7tZl7G/W8t30XUAECM7RMPNrO8fHdRez7G/X8t/pusAIDYGibab11N0QPOXuNfk+MxVm810HwDESLv5+zUd0NbVsF+nNi/TdQAQO3t0QHs+p/xq0Sm1GUd3AUDM3Ci6oAPabTk2j2r5YboLAGLnSR3QumrYfKg2S817A11Y3gIAEBWrdUB7J6f8etEZtbGLl9e4sIwFACAqDuuA9nRO+Uwt7zTv+SUuB0QD6D4AiInhOqBddP/dfWFZpjavmPf8E9y5dB8AxMZTOqAdqGEzXW3m6etpoi+Y5QFA1dwpekMvO/1ykqOiz0Xjjc0Q0bAan/GQ6LjouV7qWiz6SfSNaJUL9/mgmhjRTkg+B25w4WmqvyT9TvSwqE1nXv5J7DHRJBd2WfzlwvayB4hJpaQSI3IRSs+Bu0RH9HLzIxeWjWR5TPSraK/aXdLLWKiGVGJELkLpOeArOKlOHS7skshju6nA69Ym77yvXM+BB1XJ1/d1CUnQqjFKsZ3Qjzngr4N/U4c/Xc/pKHksNBV0RdCB/j6hv2f4S4Xy9b3bh21o9Ril1k7oxxzwux42GafFBXyWGftVxKh0UokRuQiV5MBs43BWdFMBn2+NzwziVDrNFqPRop0u7KTZ6ML+atqZFtHmQJtehnU7rC9QwWDRebX3BwkMJf6l0owxOpi5h/I27UyOaHPgicwXn1mgkseNfSexL51mi1Gb6zk1p1u7aGdyP8TR5sD7xuFiwankm8bnVeJfOs0Yo92Z5HyPdiZHtDlw3DjsK/jFvjc+k4l96TRjjMa48G89/ZO1T/vofk4q7WwVosyBQZmRenWBCoYZ+3Oia4l9qaQSI3IRKsmBEZlK5hSo5Flj33GZ8mb9JfTr5apep+eP1LrSm7upxCilXIR+zIGRmUqK7Fdba+yXZMruE/3YpB26zf3/xmsVOzK+vMLvnUqMUspF6Mcc8NPJ88bp9l4q8E9sjhn7RzLlK1zYHwd9O+VPIUbkIlSWA3ZR3x29VDLf2PpZU/b4px9EzxC7PieVGKWWi2O0zUUX99Zr36hPy+fAHOM4tUYFfi3MKWN7JFP+oOi04xy8MkglRqnl4iFX3+Leeu0b9Wn5HPBTxJ3q+EFOBX609Jt/J7hwyKe3PZqx2SJayfhUCqnEKKVcrHdxbyOLgWNcXF1ZDvgTDLrXuiwQtbtwQN89ek3s1+KMVtt7RX+r7UQXzrda7sLJBoMZn0ojlRillIudrr7FvfXaN+qTTA74aeBL+oG/u3CDsEOnm9mD+/zxzBtEf6jtx6JbGJdKJ5UYpdJOu7j3M1fsnl499o36kAMAAAAAAAAAAAAAAAAAAAAAAAAAUBf/ArTGU6ujo/2oAAAAAElFTkSuQmCC)|an er a gange med sig selv, n gange|
-|![a^{-n}=frac{1}{a^n}](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoAAABtCAYAAAAWNXtmAAAFE0lEQVR42u3df4gVVRTA8auuKf4gFcsg3SQog3S1KBOpJIwkxf4wU1JKUP8RyX+MIv9IExOMoghaQyQoUgkxUBEsSd01ixa1RAVdI0RNUso/KlMx3c5tzuNdx+a9id33vHfu9wMH3DdnWPd4nDdv5u4ZYwAAAAAAAAAACEZfiS0SpykFimqSxCGJDg0geH0khkk8LrFUYp/T4DQ6CnPkLjXznxItEi9LHKfRUST9JO6RuC31+g80OmJAo4NGB2h0gEYHaHSARgdodIBGB2h00Og0Omh0gEYHaHSARgdodIBGB2h0gEYHjU6jg0YHaHSARgd8cTDV6N0oCYro51Sj30lJ/r9REjv07XG3xL3OtqckNunrbSaZ/7eAktXUSIkmiUcknpPYaG4cSWf/PV40ydi6MbrPSEqXra82cKNEg8Q5iSP61vi+xDsStzv5y7XQNHvtdHQikGGhxKvO1+1asE16xEgbo9u/o3Q1M1RioEmGjfbSA1B357y8m37doNv7aP5QSpfta5NMbi0d3f/WRn47I3+sbv+J0iEU9mjQkjof79DTl94Z+8zXnC8oH0LS4Px5lTbxugr56zRnCaVDVxohcdgkj/PobNiB8gMqfK/92sTzMrb3lDivOU380yBEgySuahPflZFTGlJ/nHIhVNO1idsr5HyqOcud124x3KVDQFZrE3+Ysd0+ieGC5rg3lNaY5JIjEITSM3JmZmyfpdvbnNfs5Ui7BqM75UMIhmkTXzPX3wV1rdCc153X7JWX+ZQPoZihTXywQs4zmvOSfj1ZYitHc1j3Sbyrb/f2stwpic0SDzo5t0oMucl/z8ckzki8UCVvmcSPEnskmvW8HREboFco7KnAtxITJHro0c9e3bBLLiea5E7kXya57T6esiEkoyVO6tv8epNcfkubYpIbOAdMedXZDEqHkJr8V23cVpPcSczSYq5fXsnKM2N2mvKisnqF/X67KH1+9jz7Fy3eH6a8IjDLK06x2ynfv5r1M8CJOob9fmspfT72zuB2p3GX5dhnhZPfTAkRgjlO016SGJxjn2+cfaZRQviuh779lZr28xz79Je4ovl2IdVAylg4H0tsCCgaq/1Az6Y+3MzKUYSpTn4bPVFIF+r8obqz0ZTnf24p+VrO05b3nH1W0hOFZCcrjA4oelf7gc44Tft9ziIcdvZ5kp6A73qlDv+rc+wzxMm/bJLf4Aa81phq9Lk59pnt5Lf+x/ZBEddzran/dXS7PPkDWrmy4alGz7Ne5SMn/43UtocljkVcz92m/Ot89bwz+hWtXP3U5YpTtLur5NtLke4MvSdS298yyfoYwDvujZ8RVXIXObn2yJVe5npU4nlKCh/NdZr36Qp59tr5eSf3ZGr7oxK/G9Z4w1P2dGSvNu8nGTn2KG0XfNnpqHs091Qq50uTDPQEvGVXKpaujS825aGQD+g5tx3HfL/mPiRxUXPHmWS9+psmWcHYn1LCd/aU4zVt6rP6obNVT23Sv3xhf5Vum8RvmvuZxB2UEAAAAAAAhIAHraHweNAaosCD1hAFHrSGwuNBa4gGD1pDdHjQGrzVVWPFedAavNTVY8V50Bq8U4ux4jxoDd41eS3GivOgNXijVmPFedAavFHLseI8aA3eqOVYcR60Bi8wVhxRYKw4osBYcUSBseIoPMaKIwqMFUcUhhvGiiOSUxfGiiMKjBVHFBgrjigwVhzRYKw4osFYcQAAAAAAAAAAAITnH5SL/lmsVtWPAAAAAElFTkSuQmCC)|a-1 er det samme som 1 divideret med an|
-|![a^0=1](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH4AAAA4CAYAAAA7Ikz5AAAEFElEQVR42u1cbWhOYRh+Zl/12nwsovZOWokYRkSIfDS0pIyVj6j9Q/GDyC/UTK3EHyMtGZr5LJp8FLYJWWa0/WAkbSbEhPkcm/vu3K89O73ec8y8znO6rrp+7D3Xc5/zPtf7fN9nSgEAAAAAAAAAAAAAAPweQWIh8TqxlnibWEqci6rxL7KIrcQLxGHyWRxxCfGV/ADiUU3+Ahv9hVgjZtsxmviNeAhV5S+UEzuI2RE0JaKZg+ryB9KJ7cTPxMQIulwxvhxV5g+sF0PrHXRjRddG7I1qMx9lYmiFgy5VdMzZqDbzUeOyC++jGb8W1WY+XoiZpx10CZrxhag28/FRzDzhoIvVjD+AanMFngudIz7z4sP9EDPLHHQxmvFH4KkjeLezTqszz+FrN1r8YfjaBQFiGnE6cSvxjlZXnjX+rTzYqT8Y4/fD6y4tO1QvvOVdSdxIfOR14xvkwc476PppX2In/P6FJGVteQ+0fX7P68ZfcrmOD2pfYjX8doTnjS+UB6tz0GVqX2IqfDXf+HnyYO8cdAtF90lF3tMHDDE+XtaZ/HAjI+jyRXMUnvrDeMYah0lbL5kEtqrOJA3AB8bz5swxZR3Nhhu/C4jfiSvgp3eMH0HcTawmthCbiGeJ4zVNX+IghzicebNDxvoiYg5xpbJSsZ7IXADwgPH9ZLzlJIpbxBnK2l3jbnkxsVlZx6dZMiHjFjvFRdwU4lLiZhkCZklMwAPGc1JEowTkJMiEMJpsmbTd1W6eCz/MNZ5Nfy3BqlTkzNdK282DHqygq9IbdUSRfL9rJhnP43To/PyDsg4GImGTduMGj7YMnk88Jj6NIvl+xaYYzzPvi1qgbS7K5Gv6IvS+Znb1q7QgnAM/wEWZm1qZRfDCPONjpXsKBTnjokyysjJiWc/JFv3hhXnG59iCLHNRZoGmr4YPZhpfogVod9nN79HKFMAHM41/rgWodVmmXiuD154MND7RFmCfy2VfSM85dQH4YJ7xQ2wB8lyUWa7pq8JcT/FQBRX/h3U858Pt9brxQ20B3Oy3H9T0223XJhIfesj4CtWZ4h3NnbsrJnT1bVqAdBdLv2ZNP9N2nVOtStETmzG50zdihjto12labklJtusPlHX6BhhgfJ4WYL7D2r1F0zbark8jvg/zYwB6Hvdtxsd0Jwh33zdU5LdYuBXzAc4kZf3zItY22TSXibvgSVTQbDM+tbuB0rS1+QZlZcxwgsQ4GbO5axkl2gnKSqNi7WRlnddzdg2f0CXDkx5HBnGMNDr+Z1Enw0woeRLLGU38mlWmlMlwewPuoreIyS/lV1UlQ4E9GYNTr/jtmDeiPU4cDI/+Cf5mhQEYDE5w4UOwgKzCQr1xaFyPkb/j5HpA9EFUHQAAAAAAAAAAgG/wE34V5sQqkTBxAAAAAElFTkSuQmCC)|a0 er pr. definition altid 1|
-|![a^n*a^p=a^{n+p}](data:image/png;base64,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)|To ens grundtal og forskellige eksponenter, ganges sammes  <br>ved at lægge eksponenterne sammen.|
-|![a^n:a^p=a^{n-p}](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ8AAAA2CAYAAADZLRzvAAAFoElEQVR42u2de4hUVRzHT1puVJIt4fZHmvSyqKzsSQ8iiqKighIlowTTPzIyoigqEBOLiqQIWqNEKjSIMpQoKkvdLTddeiga1VoSpvZeerA90Hb7/bq/cc7cmXvnUnN353g/H/jBzJzfnXvme75z59x7zrnjHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANTkJImVEhsk1kgc65VdIrHMXu+W2CRxM5IlMl6iw7TskjjRXm+RuM907DAdZyEXHg/ZSweaYGMl9pX4XuITiX0knpBYIDHay58nMcABpCaq33oz5jCJrRZtEqslbjRdlXMl/pZ4ENnweKheukXibu95jwm3zCoY5xQrX48nq5gi8ZD3vMu02mS/fHHes0Y/HOnweIhe0p2O8Y7Qu62Sjybkn2nlW/FkFa/FGvZb02pSQv5SK78d6fB4aF5qsXMm/9xvwLp1+ydsM8Ny3sSTVXR7j482nX6xLmgtVljOYqTD4yF6ya/Mw1aBpSn5pSPcvfiyiv28xzNNpxUp+Z9azvNIh8dD99KHVoGbUj5Qr+VMwJOpvGA6zU4oP1ii33K4aBqWx3UUZLPE9gbEBxKjQvdSq11w0QockZBzqZVvwYN12WlanZBQfrWVa1yMXHg8ZC9Nsp33pOQssZx53msjXHnICCKON52+SclZZDnbYl1UwOPBeWmhVeCphPKDJPosx59g87SLhragzCzTaUmKlj9bzkzkwuOhe2mLVWBKQvlUK/evAuuw10YXTWKBMi+ZVncmlM+x8tfpteHx0L00xiqgF11GJ+TMt5w53mt6NXoGnqxAG/AH0+rlGuWnSfxhhmxFLjweupcmWwU3puRcZTm32vPLJV6l11HFBNPpaxcN+fmTevRils4veEviUKTC40PtpeMkHrOuVq/tSMeDJ3o5OpTTlvIe57voiu4NdfY1V+ILiXcl2u18q9HohJhVdu75vj0fDBqho3KbNfizEgdIPOOiSUo61XmlmZhTlWJ7PCu5eWmUXUTpty/ZBRLD7SipR6gdEhe5aEbd7y6akntOAEZZ58rDTgOucnZgHjRax+VW72l855uubUIjFy+d7KJhGX1jnUAyokbOFS6ahPKR90WcHIBgfbGDR1+O+2q0jsNceYLROL77ePx/kIuXVNQf7U07Xfq4bkfsixjC6s1VsTqvy9GcjdZxopVvHyLddsfqmXfo/lYH0jah0XAv6TldaXXdb668UjCJuzxRewIR7SjrovaZMY/JYR956XiHS74ynjftdq7+1SCG7m9RIG0TGg31kl4YecMTam6GbeZ7+e30hHPVUd/3bVc9OxHw+H/RoaFemuaJ9KfLNjzT5W1zDd7MTUddyfill6O/mGtd5XwBwONZaLiXhlsXsfSGr2TYZqTELsvXxUCH4E10pG2Kx7Wu8qLQ1AzbXOnldyMhOtI2xeQ5T6T+jN25x71tuF8EOtI2BWWnJ9LHGbfZ7LhfBDrSNoWmJdadW5hhmzYv/y8XTW1FR3SkbQrG2Jiw0zNsc72X31mjvBUd9zoddb7FYM/z0CXuT9I2zcu4mLBZ5u4v9vLvj5WdIfE5Ou51Oq5x5VvsDeYM03dom+bu0u3yhDqyTr4Oee3w8i+MlT/iorUC6IiOtE0B8CfCjK+TO9vL1V+i+JLizySua+LPmueS/CLpiMfhX6Z7Yl2Wkqfj3r1e7rZY+XkSv7qhvUdBPfJckl8kHfE47OmmrXXpf+qiR1pdUHSWi25kUroDkY/edWhBk3/WPJfkF0lHPA570NWFpXFtXXGn/4Kla/5PtfO7Da78vw6nu+jehpp7tovuhfCAi1Ydjmzyz5n3kvyi6IjHoQLtit1jIn5nF406rcsXv1mK3g9A/yz3J8t9UeKwAD7jYCzJL4KOeBwAAAAAAAAAAAAAAAAAAAAAoMn5B57DgXc/Le6CAAAAAElFTkSuQmCC)|To ens grundtal og forskellige eksponenter, divideres med hinanden,  <br>ved at trække eksponenterne fra hinanden.|
-|![a^x*b^x=(a*b)^x](data:image/png;base64,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)|To potenser med samme eksponent og forskelligt grundtal  <br>som ganges sammen, ganges sammen ved at man ganger grundtal  <br>og opløfter til potensen.|
-|![(a^n)^p=a^{n*p}](data:image/png;base64,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)|En potens, som er grundtal for en anden potens,  <br>ganges de to eksponenter sammen.|
-|![a^{frac{1}{2}}=sqrt{a}](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKsAAABICAYAAACJOAU1AAAFwElEQVR42u2da4hVVRTH19TUVMz0rolQsz400hSlFEYE0vtpSS/IqGgiG5CiiITqQ2lW0IMsciTSiV5WSmZBMFM0lZGSH0wG7f1CG7XsMRU9NNPW4qzd7HvuuXf2Pefeffbl/n/w/zJ373M8a//PPvusvfeRCAAAAAAAAAAAAAAAAEC9czTrPtbnCAUIkd1YS1kvsG5i7WJtQVhAPQCzApgVAJgVwKwAwKwAwKwAZgUAZgVV4iLWJtYAq9+DZsKsIA0tatR/tO186AmYFaThRm2zp1ljPekAmBVUyu6sL1n/UrSuo+EeKWLWYVYTvBA807W9ljTSRT/MWsxab41LVrKeY82BJ4JEOpNBbatJjXThe7Oard60SdWsv4HwuFCN2odQgND5QM06BaEAITPFGqo1DBNYEx11JDwSDH1q1qmNdNGD5J4IfgUeCYJJ2h6D1GAZm4NYhzlqf/gkCJaqWacjFCBkJPEvEwBfUzQhAECwLNJetRuhACEzhrWNtZm1VyMHQhYn9LBeYr3DWkfRzFUrPBIM87RXndXIQRhH0YodeyXNcazvWGtZ+8EnuXMw6w/WL6x96+kfLrnRR1mrWT+zNrJeo8L5YTFYu+PxHme1Jfz9Yr2TH4JXcudebYu5AfonEUkdPc/ayVpF0SyGvBHKF1UuYw2xzmCdzfqTtYN1isNx5W5dnPD3PVjbKVqCBvKjTU0lPeshAfqniONZG/TuEmPtmVDmAn10r6GRRP4VDsfeqo/7JIZ1UA/y43Zty8cyHKOW/ik60Y9aeYX2eKV4jwpnncY4HP8Y1hElxklmpqRWDOgdvMujduhLZD1gtqxs13eLtEatpX/+R8YNW7Ti7/rWXo5Z1omyfglwph5nRg0bo0eHGd96lJxvYZ2YtZtGtqykwZt/ZN63z6p8j0OduVb5nozjJLmjlxF2DOSFjCe/0jHmhBT1vfrnWqvi3/pYHo2VVp1LMgRKPn/5aomxDShNq77EVGP3p9myknYBkTf/mI1gpuIyx97QbMeV+eO0OxDvZC0gzD1XSifrE42/jDEPz3Ase8vKiSl7ZW/+uTQ20HVZYTPVKr86ZZCuY90K31XMNZpestvs/gzHM235Vsr6Xv3zjFVxp2MXPi9joM7Xi4xzN7xY9m39KYpSfx2sj602EPPuk/K45nF8esr6Xv2zyar4kWOddVadMyu8uJOo9F6eXniyJHIjP0kjC0tmxHq0NJ/ZMVtWPszw7/Lmn5bYBS9wTFGY8tsqvKNP0J6hLyZ5BK3RuxS4IabdarXFFxTNEFVCv9adlqG39+afcbGTdTnUucoqvyLh9wPL1B2i8kn0u2rYuAvJf55VDDS/htc0Jxa/Skxntqysp/QpQ6/+GR87mcv8bK9VfnbCI/6zQHuid/XN0/cM1ts1vKZ2TRWVa/xSmC0rV2c4v1f/tFDhF+GOckhT2L3jabHfH6TkhSqgdvTGDOOSfurQG1d6/+aML31e/WMnZztGOdnNVlm52PiC6U9ZV8I/Xjk2ZtYXKzB4Nb596tU/XdYBzhslN2bn9zbEfj+V9RthxX8evGm1i/R05eblZcGITCR8T9X5XJNX/0jXbD4P82yJMuJ2WaQwmfW+lt2YELBH4JtcODfWu5ZbxG5ynHdU6dze/TPWyn3dpuMYSYNM1DGEpJs6tayMif7SsidTNKdv/g/WNvgmF5qo8KuMwyXawmxZ+ZWqu4XIu39a9W5bq4+IIX277KLiRSaS9niD9ZOWfZmij1OA/Lgh1rveklDGbFl5oAbnh3+AMzJJ8INl1m+ocIGQ2bIivVo7wgXyZnasd73c+s0sdp6PMIEQOJQKJwlW6d8lH7pZMwXjESYQCouoeFape5S3dQByoTNm1uU0smWlE+EBodFPxesUliMsIETOSTDrZIQFhIq9wHkA4QAhc71l1rMQDhAykq6StaGvIxQAAAAAAAAAAAAAAADQ2PwH/iDAMV/GW5QAAAAASUVORK5CYII=)|Et grundtal, med en halv som eksponent,  <br>er det samme som kvadratroden af grundtallet.|
-|![a^{frac{1}{3}}=sqrt[3]{a}](data:image/png;base64,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)|Et grundtal, med en tredjedel som eksponent,  <br>er det samme som den tredje rod af grundtallet.|
-|![sqrt[r]{a^p}=a^{frac{p}{r}}](data:image/png;base64,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)|Den n’te rod af et tal kan beskrives som potens.|
-<div style="page-break-after: always;"></div>
+| Regel                                            | Forklaring                                                                                                                                              |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| $a^n=a \cdot a \cdot...\cdot a$                  | $a^n$ er a gange med sig selv, $n$ gange                                                                                                                |
+| $a^{-n}=\frac{1}{a^n}$                           | $a^{-n}$ er det samme som $1$ divideret med $a^n$                                                                                                       |
+| $a^0=1$                                          | $a^0$ er pr. definition altid $1$                                                                                                                       |
+| $a^n\cdot a^p=a^{n+p}$                           | To ens grundtal og forskellige eksponenter, ganges sammes  <br>ved at lægge eksponenterne sammen.                                                       |
+| $a^n:a^p=a^{n-p}$                                | To ens grundtal og forskellige eksponenter, divideres med hinanden,  <br>ved at trække eksponenterne fra hinanden.                                      |
+| $a^x\cdot b^x=(a\cdot b)^x$                      | To potenser med samme eksponent og forskelligt grundtal  <br>som ganges sammen, ganges sammen ved at man ganger grundtal  <br>og opløfter til potensen. |
+| $(a^n)^p=a^{n\cdot p}$                           | En potens, som er grundtal for en anden potens,  <br>ganges de to eksponenter sammen.                                                                   |
+| $a^{\frac{1}{2}}=\sqrt{a}$                       | Et grundtal, med en halv som eksponent,  <br>er det samme som kvadratroden af grundtallet.                                                              |
+| $a^{\frac{1}{3}}=\sqrt[3]{a}$                    | Et grundtal, med en tredjedel som eksponent,  <br>er det samme som den tredje rod af grundtallet.                                                       |
+| $\sqrt[r]{a^p}=a^{\frac{p}{r}}$                  | Den n’te                                                                                                                                                |
+| $\ln⁡(a^r)=r\ln⁡(a)$                             | For any positive $a$ and any real number $r$:                                                                                                           |
+| $\sqrt[n]{a\cdot b}=\sqrt[n]{a}\cdot\sqrt[n]{b}$ |                                                                                                                                                         |
+| $a^{-\frac{1}{n}}=\frac{1}{\sqrt[n]{a}}.$        | **Vigtig**                                                                                                                                              |
 # Andengradsligning
 
 ## Hvordan løses en andengradsligning?
 
 En andengradsligning kan løses meget nemt, når først den er omskrevet til formen:
-
-![0=ax^2+bx+c](data:image/png;base64,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)
-
+$$
+0=ax^2+bx+c
+$$
 Her skal man først udregne diskriminanten:
-
-![D=b^2-4*a*c](data:image/png;base64,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)
-
+$$
+D=b^2-4\cdot a\cdot c
+$$
 Diskriminanten fortæller os, om der er nul, en eller flere løsninger (rødder).
 
-Hvis D > 0 er der to forskellige rødder/løsninger.
-
-Hvis D = 0 er der en rod/løsning.
-
-Hvis D < 0 er der ingen rødder/løsninger.
-
+Hvis $D > 0$ er der **to** forskellige rødder/løsninger.
+Hvis $D = 0$ er der **en** rod/løsning.
+Hvis $D < 0$ er der **ingen** rødder/løsninger.
 Andengradsligningen vil derefter have løsninger, som er givet ved formlen:
-
-![x=frac{-b±sqrt{D}}{2*a}](data:image/png;base64,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)
-
-Bemærk at en parabels eller et andengradspolynomiums skæring med x-aksen findes ved at løse en andengradsligning.
-
-<div style="page-break-after: always;"></div>
-
+$$
+x=\frac{-b±\sqrt{D}}{2*a}
+$$
+Bemærk at en parabels- eller et andengradspolynomiums skæring med x-aksen findes ved at løse en andengradsligning.
 # Parenteser
 
-|   |   |
-|---|---|
-|**Regel**|**Forklaring**|
-|a+(b-c+d) = a+b-c+d|Hvert enkelt tal i parentesen skal lægges til a.|
-|a-(-b+c-d) = a+b-c+d|Hvert enkelt tal i parentesen skal trækkes fra a.  <br>F.eks. er a-(-b) = a–b = a+b, da to dobbelt minus bliver til plus.|
-|a·(b-c+d) = a·b-a·c+a·d|Hvert enkelt tal i parentesen skal ganges på a.|
-|(a+b)·(c-d) = a·c-a·d+b·c-b·d|Hvert enkelt tal i venstre parentes,  <br>skal ganges med hvert enkelt tal i højre parentes.|
-|(a+b)2 = a2+b2+2·a·b|Det samme som ovenstående,  <br>men da vi får a·b og b·a, kan det gøres lidt kortere.|
-|(a-b)2 = a2+b2-2·a·b|Samme som ovenstående.|
-|(a+b)·(a-b) = a2-b2|Det samme som formlen (a+b)·(c-d), men da vi får a·b – b·a,  <br>forsvinder disse.|
-## Parenteser i reduktion
+| **Regel**                       | **Forklaring**                                                                                                               |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| $a+(b-c+d) = a+b-c+d$           | Hvert enkelt tal i parentesen skal lægges til $a$.                                                                           |
+| $a-(-b+c-d) = a+b-c+d$          | Hvert enkelt tal i parentesen skal trækkes fra $a$.<br>F.eks. er $a-(-b) = –b-a = a+b$, da to dobbelt minus bliver til plus. |
+| $a·(b-c+d) = a·b-a·c+a·d$       | Hvert enkelt tal i parentesen skal ganges på $a$.                                                                            |
+| $(a+b)·(c-d) = a·c-a·d+b·c-b·d$ | Hvert enkelt tal i venstre parentes,<br>skal ganges med hvert enkelt tal i højre parentes.                                   |
+| $(a+b)^2 = a^2+b^2 + 2ab$       | Det samme som ovenstående,  <br>men da vi får a·b og b·a, kan det gøres lidt kortere.                                        |
+| $(a-b)^{2}=a^{2}+b^{2}-2ab$     | Samme som ovenstående.                                                                                                       |
+| $(a+b)·(a-b) = a^2-b^2$         | Det samme som formlen $(a+b)·(c-d)$, men da vi får $a·b – b·a$, forsvinder disse.                                            |
+# Parenteser i reduktion
 
 Eksempel på et regnestykke med bogstaver, som skal reduceres:
-
-![frac{a+b}{a^2-b^2}](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABMCAYAAAALDmvAAAAD2klEQVR42u2bbWhOYRjHj5cZaywTYl6SL2IIRTMjH6SslFD7oH2w8oHxBR82L6lJRglfUFIoMS+l5mVm++BlprWM8pJ98BYrH6TkbWiuq+cvx+mcbec8z9l134/rV/9a51rPc1//537Ouc957r/jKIqiKIqiKP8fBaRG0iPSO9I30ii1xZ+sFL9eJmk6aQepi9SuFvuTh9kZBxth/lG12Z980s+YXvsSzF+lNvet+f1JH0i/SCPU5r41fy5mfata3PfmV8D8fTaZMZF0mFRPOkc6T5pKyiatJmVYYn4DzF9G2kS6SKohtZDWmWh8CekTaTdpAI7lkOpItWhmkQXmDyZ9xXiveC64+bgObDXJ+FIM6kjAh9KFeq4F5i/BeL+Q5vvUefZ/Jg0zwfiZuAvsCLjhWYhmWiw551djvFUB9TrUV5hg/l0MZldAfSfqeywxvxXjnRNQb0O9XNr4IgyENSXgf26hvjjka58k3SM1d6OHeO3mHnSsl++Zi9PjR9d1y/vo4Tves1Ta/P0YyKuAOq9yOnH+zLRg5hejn9qA+gLXZJslbf41DORMD800WLLO347xVgbUq1yTrZ8p5/stAfWDqG9zHSs32PxDGG+xT43Nfo76ehMutjUYTEnA85F21ItwjJdnNyyY+QU+teWoNZEGmmD+mm5mwl7SD9SzcWwt7hhNNX9ewDJyOOkFTjfjTbm5ysD6vcn16CALjxg2kE6gGZ7xQ/F/OYYvNS+TrrrO6SNJd0gPSJNMe6zAs+I4jD0LFbpqF0i3cXEutGCdPwTn/kaM/SYm0iBHid18pZdMw3VFEYDvSOvVBkVRFEVRFEVRFOUfypzELgRVPOqW0U5in4oqHimKoqQjvNPrtJPYZPoEf4/TnuOHf1nijVR/dnvxD+f8e+gb0pg0Nd6YnnmfjndbBc+AoB3M6YAxPfMeR7/dvY9Jr9PUfGN6fu8kNlJ54Q2vnZaYGTYEbUzPM5zEPhcvb0lPLTE/bAja6J5no4kKy04nyYSgjemZv5JtTjxbxOMkmRC0ET0vJb10DNrf2EuSCUEb0fNY0n3SZAtXMFFD0Eb0zF+3U6QJli4fo4SgY+k5SrCZVwp5nmObLTI/Sgg65T1HCTavdPy3Uh+wxPgoIeiU9xwl2MyJQ04IXneJP6gmfGtsIGwIOuU9Rw02dzh/03peVVtiftgQdMp7lgw2SyMago4z2BwGfm2O4jxLQvxsvTLEe4qHoKWDzZKIh6Clg82SiIegpYPNkoiHoKWDzSbMfLEQtHSwWRLxELR0sFka8RC0ZLBZGg1BK4qiKIqiKIqi2MZvJrjpq9bAjYQAAAAASUVORK5CYII=)
-
+$$
+\frac{a+b}{a^2-b^2}
+$$
 For at reducere udtrykket, er vi nødt til at kigge i tabellen ovenover, for at se om der er et mønster, som passer.
 
-Her finder vi linjen:
-
-(a+b)·(a-b) = a2-b2
-
+Her finder vi linjen: $(a+b)·(a-b) = a^2-b^2$
 Dermed kan vi bruge den regel til at regne baglæns så:
 $$\frac{a+b}{a^2-b^2}=\frac{a+b}{(a+b)*(a-b)}$$
+og forkorte brøken med $(a+b)$:
+$$
+\frac{a+b}{(a+b)*(a-b)}=\frac{1}{a-b}
+$$
+# Afledte funktioner
 
-og forkorte brøken med (a+b):
+| $f$                    | $f'$                                  |                    |
+| ---------------------- | ------------------------------------- | ------------------ |
+| $k$                    | $0$                                   | Konstanter fjernes |
+| $k\cdot x$             | $k$                                   | Variable fjernes   |
+| $x^n$                  | $nx^{n-1}$                            |                    |
+| $e^x$                  | $e^x$                                 |                    |
+| $e^{kx}$               | $ke^{kx}$                             |                    |
+| $a^x$                  | $a^x\ln(x)$                           |                    |
+| $\ln x$                | $\frac{1}{x}=x^{-1}$                  |                    |
+| $\frac{1}{x}$          | $- \frac{1}{x^2}$                     |                    |
+| $\sqrt{ x } = x^{1/2}$ | $\frac{1}{2 \sqrt{ x }}$              |                    |
+| $\log_{a}(x)$          | $\frac{1}{x\ln(a)}, x>0$              |                    |
+| $\sin x$               | $\cos x$                              |                    |
+| $\cos x$               | $-\sin x$                             |                    |
+| $\tan x$               | $1+(\tan x)^2 = \frac{1}{(\cos x)^2}$ |                    |
+| $(\cos x)^2$           | $-2\cos x \cdot \sin x$               |                    |
+| $(\sin x)^2$           | $2\sin x\cdot \cos x$                 |                    |
+| $(\tan x)^2$           | $(\tan x)^3+2\tan x$                  |                    |
 
-![frac{a+b}{(a+b)*(a-b)}=frac{1}{a-b}](data:image/png;base64,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)
+|     | $h$                 | $h'$                                               |
+| --- | ------------------- | -------------------------------------------------- |
+| 1   | $f+g$               | '$f'+g'$                                           |
+| 2   | $f-g$               | $f'-g'$                                            |
+| 3   | $k\cdot f$          | $k\cdot f'$                                        |
+| 4   | $f(x)\cdot g(x)$    | $f'(x)\cdot g(x)+f(x)\cdot g(x)$                   |
+| 5   | $\frac{f(x)}{g(x)}$ | $\frac{f'(x)\cdot g(x)-f(x)\cdot g'(x)}{(g(x))^2}$ |
+| 6   | $f(g(x))$           | $f'(g(x))\cdot g'(x)$                              |
+| 7   | $f(ax+b)$           | $a\cdot f'(ax+b)$                                  |
+# Faktorisering
+
+|                       |     |                     |
+| --------------------- | --- | ------------------- |
+| $a^2−b^2$             | $=$ | $(a+b)(a−b)$        |
+| $a^2+2ab+b^2$         | $=$ | $(a+b)(a+b)$        |
+| $a^2−2ab+b^2$         | $=$ | $(a−b)(a−b)$        |
+| $a^3+b^3$             | $=$ | $(a+b)(a^2−ab+b^2)$ |
+| $a^3−b^3$             | $=$ | $(a−b)(a^2+ab+b^2)$ |
+| $a^3+3a^2b+3ab^2+b^3$ | $=$ | $(a+b)^3$           |
+| $a^3−3a^2b+3ab^2−b^3$ | $=$ | $(a−b)^3$           |
+
+# Logaritmer
+
+![[Pasted image 20251102181703.png]]

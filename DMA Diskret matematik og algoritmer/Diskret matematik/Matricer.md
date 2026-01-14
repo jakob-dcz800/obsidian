@@ -1,7 +1,0 @@
----
-tags:
-  - DMA
-  - Math
----
-# Matricer
-

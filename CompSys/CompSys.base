@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("CompSys Computersystemer")
+    order:
+      - file.name
+      - tags
