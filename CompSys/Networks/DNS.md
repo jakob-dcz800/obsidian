@@ -1,4 +1,5 @@
-**Domain name system**
+# Domain name system
+Translates [[IP adresses]] to domain names.
 
 Runs on [[Transfer protocols#UDP service|UDP]]
 
@@ -15,6 +16,12 @@ Runs on [[Transfer protocols#UDP service|UDP]]
 	• Recursive queries 
 • DNS caching based on time-to-live (TTL)
 
+## Decentralization
+*Why is DNS not run from a single server?*
+Single point of failure, high latency due to geographical distance, distributed approach spreads the workload across many levels. 
+
+First checks local DNS (not there because no DNS caching), local DNS will request from the root DNS which will determine which [[TLD]] can parse the request. 
+It then sends the domain to the local DNS, which then requests the authoritative DNS for the IP, which is then send back to the local DNS and finally to the client.
 # How does it work
 
 There is some caching happening on the client.
@@ -32,7 +39,7 @@ Too much information for the client.
 • Performing the translations 
 	• Local DNS servers 
 	• Resolver software
-![[Pasted image 20251117163946.png]]
+![[Pasted image 20260120121252.png]]
 
 client wants IP for www.amazon.com; 1st approx: 
 	• client queries a root server to find com DNS server 
@@ -96,3 +103,7 @@ msg header
 		• reply is authoritative
 
 ![[Pasted image 20251117170028.png]]
+## Example request
+
+![[Pasted image 20260120121319.png]]
+

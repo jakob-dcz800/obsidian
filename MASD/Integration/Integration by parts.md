@@ -25,7 +25,7 @@ So we followed these steps:
 - Simplify and solve  
 
 In English we can say that **∫u v dx** becomes:
-(u integral v) minus integral of (derivative u, integral v)
+(u integral v) minus integral of ([[Differentiabilitet|derivative]] u, integral v)
 ![integration by parts ln(x) on x^2](https://www.mathsisfun.com/calculus/images/integral-parts-lnx-on-x2.svg)
 ![integration by parts ln(x)](https://www.mathsisfun.com/calculus/images/integral-parts-lnx.svg)
 ![integration by parts e^x x](https://www.mathsisfun.com/calculus/images/integral-parts-ex-x.svg)

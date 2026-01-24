@@ -6,7 +6,7 @@ tags:
 ---
 ## Structures
 Structures are an [[Aggregate data types|aggregate data type]]
-These combine items that may have different [[Types|base types]]
+These combine items that may have different [[CompSys/Intro til C/Types|base types]]
 
 **Structures can be assigned.**
 

@@ -115,7 +115,7 @@ Lad $A$ være en $m × n$ matrix med rank $A = r$. Da gælder
 2. Find X som ganget med A giver enhedsmatricen I
 3. Der må være 4 ligninger med 6 ubekendte
 	4 ligninger fordi produktet af AX giver 2x2 matrix (4 tal)
-4. Der bliver gjort rækkeoperationer, resultatet giver to [[frie variable]]
+4. Der bliver gjort rækkeoperationer, resultatet giver to frie variable
 	Frit valg for $s$ og $t$ - giver altid svaret uanset værdien.
 
 

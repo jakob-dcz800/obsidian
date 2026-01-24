@@ -93,7 +93,7 @@ $P(H) = \frac{1}{3}(0.9 + 0.6 + 0.3) = \frac{1}{3}(1.8) = 0.6$
 In the previous problem, suppose that we know the result is heads; what is the probability that Coin 1 was chosen?
 
 We want $P(C_1 \mid H)$
-By **Bayes’ rule**:
+By **[[Bayesian learning|Bayes’ rule]]**:
 
 $P(C_1 \mid H) = \frac{P(H \mid C_1) P(C_1)}{P(H)}$  
 

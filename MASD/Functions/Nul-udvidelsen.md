@@ -13,9 +13,9 @@ En funktion $f(x)$, som ikke er defineret i $\mathbb{R}$, kan kan let udvides ti
 
 ### Hvorfor er det nyttigt?
 
-- **Integration og Fourier-analyse**: Hvis en funktion kun er defineret på et interval, kan man ved at 0-udvide den se den som en funktion på hele $\mathbb{R}$, hvilket gør det muligt at anvende Fourier-transformation, konvolution osv.
+- **Integration og Fourier-analyse**: Hvis en funktion kun er defineret på et [[Intervaller|interval]], kan man ved at 0-udvide den se den som en funktion på hele $\mathbb{R}$, hvilket gør det muligt at anvende Fourier-transformation, konvolution osv.
 - **Funktionsanalyse**: Når man arbejder med $L^p$-rum, giver 0-udvidelsen en naturlig måde at betragte funktioner på delmængder som elementer i $L^p(\mathbb{R}^n)$.
-- **PDE’er**: Ved randbetingelser kan 0-udevidelse bruges til at "indbygge" betingelser, fx når løsninger skal være 0 uden for et område.
+- **PDE’er**: Ved randbetingelser kan 0-udevidelse bruges til at "indbygge" [[Conditional probability|betingelser]], fx når løsninger skal være 0 uden for et område.
 
 ## Eksempel
 

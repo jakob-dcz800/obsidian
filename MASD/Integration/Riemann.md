@@ -7,3 +7,8 @@ Geometrisk set er det arealet (med fortegn) af et rektangel med grundlinje b −
 ![[Pasted image 20250922224908.png]]
 
 ![[Pasted image 20250922225029.png]]
+
+## Methods for complex integration
+
+[[Integration by parts]]
+[[Integration by substitution]]

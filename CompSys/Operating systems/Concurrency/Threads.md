@@ -5,8 +5,12 @@
 	
 Instead we use threads. 
 
-## Threads in the same process
+# Definition
 
+Runs in the same address space as the parent process.
+
+
+## Threads in the same process
 Each thread has its own logical control flow. 
 Each thread has its own stack. 
 Threads share open files. 

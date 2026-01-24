@@ -1,0 +1,3 @@
+
+![[Matematiske beviser#Invarianter]]
+

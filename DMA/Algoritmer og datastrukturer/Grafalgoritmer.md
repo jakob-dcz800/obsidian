@@ -25,7 +25,7 @@ Hver knude tager 4 pladser i array $A$, key, left, right og parent
 > Basale operationer i et binær-træ tager tid som er proportionel med højden af træet
 > Binære søgetræer kan desuden også benyttes som køer
 
-Binære søgetræer benytter hægtede liste-modellen, hvor en key (value) er koblet til satellitdata (left, right og p).
+Binære søgetræer benytter [[Linked lists|hægtede liste-modellen]], hvor en key (value) er koblet til satellitdata (left, right og p).
 $p$, repræsenterer knudens venstre og højre barn, såvel som knudens forældre. Hvis en af disse mangler, står der `nil`
 
 Træet har en attribut `root` som peger på roden af træet, eller `nil` hvis træet er tomt (`T.root`)

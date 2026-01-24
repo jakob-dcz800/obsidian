@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b49d00aa8dc2074a",
+        "id": "3a988d7de9fb41b7",
         "type": "tabs",
         "children": [
           {
-            "id": "b3e70489c699e00b",
+            "id": "ba4cf2354f4e1b44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompSys/Operating systems/Concurrency/Deadlock.md",
+                "file": "AD/Algoritmer og datastrukturer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Deadlock"
+              "title": "Algoritmer og datastrukturer"
             }
           }
         ]
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CompSys/Operating systems/Concurrency/Deadlock.md",
+                "file": "AD/Algoritmer og datastrukturer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,45 +95,35 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.6915591455425439,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Deadlock"
+              "title": "Graph of Algoritmer og datastrukturer"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 246.50390243530273
   },
   "right": {
     "id": "7305112d2ee5dcb1",
     "type": "split",
     "children": [
       {
-        "id": "b60dca5f3aadf0e6",
+        "id": "167aa6f59446d8fe",
         "type": "tabs",
         "children": [
           {
-            "id": "59428a3582d72e26",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
-          {
-            "id": "e2faa8369a224e04",
+            "id": "786a997189d59937",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINALG Lineær algebra/Vektorer/Norm.md",
+                "file": "CompSys/Pipelines/Superscalar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,40 +133,40 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Norm"
+              "title": "Backlinks for Superscalar"
             }
           },
           {
-            "id": "ee622bff832f9568",
+            "id": "45542f9f68707d14",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINALG Lineær algebra/Vektorer/Norm.md",
+                "file": "CompSys/Pipelines/Superscalar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Norm"
+              "title": "Outgoing links from Superscalar"
             }
           },
           {
-            "id": "d5891f6f063aaf1d",
+            "id": "89dff08fc1191aff",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINALG Lineær algebra/Vektorer/Norm.md",
+                "file": "AD/Algoritmer og datastrukturer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Norm"
+              "title": "Outline of Algoritmer og datastrukturer"
             }
           },
           {
-            "id": "24ae43bd34c2196f",
+            "id": "edb7ea0b963525ce",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,7 +176,7 @@
             }
           },
           {
-            "id": "7a8d1d5d393c7157",
+            "id": "e4c1e841d0972665",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -196,7 +186,7 @@
             }
           },
           {
-            "id": "ec3e07240554a3af",
+            "id": "06f5c11115320740",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -206,557 +196,7 @@
             }
           },
           {
-            "id": "347147dbad06558b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "61882392dba4dfdf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "9c7f9d3c73a422d0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "826204c40c34fa47",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "a2fc8e326c9bc9fb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c98cf6f7114650ec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e16c18c365c7dac3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f7c183a34b82b1fb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3776e1f43a58fac1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5510b85dac02f7c7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3410a9a4ae133062",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "eb5f6dbcaa837d90",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "0ba0214315559b91",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "888899deb40af9d2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f97c5c4863bdda45",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "9d29e4f9035d7808",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c914e2a18251e864",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "2cc7e6a7fe6de19e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "49eeb119861604e1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "82bca535ee7f11b7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "16601533483f20bb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "7c9c8f893a3716d1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "73bea63b51897281",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "a99a90ecbf7ac436",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "2de444c9517b7346",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b62cb0ba06507ba7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "4df7ae58932ca9d7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b7e878382294a3dc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "6c5b3f3a32e3b091",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "1c65c351498afaa8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "0998315fdff7bab5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "839c7a0a38cee00b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c540422534b75ddf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "bee1fbfdebe87584",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b8f49f356fadac46",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "fcab73c940b0d7f4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "317617159defd375",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "979e6cf00208f761",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "9bbabf18c019ebc4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "9d2a61e9b30f3522",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "25eb753a9fca5c67",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e684066819534ca3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "348517ffb4ac290e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "2f079fbecaddb2be",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "bd4668107f381590",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "7da2f411eccfb2c7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c0c8128f679e06d0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "14d491fae09a9b4b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "0a4bc03320aa2c05",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d3c0eaed4299c332",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3a6cbe7bd14bfae4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "55cf0232b2ba3cd5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d4959ae2e3208171",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "98abf784c576fa2b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5d95eb62dbe04d50",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ac23ad51e9d8e091",
+            "id": "260c05fb39d78bbb",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -766,12 +206,11 @@
             }
           }
         ],
-        "currentTab": 62
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
-    "collapsed": true
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -783,54 +222,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ac23ad51e9d8e091",
+  "active": "ba4cf2354f4e1b44",
   "lastOpenFiles": [
-    "CompSys/Operating systems/Concurrency/Concurrency.md",
-    "CompSys/Operating systems/Concurrency/Threads.md",
-    "CompSys/Operating systems/Concurrency/Starvation.md",
-    "CompSys/Operating systems/Concurrency/Deadlock.md",
-    "CompSys/Assembly and machine code/Memory and registers.md",
-    "CompSys/Operating systems/Memory hierarchy.md",
-    "CompSys/Operating systems/Addressing.md",
-    "CompSys/Intro til C/Pointers.md",
-    "CompSys/Hardware/Memory hierarchy.md",
-    "CompSys/Operating systems/MMU.md",
-    "CompSys/Operating systems/Operating systems.md",
-    "CompSys/Operating systems/Page table.md",
-    "CompSys/Operating systems/Virtual memory.md",
-    "CompSys/Intro til C/Abstract state machine.md",
+    "AD/Algorithms/Divide and conquer/Substitution method.md",
+    "AD/Algorithms/Divide and conquer/Master theorem.md",
+    "AD/Algorithms/Divide and conquer/Recursion trees.md",
+    "AD/Algorithms/Divide and conquer/Quicksort.md",
+    "AD/Algorithms/Divide and conquer/Mergesort.md",
+    "DMA/Diskret matematik/Matematiske beviser.md",
+    "AD/Time complexity",
+    "AD/Algorithms/Divide and conquer",
+    "AD/Ordliste_for_algoritmer_og_datastrukturer-1.pdf",
+    "AD/Proofs/Induction.md",
+    "AD/Proofs/Invariant.md",
+    "AD/Algorithms",
+    "AD/Proofs",
+    "Loose coupling.md",
+    "SU/Design patterns/Mediator.md",
+    "frie variable.md",
+    "LINALG/Matricer/Invers matrix.md",
+    "MAD/Regression/Multivariate linear regression.md",
+    "MASD/Functions/Nul-udvidelsen.md",
+    "MASD/Opgaver/Assignments/Assignment 2.md",
+    "DMA/Diskret matematik/Matricer.md",
     "Regneregler.md",
-    "MAD/Exam/Exam calculations.md",
-    "Assets/Pasted image 20260113181148.png",
-    "Assets/Pasted image 20260113174008.png",
-    "SU/Exam/Slides.md",
-    "MAD/Statistics/MLE.md",
-    "MAD/Exam",
-    "MAD/Statistics/Maximum likelihood estimation.md",
-    "Assets/Pasted image 20260112155853.png",
-    "CompSys/Assembly and machine code/RISC-V.md",
-    "CompSys/Assembly and machine code/Byte ordering.md",
-    "CompSys/Assembly and machine code/Basic operations.md",
-    "CompSys/Hardware/Exam questions/Exam questions.md",
-    "MAD/Statistics/Hypothesis testing.md",
-    "MAD/Statistics/Bayesian learning.md",
-    "MAD/Statistics/Bernoulli distribution.md",
-    "Assets/Pasted image 20260108185937.png",
-    "Assets/Pasted image 20260108184841.png",
-    "Assets/Pasted image 20260108184705.png",
-    "CompSys/Hardware/Exam questions",
-    "Assets/Pasted image 20260108182026.png",
-    "Assets/Pasted image 20260108182008.png",
-    "Assets/Pasted image 20260108181957.png",
-    "Assets/Pasted image 20260108181759.png",
-    "Excalidraw/cache.excalidraw",
-    "Excalidraw/cache.excalidraw.crswap",
-    "PD",
-    "AD",
-    "DIS",
-    "IPS",
-    "MAD/Statistics",
-    "MAD/Regression",
+    "LINALG/Matricer/Enhedsmatricen.md",
+    "Untitled.md",
+    "MASD/Probability/Conditional probability.md",
+    "MASD/Opgaver/Opgaver uge 5.md",
+    "MASD/Opgaver/Assignments/Assignment 5.md",
+    "MASD/Integration/Middelværdisætningen.md",
+    "MASD/Probability/CDF.md",
+    "MASD/Opgaver/Opgaver uge 4.md",
+    "MASD/Opgaver/Assignments/Assignment 3.md",
+    "Assets/Pasted image 20260121095900.png",
+    "Assets/Pasted image 20260121094808.png",
+    "Assets/Pasted image 20260121094731.png",
+    "Assets/Pasted image 20260121094718.png",
+    "Assets/Pasted image 20260120222010.png",
+    "Assets/Pasted image 20260120215539.png",
+    "Assets/Pasted image 20260120210305.png",
+    "Assets/Pasted image 20260120210252.png",
+    "Assets/Pasted image 20260120203056.png",
+    "Assets/Pasted image 20260120202952.png",
+    "CompSys/Networks/Security",
+    "Untitled 1.base",
+    "Untitled.base",
+    "CompSys/Pipelines",
+    "LINALG/Forelæsninger/f10.pdf",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

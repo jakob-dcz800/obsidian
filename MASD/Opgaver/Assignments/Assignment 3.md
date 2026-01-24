@@ -110,7 +110,9 @@ f(x_{0},y_{0})g_{x}(x_{0},y_{0})-g(x_{0},y_{0})f_{x}(x_{0},y_{0}) \\
 $$
 It should now be obvious that for a solution to exist $D(x_{0},y_{0} )\neq 0$, must be upheld.
 For a unique solution to exist, we look back at our original expression $\mathbf{Ax=b}$. 
-Geometrically, the determinant can be seen as the area within the 'box' that is outlined by the four partaking functions.  Since we are taking the determinant, the result cannot be 0 - since that would result in zero or an infinite amount of results.
+
+Geometrically, the [[determinant]] can be seen as the area within the 'box' that is outlined by the four partaking functions.  
+Since we are taking the determinant, the result cannot be 0 - since that would result in zero or an infinite amount of results.
 As a benifit of the expression above, we can express $\Delta x$ like so:
 $$
 \Delta x =
@@ -171,7 +173,7 @@ y_{1} & = y_{0} -\frac{f_{x}(x_{0},y_{0})g(x_{0},y_{0})-g_{x}(x_{0},y_{0})f(x_{0
 $$
 ### 3
 
-Derivatives are given by
+[[Differentiabilitet|Derivatives]] are given by
 $$
 \begin{align}
 f_{x} & = \frac{\partial}{\partial x}(x^x) = \frac{\partial}{\partial x}(e^{x\ln x}) \\

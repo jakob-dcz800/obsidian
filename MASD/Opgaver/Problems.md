@@ -1,4 +1,4 @@
-# Integration by substitution
+# [[Integration by substitution]]
 ## 1
 $$
 \int 3x^2e^{x^3}dx
@@ -10,7 +10,7 @@ g & =x^3 \\
 g' & =3x^2
 \end{align}
 $$
-Integrate expression with u:
+[[Integration|Integrate]] expression with u:
 $$
 \begin{align}
 \int e^udu = e^u+C
@@ -125,7 +125,7 @@ $$
 = \sin^{-1} (\sin \theta)+c=c
 $$
 
-# Integration by parts
+# [[Integration by parts]]
 
 ## 1
 

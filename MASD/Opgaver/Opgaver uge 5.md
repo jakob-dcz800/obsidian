@@ -1,4 +1,7 @@
 # 1
+
+[[Probability]]
+
 ![[Pasted image 20251105175301.png]]$$
 \begin{align}
 P(\text{coffee}) & = \frac{7}{10} \\
@@ -6,7 +9,8 @@ P(\text{cake}) & = \frac{4}{10} \\
 P(\text{coffee, cake})  & = \frac{2}{10}
 \end{align}
 $$
-Hence
+Hence:
+[[Conditional probability]]
 $$
 \begin{align}
 P(\text{coffee}|\text{cake}) & =
@@ -16,6 +20,9 @@ P(\text{coffee}|\text{cake}) & =
 \end{align}
 $$
 # 2
+
+[[Set laws]]
+
 ![[Pasted image 20251105180043.png]]
 
 #### a)

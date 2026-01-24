@@ -1,7 +1,7 @@
 
 # 4
 
-Let $D_{A}$ be the event where $A$ was the randomly chosen dice and let $X=\set{5,3,9,3,8,4,7}$ be the rolled outcomes. We want the probability: $P(D_{A}|X)$, i.e. the chance that dice A was chosen given X.
+Let $D_{A}$ be the event where $A$ was the [[Random variables|randomly]] chosen dice and let $X=\set{5,3,9,3,8,4,7}$ be the rolled outcomes. We want the probability: $P(D_{A}|X)$, i.e. the chance that dice A was chosen given X.
 For this we use [[Probability#Bayes rule|Bayes rule]]:
 $$
 P(D_{A}|X)= \frac{P(X|D_{A})P(D_{A})}{P(X)}

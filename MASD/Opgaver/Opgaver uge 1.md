@@ -34,7 +34,7 @@ $$
 (-133.2)
 $$
 ### 2
-Differentier funktionen og indsæt dine t-værdier
+[[Differentiabilitet|Differentier]] funktionen og indsæt dine t-værdier
 Tag derefter gennemsnittet af de to hældninger.
 
 b) tag $f'(1)$

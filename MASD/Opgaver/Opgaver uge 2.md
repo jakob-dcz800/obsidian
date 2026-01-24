@@ -27,7 +27,7 @@ f(\Theta) & = \frac{1}{\sin \Theta}\\
 g(\Theta) & = \frac{e^\Theta}{\tan \Theta}
 \end{align}
 $$
-Så differentierer vi g vha. kædereglen
+Så [[Differentiabilitet|differentierer]] vi g vha. kædereglen
 $$
 \begin{align}
 f'  &  = -\frac{1}{(\sin \Theta)^2}+\cos \Theta\\

@@ -4,7 +4,7 @@ tags:
   - Model
 ---
 
-The program text describes (code) an abstract state machine that regulates how the program switches from one state to the next. These transitions are determined by [[Values and data|value]], [[Types|type]], and binary representation only.
+The program text describes (code) an abstract state machine that regulates how the program switches from one state to the next. These transitions are determined by [[Values and data|value]], [[CompSys/Intro til C/Types|type]], and binary representation only.
 
 **Programs execute as if following the abstract state machine.**
 

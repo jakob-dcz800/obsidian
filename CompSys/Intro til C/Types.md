@@ -19,7 +19,7 @@ As a principal distinction, we have two different classes of numbers, each with 
 2. real 
 	1. [[Floating points|floating-point numbers]]
 	2. complex floating-point numbers
-Each of these four classes contains several [[Types]]. They differ according to their [[Values and data#Precision|precision]] , which determines the valid range of values that are allowed for a particular [[Abstract state machine#Type|type]]
+Each of these four classes contains several [[CompSys/Intro til C/Types]]. They differ according to their [[Values and data#Precision|precision]] , which determines the valid range of values that are allowed for a particular [[Abstract state machine#Type|type]]
 
 ![[Pasted image 20250907220944.png]]
 

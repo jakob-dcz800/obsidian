@@ -1,15 +1,13 @@
 
-![[Regneregler#Afledte funktioner]]
 
 
 ## 2
 
-![[Regneregler#Rødder og potenser]]
-![[Regneregler#Parenteser]]
+
 
 
 ### 7
-Let's try a 2x2 matrix and see that its result is a scalar:
+Let's try a 2x2 [[LINALG/Matricer/Matricer|Matricer|matrix|]] and see that its result is a scalar:
 $$
 \text{A}\mathbf{x}=
 \begin{bmatrix}
@@ -67,7 +65,7 @@ $$
 \mathbf{x}^{\mathbf{T}}\text{A}\mathbf{x} =
 \sum_{i=1}^{n}x_{i}\left(\sum^n_{j=1}(a_{ij}x_{j})\right)
 $$
-We express the partial derivative with respect to $x_{i}$ as
+We express the [[Partielt afledte|partial derivative]] with respect to $x_{i}$ as
 $$
 \begin{align}
 \frac{\partial}{\partial x_{i}} 
@@ -95,7 +93,7 @@ u & = v^3 \\
 v & = x^2+y^2-x
 \end{align}
 $$
-We derive them:
+We [[Differentiabilitet|derive]] them:
 $$
 \begin{align}
 v' & = 3v^2 \\

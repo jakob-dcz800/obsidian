@@ -15,7 +15,7 @@ This is an example of two independent events
 
 ## Example
 
-I pick a random number from {1,2,3,⋯,10} and call it N. Suppose that all outcomes are equally likely. Let A be the event that N is less than 7, and let B be the event that N is an even number. Are A and B independent?
+I pick a [[Random variables|random number]] from {1,2,3,⋯,10} and call it N. Suppose that all outcomes are equally likely. Let A be the event that N is less than 7, and let B be the event that N is an even number. Are A and B independent?
 
 ---
 

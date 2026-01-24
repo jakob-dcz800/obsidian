@@ -1,10 +1,6 @@
-# TCP service
-
-Proper protocol which can retry sending packages
-Reliable
-# UDP service
-
-The crude version
-Basically the same as sending a letter
 
 
+[[TCP]] is a stable transfer protocol
+[[UDP]] is a stable transfer protocol
+
+In computer networking, the transport layer is a conceptual division of methods in the [[Layering|layered]] architecture of protocols in the network stack.

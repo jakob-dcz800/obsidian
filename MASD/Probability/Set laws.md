@@ -13,7 +13,7 @@ A \cap (B \cup C)  & = (A \cap B)\cup(A \cap C)
 $$
 ## Symbols
 
-Set A is a **subset** of set B if every element of A is also an element of B. We write $A⊂B$, where "⊂" indicates "subset." Equivalently, we say B is a **superset** of A, or $B ⊃ A$.
+[[Serier og sæt|Set]] A is a **subset** of set B if every element of A is also an element of B. We write $A⊂B$, where "⊂" indicates "subset." Equivalently, we say B is a **superset** of A, or $B ⊃ A$.
 
 Two sets are equal if they have the exact same elements. Thus, A=B if and only if A⊂B and B⊂A. For example, {1,2,3}={3,2,1}, and {a,a,b}={a,b}. The set with no elements, i.e., ∅={} is the **null set** or the **empty set**. For any set A, ∅⊂A.
 

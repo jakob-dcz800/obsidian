@@ -1,4 +1,6 @@
 
+**Cumulative distribution function**
 
-## Joint distribution
+![[PMF#Joint distributions]]
 
+Is the [[Integration|integral]] of the [[PDF]]

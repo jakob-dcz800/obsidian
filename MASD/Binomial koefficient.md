@@ -20,4 +20,4 @@ So the statement says:
 > “There are 36 possible ways to choose 2 elements from a set of 9.”
 
 
-This kind of expression often appears in probability or combinatorics problems — for example, if you are selecting 2 cards from 9, or 2 people from a group of 9, etc.
+This kind of expression often appears in [[probability]] or [[Kombinatorik, tælleproblemer og sandsynlighed|combinatorics problems]] — for example, if you are selecting 2 cards from 9, or 2 people from a group of 9, etc.

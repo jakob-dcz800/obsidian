@@ -68,7 +68,7 @@ $$
 $$
 
 c. Find $P(Y=1|X=0)$.
-Using the formula for conditional probability, we have
+Using the formula for conditional [[probability]], we have
 $$
 \begin{align}\label{} \nonumber P(Y=1 | X=0)&=\frac{P(X=0, Y=1)}{P(X=0)}\\ \nonumber &=\frac{P_{XY}(0,1)}{P_X(0)}\\ \nonumber &=\frac{\frac{1}{4}}{\frac{13}{24}} \\
  & =\frac{6}{13} \end{align}

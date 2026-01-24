@@ -6,7 +6,7 @@ Reserve memory until freed
 Works in runtime
 
 - Not a system call itself like `mmap`
-- Requests memory from system calls (kernel) like `mmap` and `sbrk` and then parcels it out
+- Requests memory from [[System calls]] ([[kernel]]) like `mmap` and `sbrk` and then parcels it out
 - [[Fragementations#Internal fragmentation|Internal fragmentation]] is when allocated blocks have wasted space
 - [[Fragementations#External fragmentation|External fragmentation]] is when free space is split into many small blocks
 
@@ -20,7 +20,9 @@ Works in runtime
 ## calloc
 
 Exactly the same as malloc, except that the memory is initialised the zero
-Slower than malloc
+Slower than malloc!
+
+> writing new values is slow, better to just allocate and take the values that are there. Calloc is a handy shortcut to initalise all data to zero but shouldn’t be used if you’re just going to overwrite it with other values. This means the onus is on your to initialise any memory as necessary. free also doesn’t change values meaning that anything written is still technically on disk. this means that other processes could potentially still read that data, though it is very much non trivial to do so in a usable format. This is why when you really need to delete things such as bank details, you should do more than just delete files as that just unallocates but should instead overwrite them with blank data.
 ## realloc
 
 Takes an already allocated block of memory and resizes it. No new initialisation takes place (both a blessing and a curse)

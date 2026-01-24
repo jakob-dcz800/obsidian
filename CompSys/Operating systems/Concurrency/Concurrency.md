@@ -10,11 +10,12 @@ Concurrency vs parallelism
 
 %% Use these terms correct %%
 
-**Concurrency** is multiple programs executing at the same time.
+## Concurrency
+Multiple programs executing at the same time.
 Two or more logical flows of events that may happen in any order, and even be interleaved.
 This is partly done by the CPU doing a bit of processing on one program and then switching to the next.
 
-**Parallelism**
+## Parallelism
 Two or more logical flows of events happening or existing at **literally** the same time.
 As in, on two parallel processors. This of course depends on hardware - how many cores are available.
 

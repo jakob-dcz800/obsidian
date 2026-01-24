@@ -1,7 +1,7 @@
 
 ## Definition
 
-The probability of $A$ given $B$
+The [[probability]] of $A$ given $B$
 $$
 P(A\mid B) = \frac{P(A \cap B)}{P(B)}, \text{ when } P(B)>0
 $$
@@ -9,13 +9,12 @@ $$
 ## Explanation
 
 There is $0.3$ chance that it rains: $P(rain)=0.3$
-There is $0.9$ chance that it rains if it is cloudy: $P(rain|clouds)=0.9$
+There is $0.9$ [[Conditional probability|chance]] that it rains if it is cloudy: $P(rain|clouds)=0.9$
 
 ## Example
 
 ### 1
-
-Example. Roll a fair die, what is the probability that the outcome is an even
+Roll a fair die, what is the [[probability]] that the outcome is an even
 number given it was less than or equal to 3, i.e.,
 $$
 \begin{align}
@@ -44,6 +43,8 @@ $$
 ![[Pasted image 20251006163956.png]]
 
 ## Example
+
+[[Set laws]]
 
 ![[Pasted image 20251006164156.png]]
 

@@ -19,8 +19,6 @@ A mediator promotes the loose coupling of objects by avoiding an explicit relati
 	• Further objects can be connected very easily.
 A lot like the [[Façade]] pattern
 
-[[Loose coupling]]
-
 • Comparison with the facade pattern: 
 	• A facade provides a more convenient **interface to simplify the use**. 
 	• A facade supports a **unidirectional** protocol between classes. 

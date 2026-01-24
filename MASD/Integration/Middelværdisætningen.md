@@ -1,4 +1,4 @@
-Middelværdisætningen er en matematisk sætning, der, i grove træk, siger, at der et sted på en differentiabel kurve er et punkt, i hvilket hældningen er lig kurvens "gennemsnitshældning".
+Middelværdisætningen er en matematisk sætning, der, i grove træk, siger, at der et sted på en [[Differentiabilitet|differentiabel]] kurve er et punkt, i hvilket hældningen er lig kurvens "gennemsnitshældning".
 
 $$
 f'(c) = \frac{f(b)-f(a)}{b-a}
@@ -10,3 +10,5 @@ $$
 \lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h} 
 $$
 ![[Pasted image 20250924210750.png]]
+
+[[Secant]]
