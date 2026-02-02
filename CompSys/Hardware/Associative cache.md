@@ -1,3 +1,8 @@
+---
+tags:
+  - Hardware
+  - OS
+---
 ## Associative mapping
 ### Characteristics
 - **Cache is one set.**

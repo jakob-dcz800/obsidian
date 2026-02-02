@@ -65,10 +65,6 @@ Kurset svarer til 50% af det tidligere kursus NDAB16009U Udvikling af informatio
 - Kollektiv
 - Løbende feedback i undervisningsforløbet
 - Peerfeedback (studerende giver hinanden feedback)
-
-# Tilmelding
-
-Selvbetjeningen på KUnet
 # Eksamen
 
 *Point*

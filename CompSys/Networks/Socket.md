@@ -1,4 +1,4 @@
-A file that you can read/write to for communicating with a process on another machine
+A file that you can read/write to for communicating with a [[Processes|process]] on another machine
 
 You cannot `seek()` within a socket or a pipe
 

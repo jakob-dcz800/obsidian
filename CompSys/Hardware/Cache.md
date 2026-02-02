@@ -1,3 +1,8 @@
+---
+tags:
+  - Hardware
+  - Datastructure
+---
 > **Definition**
 > A smaller, faster storage device that acts as a staging area for a subset of the data in a larger, slower device
 > 

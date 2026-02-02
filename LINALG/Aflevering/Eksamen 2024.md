@@ -99,8 +99,8 @@ a &  1 & 2a & 1 \\
 \end{array}
 \right]
 $$
-1. få ligningen på echelonform
-2. vis at rangen altid er mindre end antal kolonner
+1. få ligningen på [[Rækkeechelonform|echelonform]]
+2. vis at [[Rang af matricer|rangen]] altid er mindre end antal kolonner
 
 $$
 \left[

@@ -77,7 +77,7 @@ Because we cannot produce array values (takeaway 6.1.2 #2), array parameters can
 
 **Don’t use the `sizeof` operator on array parameters to functions.**
 
-**Array parameters behave as if the array is passed by reference**
+**Array parameters behave as if the array is [[Reference and value types|passed by reference]]**
 
 Array as parameter:
 ```c

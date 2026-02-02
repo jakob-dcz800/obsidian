@@ -4,7 +4,7 @@ tags:
   - Matrices
   - LINALG
 ---
-# Potenser af diagonalisérbare matricer
+# Potenser af [[Diagonalisering af matricer|diagonalisérbare matricer]]
 
 ![[Pasted image 20250521154625.png]]
 ![[Pasted image 20250521154640.png]]

@@ -6,7 +6,7 @@ Maximum likelihood estimation
 - Take the log of the likelihood
 	- The product becomes a summation $\prod \to \sum$
 - Now we have the log likelihood
-	- Compute the gradient
+	- Compute the [[gradient]]
 	- Solve gradient = 0
 - Boom MLE solved
 

@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3a988d7de9fb41b7",
+        "id": "215745747f897a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "ba4cf2354f4e1b44",
+            "id": "c62deefff9d3d644",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/Algoritmer og datastrukturer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Algoritmer og datastrukturer"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -72,7 +67,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AD/Algoritmer og datastrukturer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,7 +94,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Algoritmer og datastrukturer"
+              "title": "Graph view"
             }
           }
         ]
@@ -118,12 +112,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "786a997189d59937",
+            "id": "89dff08fc1191aff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "dddaa8df98945574",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompSys/Pipelines/Superscalar.md",
+                "file": "AD/Algorithms/Divide and conquer/Master theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,40 +141,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Superscalar"
+              "title": "Backlinks for Master theorem"
             }
           },
           {
-            "id": "45542f9f68707d14",
+            "id": "ca92975dad3884df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompSys/Pipelines/Superscalar.md",
+                "file": "AD/Algorithms/Divide and conquer/Master theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Superscalar"
+              "title": "Outgoing links from Master theorem"
             }
           },
           {
-            "id": "89dff08fc1191aff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "AD/Algoritmer og datastrukturer.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Algoritmer og datastrukturer"
-            }
-          },
-          {
-            "id": "edb7ea0b963525ce",
+            "id": "9af8bf6fb56e8c06",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,37 +169,27 @@
             }
           },
           {
-            "id": "e4c1e841d0972665",
+            "id": "3c0bc72402517c93",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "57a686974e784550",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-            }
-          },
-          {
-            "id": "06f5c11115320740",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "260c05fb39d78bbb",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -222,54 +205,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ba4cf2354f4e1b44",
+  "active": "57a686974e784550",
   "lastOpenFiles": [
-    "AD/Algorithms/Divide and conquer/Substitution method.md",
+    "CompSys/Tools/masterclass/unix/unix_cheat_sheet.md",
+    "Untitled",
+    "SU/Exam/Slides.md",
+    "CompSys/Tools/windows.md",
+    "CompSys/Tools/README.md",
+    "CompSys/Tools/masterclass/git/git.pdf",
+    "CompSys/Tools/masterclass/git/git_intro.md",
+    "CompSys/Tools/masterclass/gdb/gdb.md",
+    "CompSys/CompSys.base",
+    "CompSys/Tools/masterclass/unix/unix.pdf",
+    "CompSys/Tools/masterclass/unix/exercises.md",
+    "CompSys/Tools/masterclass/gdb/Makefile",
+    "CompSys/Tools/masterclass/gdb/debug.c",
+    "CompSys/Tools/masterclass/gdb/debug",
+    "CompSys/Tools/masterclass/git/git_exercises.md",
+    "CompSys/Tools/masterclass/unix",
+    "CompSys/Tools/masterclass/gdb",
+    "CompSys/Tools/masterclass/git",
+    "CompSys/Tools/macos.md",
+    "CompSys/Tools/rars.md",
+    "CompSys/Tools/linux.md",
+    "CompSys/tools/masterclass/unix/unix_cheat_sheet.md",
+    "CompSys/tools/masterclass/unix/exercises.md",
+    "CompSys/tools/masterclass/git/git_exercises.md",
+    "CompSys/tools/masterclass/git/git_intro.md",
+    "CompSys/tools/masterclass/gdb/gdb.md",
+    "CompSys/tools/README.md",
+    "CompSys/tools/windows.md",
+    "CompSys/tools/linux.md",
+    "CompSys/tools/rars.md",
+    "CompSys/tools/macos.md",
+    "CompSys/Intro til C/Abstract state machine.md",
+    "CompSys/Intro til C/Aggregate data types.md",
     "AD/Algorithms/Divide and conquer/Master theorem.md",
-    "AD/Algorithms/Divide and conquer/Recursion trees.md",
-    "AD/Algorithms/Divide and conquer/Quicksort.md",
-    "AD/Algorithms/Divide and conquer/Mergesort.md",
-    "DMA/Diskret matematik/Matematiske beviser.md",
-    "AD/Time complexity",
-    "AD/Algorithms/Divide and conquer",
-    "AD/Ordliste_for_algoritmer_og_datastrukturer-1.pdf",
-    "AD/Proofs/Induction.md",
-    "AD/Proofs/Invariant.md",
-    "AD/Algorithms",
-    "AD/Proofs",
-    "Loose coupling.md",
-    "SU/Design patterns/Mediator.md",
-    "frie variable.md",
-    "LINALG/Matricer/Invers matrix.md",
-    "MAD/Regression/Multivariate linear regression.md",
-    "MASD/Functions/Nul-udvidelsen.md",
-    "MASD/Opgaver/Assignments/Assignment 2.md",
-    "DMA/Diskret matematik/Matricer.md",
-    "Regneregler.md",
-    "LINALG/Matricer/Enhedsmatricen.md",
-    "Untitled.md",
-    "MASD/Probability/Conditional probability.md",
-    "MASD/Opgaver/Opgaver uge 5.md",
-    "MASD/Opgaver/Assignments/Assignment 5.md",
-    "MASD/Integration/Middelværdisætningen.md",
-    "MASD/Probability/CDF.md",
-    "MASD/Opgaver/Opgaver uge 4.md",
-    "MASD/Opgaver/Assignments/Assignment 3.md",
+    "MAD/Regression/Classification.md",
+    "Assets/Pasted image 20260125001425.png",
+    "Assets/Pasted image 20260125001108.png",
+    "Assets/Pasted image 20260125001106.png",
+    "Assets/Pasted image 20260125001046.png",
+    "Assets/Pasted image 20260125001004.png",
     "Assets/Pasted image 20260121095900.png",
     "Assets/Pasted image 20260121094808.png",
     "Assets/Pasted image 20260121094731.png",
     "Assets/Pasted image 20260121094718.png",
     "Assets/Pasted image 20260120222010.png",
-    "Assets/Pasted image 20260120215539.png",
-    "Assets/Pasted image 20260120210305.png",
-    "Assets/Pasted image 20260120210252.png",
-    "Assets/Pasted image 20260120203056.png",
-    "Assets/Pasted image 20260120202952.png",
-    "CompSys/Networks/Security",
-    "Untitled 1.base",
-    "Untitled.base",
-    "CompSys/Pipelines",
-    "LINALG/Forelæsninger/f10.pdf",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

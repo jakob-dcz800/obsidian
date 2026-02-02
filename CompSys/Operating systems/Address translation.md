@@ -1,3 +1,8 @@
+---
+tags:
+  - Hardware
+  - OS
+---
 
 You are expected to perform address translation
 [watch video](https://sid.erda.dk/share_redirect/HmziebsZol/09_00_address_translation_hit_example.mp4)

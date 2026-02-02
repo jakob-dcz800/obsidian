@@ -3,6 +3,7 @@ tags:
   - Algorithm
   - DMA
   - Fundemental
+banner:
 ---
 # Algoritmer, Basale Begreber
 

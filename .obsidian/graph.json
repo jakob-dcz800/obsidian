@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"DMA\"  ",
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 2000918
       }
+    },
+    {
+      "query": "path:MAD  ",
+      "color": {
+        "a": 1,
+        "rgb": 2303
+      }
     }
   ],
   "collapse-display": true,
@@ -69,11 +76,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.818390292775242,
   "lineSizeMultiplier": 0.992942224201269,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.3828125,
-  "repelStrength": 6.30208333333333,
+  "repelStrength": 6.97916666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5592303806132123,
+  "scale": 0.40728851529428095,
   "close": true
 }

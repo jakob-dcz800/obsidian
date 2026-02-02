@@ -145,54 +145,13 @@ Insertion sort gør brug af et design som hedder incremental design.
 
 Et andet godt alternativ som er nemmere at udregne køretid på, er divide and conquer
 
-**Divide and conquer** gør brug af rekursive funktioner som opdeler problemet og løser dem på mindre skala, for efter at koble dem sammen for en løsning af det større problem.
+[[Divide and conquer]] gør brug af rekursive funktioner som opdeler problemet og løser dem på mindre skala, for efter at koble dem sammen for en løsning af det større problem.
 
 1. Divide: Del problemet op i mindre del-problemer som grundlæggende er samme problem, men mindre i størrelse
 2. Conquer: Løs delproblemerne
 3. Combine: Sæt del-problemerne sammen for løsning af det originale problem
 
-### Merge-sort
-
-Merge-sort gør brug af **divide and conquer** ved at dele den originale array `A[1:n]` op, og derefter løse samme problem for en sub-array som passes ned i samme funktion (`A[p:r]`)
-
-1. Divide: Del arrayet op i sub-arrays `A[p:r]` ved at finde mid: $q=\lfloor \frac{r-p}{2} \rfloor$. Sub-arrays bliver altså `A[p:q] & A[q + 1 : r]`
-2. Conquer: Ved at sorterer resultatet af de to sub-arrays rekursivt. De sorteres ved at vi kalder funktionen vi er i: `MERGE(A, p, q, r)`
-3. Combine: Ved at sammenlægge de to sorterede arrays `A[p:q] & A[q + 1 : r]`. Vi ender altså med `A[p:r]`
-
-Funktionen kan ikke kalde sig selv igen når `A.length == 1` altså når `p == q`
-
-Som tidligere nævnt er et array med kun 1 element altid sorteret.
-
-Nøglen er derfor i combine-delen af algoritmen
-
-#### Merge funktionen
-
-`MERGE` er en hjælpe funktion som er del af `MERGE-SORT` funktionen. `MERGE` antager at de to sub-arrays allerede er sorterede internt.
-
-For at merge de to arrays, kigger algoritmen på den første værdi i begge arrays, og lægger den mindste værdi af de to i output-arrayet.
-
-```jsx
-if (arr1[first] > arr2[first]) {
-	output_array.push(A[0])
-}
-```
-
-Siden operationen som udføres tager konstant tid, tager denne algoritme altså $\Theta(n)$ tid.
-
-Forklaring:
-
-$L$ er en kopi af det ene sub-array `A[p : q]`
-$R$ er en kopi af det andet sub-array `A[p + 1 : r]`
-$n_L$ og $n_R$ er længden af de respektive arrays
-
-$i$ indekserer $L$
-$j$ indekserer $R$
-
-$k=p$ fortæller hvor i $A$ algoritmen skal placere de sorterede tal
-
-#### Køretidsanalyse af merge-sort
-
-![[køretid_merge_sort.png]]
+![[Mergesort]]
 
 ## Lineær og binær søgning
 

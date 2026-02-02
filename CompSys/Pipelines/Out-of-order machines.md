@@ -1,3 +1,4 @@
+[[In-order machines]]
 ## Example 1
 
  * pk: "pick". Udvælgelse af en instruktion til udførelse. Kaldes nogle gange "instruction issue"
