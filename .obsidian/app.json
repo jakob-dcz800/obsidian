@@ -9,5 +9,6 @@
   "attachmentFolderPath": "Assets",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showLineNumber": false
 }
