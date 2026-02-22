@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "215745747f897a2e",
+        "id": "1c2808be3aef51c6",
         "type": "tabs",
         "children": [
           {
-            "id": "c62deefff9d3d644",
+            "id": "f78fcea18f6295e9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "AD/Afleveringer/2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2"
             }
           }
         ]
@@ -29,7 +43,6 @@
       {
         "id": "a930830c16e2e580",
         "type": "tabs",
-        "dimension": 71.9406674907293,
         "children": [
           {
             "id": "6fee564b4682444f",
@@ -55,11 +68,85 @@
             }
           }
         ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.50390243530273
+  },
+  "right": {
+    "id": "7305112d2ee5dcb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "167aa6f59446d8fe",
+        "type": "tabs",
+        "dimension": 63.96713615023474,
+        "children": [
+          {
+            "id": "89dff08fc1191aff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AD/Afleveringer/2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2"
+            }
+          },
+          {
+            "id": "a2f2a81848a30869",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PD/Eksempler/DR TV/Projektgrundlag og Strategianalyse (første aflevering).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Projektgrundlag og Strategianalyse (første aflevering)"
+            }
+          },
+          {
+            "id": "15517f77fd6f8a50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AD/Afleveringer/2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2"
+            }
+          },
+          {
+            "id": "21944e9b1a3e3efd",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          }
+        ],
+        "currentTab": 3
       },
       {
-        "id": "5774a816c727823b",
+        "id": "3510cc42799a34ef",
         "type": "tabs",
-        "dimension": 28.059332509270707,
+        "dimension": 36.032863849765256,
         "children": [
           {
             "id": "42a405c0ad7d9490",
@@ -67,6 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "AD/Afleveringer/2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -89,111 +177,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6915591455425439,
+                  "scale": 0.7788629274984593,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 2"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 246.50390243530273
-  },
-  "right": {
-    "id": "7305112d2ee5dcb1",
-    "type": "split",
-    "children": [
-      {
-        "id": "167aa6f59446d8fe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "89dff08fc1191aff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "dddaa8df98945574",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "AD/Algorithms/Divide and conquer/Master theorem.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Master theorem"
-            }
-          },
-          {
-            "id": "ca92975dad3884df",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "AD/Algorithms/Divide and conquer/Master theorem.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Master theorem"
-            }
-          },
-          {
-            "id": "9af8bf6fb56e8c06",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3c0bc72402517c93",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "57a686974e784550",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ],
-        "currentTab": 5
-      }
-    ],
-    "direction": "horizontal",
-    "width": 243.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,56 +198,59 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "57a686974e784550",
+  "active": "21944e9b1a3e3efd",
   "lastOpenFiles": [
-    "CompSys/Tools/masterclass/unix/unix_cheat_sheet.md",
-    "Untitled",
-    "SU/Exam/Slides.md",
-    "CompSys/Tools/windows.md",
-    "CompSys/Tools/README.md",
-    "CompSys/Tools/masterclass/git/git.pdf",
-    "CompSys/Tools/masterclass/git/git_intro.md",
-    "CompSys/Tools/masterclass/gdb/gdb.md",
-    "CompSys/CompSys.base",
-    "CompSys/Tools/masterclass/unix/unix.pdf",
-    "CompSys/Tools/masterclass/unix/exercises.md",
-    "CompSys/Tools/masterclass/gdb/Makefile",
-    "CompSys/Tools/masterclass/gdb/debug.c",
-    "CompSys/Tools/masterclass/gdb/debug",
-    "CompSys/Tools/masterclass/git/git_exercises.md",
-    "CompSys/Tools/masterclass/unix",
-    "CompSys/Tools/masterclass/gdb",
-    "CompSys/Tools/masterclass/git",
-    "CompSys/Tools/macos.md",
-    "CompSys/Tools/rars.md",
-    "CompSys/Tools/linux.md",
-    "CompSys/tools/masterclass/unix/unix_cheat_sheet.md",
-    "CompSys/tools/masterclass/unix/exercises.md",
-    "CompSys/tools/masterclass/git/git_exercises.md",
-    "CompSys/tools/masterclass/git/git_intro.md",
-    "CompSys/tools/masterclass/gdb/gdb.md",
-    "CompSys/tools/README.md",
-    "CompSys/tools/windows.md",
-    "CompSys/tools/linux.md",
-    "CompSys/tools/rars.md",
-    "CompSys/tools/macos.md",
-    "CompSys/Intro til C/Abstract state machine.md",
-    "CompSys/Intro til C/Aggregate data types.md",
+    "AD/Afleveringer/2.md",
+    "AD/Afleveringer/1.md",
+    "AD/Afleveringer/pdf/ugeopgave2.pdf",
+    "AD/Data structures/Fibonacci heap.md",
+    "PD/Eksempler/Danske Spil/Del 1/Projektgrundlag.pdf",
+    "PD/Eksempler/DR TV/Projektgrundlag og Strategianalyse (første aflevering).pdf",
+    "PD/Eksempler/DR TV/Analyserapport (anden aflevering).pdf",
+    "PD/Eksempler/Danske Spil/Del 1/Strategianalyse.pdf",
+    "PD/Afleveringer/Individuel tekst 1.md",
+    "PD/Eksempler/Danske Spil/Del 1/Bilag 1.pdf",
+    "PD/Afleveringer",
+    "AD/Forelæsninger/AD-2026-lec-3.pdf",
+    "AD/Data structures/Binære søgetræer.md",
+    "AD/Forelæsninger/Unconfirmed 295622.crdownload",
+    "AD/Data structures/Untitled.base",
+    "AD/Data structures/Priority queue.md",
+    "Assets/Pasted image 20260216162706.png",
+    "Assets/Pasted image 20260216162218.png",
+    "Assets/Pasted image 20260216161540.png",
+    "Assets/Pasted image 20260216161513.png",
+    "Assets/Pasted image 20260216161455.png",
+    "Assets/Pasted image 20260216160938.png",
+    "Assets/Pasted image 20260216160641.png",
+    "AD/Data structures/Binary heap.md",
+    "AD/Data structures/LSM Trees.md",
+    "AD/Data structures/Min heap.md",
+    "AD/Data structures/Max heap.md",
+    "Assets/Pasted image 20260216155754.png",
+    "Assets/Pasted image 20260216155710.png",
+    "Assets/Pasted image 20260216151551.png",
+    "DMA/Algoritmer og datastrukturer/Sortering og binære søgetræer.md",
+    "AD/Data structures/Rød-sorte søgetræer.md",
+    "AD/Amortized analysis/Potentialmetoden.md",
+    "DMA/Algoritmer og datastrukturer/Stakke, køer, lister, hobe.md",
+    "AD/Algorithms/Graph algorithms/Dijkstras algoritme.md",
+    "Untitled.md",
+    "AD/Untitled.md",
+    "AD/Algorithms/Divide and conquer/Substitution method.md",
     "AD/Algorithms/Divide and conquer/Master theorem.md",
-    "MAD/Regression/Classification.md",
-    "Assets/Pasted image 20260125001425.png",
-    "Assets/Pasted image 20260125001108.png",
-    "Assets/Pasted image 20260125001106.png",
-    "Assets/Pasted image 20260125001046.png",
-    "Assets/Pasted image 20260125001004.png",
-    "Assets/Pasted image 20260121095900.png",
-    "Assets/Pasted image 20260121094808.png",
-    "Assets/Pasted image 20260121094731.png",
-    "Assets/Pasted image 20260121094718.png",
-    "Assets/Pasted image 20260120222010.png",
+    "AD/Algorithms/Divide and conquer/Recursion trees.md",
+    "DMA/Algoritmer og datastrukturer/Grafalgoritmer.md",
+    "INTER/INTER.md",
+    "INTER/1. Forstå brugere/Tænkning, oplevelser, behov.md",
+    "INTER/1. Forstå brugere/Perception og bevægelse.md",
+    "INTER/2. Forstå interaktion/IT som værktøj.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

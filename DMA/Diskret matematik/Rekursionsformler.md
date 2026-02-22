@@ -5,3 +5,6 @@ tags:
 ---
 # Rekursionsformler
 
+## Eksempel
+
+![[Mergesort#Køretid]]

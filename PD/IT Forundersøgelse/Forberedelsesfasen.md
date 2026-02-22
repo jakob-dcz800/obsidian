@@ -1,0 +1,1 @@
+Indledende forarbejde som danner grundlag for beslutninger

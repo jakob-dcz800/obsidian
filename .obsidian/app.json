@@ -7,5 +7,7 @@
     "downscalePercent": 100
   },
   "attachmentFolderPath": "Assets",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
 }

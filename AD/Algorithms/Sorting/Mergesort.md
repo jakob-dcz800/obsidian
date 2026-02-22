@@ -1,5 +1,8 @@
 # Merge-sort
 
+> [!INFO]
+> Merge-sort kører i værste tilfælde $\Theta(n \lg n)$
+
 Merge-sort gør brug af [[divide and conquer]] ved at dele den originale array `A[1:n]` op, og derefter løse samme problem for en sub-array som passes ned i samme funktion (`A[p:r]`)
 
 1. Divide: Del arrayet op i sub-arrays `A[p:r]` ved at finde mid: $q=\lfloor \frac{r-p}{2} \rfloor$. Sub-arrays bliver altså `A[p:q] & A[q + 1 : r]`
@@ -8,14 +11,32 @@ Merge-sort gør brug af [[divide and conquer]] ved at dele den originale array `
 
 Funktionen kan ikke kalde sig selv igen når `A.length == 1` altså når `p == q`
 Som tidligere nævnt er et array med kun 1 element altid sorteret.
+Nøglen er derfor i *combine*-delen af algoritmen når vi bevæger os tilbage op ad træet.
 
-> Nøglen er derfor i *combine*-delen af algoritmen
+## Køretid
 
+> Merge-sort kører i værste tilfælde $\Theta(n \lg n)$
+
+For at undersøge [[Time complexity|køretiden]] indfører vi rekursionsligningen:
+$$
+T(n)=
+\begin{cases}
+\Theta(1) & \text{if } n=1 \\
+T(\lceil n/2 \rceil )+T(\lfloor n/2 \rfloor ) + \Theta(n) & \text{if } n > 1
+\end{cases}
+$$
+Hvor $T(n)$ er worst-case køretid for liste af $n$ elementer - ikke et udtryk for den [[Asymptotic notation|asymptotiske køretid]].
+Se [[Rekursionsligninger#Eksempel|løsning]]
+
+![[Recursion trees#Mergesort Merge-sort]]
 ## Merge funktionen
+
+> [!INFO]
+> Merge kører i tid $O(k_{1}+k_{2})$, hvor $k_{n}$ er længden af liste $n$
 
 `MERGE` er en hjælpe funktion som er del af `MERGE-SORT` funktionen. `MERGE` antager at de to sub-arrays allerede er sorterede internt.
 
-For at merge de to arrays, kigger algoritmen på den første værdi i begge arrays, og lægger den mindste værdi af de to i output-arrayet.
+For at merge de to arrays, kigger [[Algorithms|algoritmen]] på den første værdi i begge arrays, og lægger den mindste værdi af de to i output-arrayet.
 
 ```jsx
 if (arr1[first] > arr2[first]) {
@@ -36,10 +57,8 @@ $j$ indekserer $R$
 
 $k=p$ fortæller hvor i $A$ algoritmen skal placere de sorterede tal
 
-#### Køretidsanalyse af merge-sort
-
-![[køretid_merge_sort.png]]
-
+![[Pasted image 20260209142217.png]]
+![[Pasted image 20260209142415.png]]
 ## Pseudo kode
 
 ```python
