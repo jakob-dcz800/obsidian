@@ -32,6 +32,21 @@
             }
           },
           {
+            "id": "873cd361d6843d91",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore  (Index)"
+            }
+          },
+          {
             "id": "890974a20fcb943c",
             "type": "leaf",
             "state": {
@@ -55,7 +70,8 @@
               "title": "Rød-sorte søgetræer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,16 +128,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AD/Exam/Svar/June 24.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of June 24"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ca7189efa4e5df0c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3510cc42799a34ef",
@@ -134,7 +160,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AD/Exam/Svar/June 24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of June 24"
+              "title": "Graph view"
             }
           }
         ]
@@ -184,8 +209,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0aec45157cc88393",
+  "active": "873cd361d6843d91",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "AD/Exam/Svar/June 24.md",
     "AD/Exam/Svar/March 23.md",
     "AD/Exam/Svar/June 25.md",
     "Assets/Pasted image 20260407161948.png",
@@ -195,7 +222,6 @@
     "AD/Algoritmer og datastrukturer.md",
     "AD/Exam/Exam.md",
     "AD/Exam/Svar/March 25.md",
-    "AD/Exam/Svar/June 24.md",
     "AD/Exam/Svar/April 24.md",
     "Assets/Pasted image 20260407154605.png",
     "AD/Data structures/Tree traversal.md",
