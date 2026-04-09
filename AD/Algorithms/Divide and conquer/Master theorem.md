@@ -5,7 +5,7 @@ Master metoden er et formelt argument for køretiden - ikke et gæt
 
 >[!INFO] Forudsætninger
 >Hvis en rekursionsligning er på denne formel
-$$ T(n)=aT(nb)+f(n)$$
+$$ T(n)=aT(n/b)+f(n)$$
 >hvor $a\geq 1$ og $b > 1$ er konstanter. Så kan man bruge master metoden
 
 >[!NOTE] Definition

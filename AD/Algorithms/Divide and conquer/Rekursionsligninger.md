@@ -1,4 +1,4 @@
-# Definition
+# Rekursionsligninger
 
 >[!TIP]
 >Målet med at løse en rekursionsligning er 

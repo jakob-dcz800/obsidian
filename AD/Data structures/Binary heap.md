@@ -1,4 +1,5 @@
-# Operationer
+# Binary heap
+## Operationer
 
 | Operation      | Running time |
 | -------------- | ------------ |
@@ -12,3 +13,4 @@
 Worst-case køretider
 
 ![[Pasted image 20260216155754.png]]
+

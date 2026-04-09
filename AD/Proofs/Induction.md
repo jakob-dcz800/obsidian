@@ -1,23 +1,23 @@
+## Induction
 Another powerful proof method is induction (especially, in CS). 
 In a proof by induction, we have some property $P ⊂ N$, and our goal is to prove that $P = N$. 
 A proof by induction has two parts: 
 
 1. (base) $1 ∈ P$
 2. (step) for every $n ∈ N$, if $n ∈ P$ then $n + 1 ∈ P$
-
-## Example
+### Example
 
 let us try to prove that for every integer $n ∈ N$,
 $$
 \sum^n_{i=1} i =\frac{n(n+1)}{2}
 $$
-### Definition
+#### Definition
 $$
 P=\set{
 n \in \mathbb{N} : \sum^n_{i=1} i =\frac{n(n+1)}{2}
 }
 $$
-### Theorem
+#### Theorem
 $$
 P=\mathbb{N}
 $$
@@ -36,7 +36,7 @@ $$
 $$
 It follows that $n + 1\in P$
 
-# Strong induction
+## Strong induction
 
 Strong induction includes **base case** and **induction step**
 

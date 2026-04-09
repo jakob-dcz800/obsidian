@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c2808be3aef51c6",
+        "id": "1038b407115605fd",
         "type": "tabs",
         "children": [
           {
-            "id": "f78fcea18f6295e9",
+            "id": "0aec45157cc88393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AD/Afleveringer/2.md",
+                "file": "AD/Exam/Svar/June 24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2"
+              "title": "June 24"
+            }
+          },
+          {
+            "id": "890974a20fcb943c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AD/Data structures/Rød-sorte søgetræer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rød-sorte søgetræer"
             }
           }
         ]
@@ -71,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.50390243530273
+    "width": 310.5
   },
   "right": {
     "id": "7305112d2ee5dcb1",
@@ -88,60 +112,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AD/Afleveringer/2.md",
-                "followCursor": false,
+                "file": "AD/Exam/Svar/June 24.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2"
-            }
-          },
-          {
-            "id": "a2f2a81848a30869",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "PD/Eksempler/DR TV/Projektgrundlag og Strategianalyse (første aflevering).pdf",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Projektgrundlag og Strategianalyse (første aflevering)"
-            }
-          },
-          {
-            "id": "15517f77fd6f8a50",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "AD/Afleveringer/2.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2"
-            }
-          },
-          {
-            "id": "21944e9b1a3e3efd",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "title": "Outline of June 24"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "3510cc42799a34ef",
@@ -154,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AD/Afleveringer/2.md",
+                "file": "AD/Exam/Svar/June 24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,12 +157,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7788629274984593,
+                  "scale": 1.0131766086394138,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2"
+              "title": "Graph of June 24"
             }
           }
         ]
@@ -204,53 +184,53 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "21944e9b1a3e3efd",
+  "active": "0aec45157cc88393",
   "lastOpenFiles": [
-    "AD/Afleveringer/2.md",
-    "AD/Afleveringer/1.md",
-    "AD/Afleveringer/pdf/ugeopgave2.pdf",
-    "AD/Data structures/Fibonacci heap.md",
-    "PD/Eksempler/Danske Spil/Del 1/Projektgrundlag.pdf",
-    "PD/Eksempler/DR TV/Projektgrundlag og Strategianalyse (første aflevering).pdf",
-    "PD/Eksempler/DR TV/Analyserapport (anden aflevering).pdf",
-    "PD/Eksempler/Danske Spil/Del 1/Strategianalyse.pdf",
-    "PD/Afleveringer/Individuel tekst 1.md",
-    "PD/Eksempler/Danske Spil/Del 1/Bilag 1.pdf",
-    "PD/Afleveringer",
-    "AD/Forelæsninger/AD-2026-lec-3.pdf",
-    "AD/Data structures/Binære søgetræer.md",
-    "AD/Forelæsninger/Unconfirmed 295622.crdownload",
-    "AD/Data structures/Untitled.base",
-    "AD/Data structures/Priority queue.md",
-    "Assets/Pasted image 20260216162706.png",
-    "Assets/Pasted image 20260216162218.png",
-    "Assets/Pasted image 20260216161540.png",
-    "Assets/Pasted image 20260216161513.png",
-    "Assets/Pasted image 20260216161455.png",
-    "Assets/Pasted image 20260216160938.png",
-    "Assets/Pasted image 20260216160641.png",
-    "AD/Data structures/Binary heap.md",
-    "AD/Data structures/LSM Trees.md",
-    "AD/Data structures/Min heap.md",
-    "AD/Data structures/Max heap.md",
-    "Assets/Pasted image 20260216155754.png",
-    "Assets/Pasted image 20260216155710.png",
-    "Assets/Pasted image 20260216151551.png",
-    "DMA/Algoritmer og datastrukturer/Sortering og binære søgetræer.md",
+    "AD/Exam/Svar/March 23.md",
+    "AD/Exam/Svar/June 25.md",
+    "Assets/Pasted image 20260407161948.png",
     "AD/Data structures/Rød-sorte søgetræer.md",
-    "AD/Amortized analysis/Potentialmetoden.md",
-    "DMA/Algoritmer og datastrukturer/Stakke, køer, lister, hobe.md",
-    "AD/Algorithms/Graph algorithms/Dijkstras algoritme.md",
-    "Untitled.md",
-    "AD/Untitled.md",
-    "AD/Algorithms/Divide and conquer/Substitution method.md",
-    "AD/Algorithms/Divide and conquer/Master theorem.md",
-    "AD/Algorithms/Divide and conquer/Recursion trees.md",
-    "DMA/Algoritmer og datastrukturer/Grafalgoritmer.md",
-    "INTER/INTER.md",
-    "INTER/1. Forstå brugere/Tænkning, oplevelser, behov.md",
-    "INTER/1. Forstå brugere/Perception og bevægelse.md",
-    "INTER/2. Forstå interaktion/IT som værktøj.md",
+    "AD/Exam/Svar/April 23.md",
+    "AD/One pager.md",
+    "AD/Algoritmer og datastrukturer.md",
+    "AD/Exam/Exam.md",
+    "AD/Exam/Svar/March 25.md",
+    "AD/Exam/Svar/June 24.md",
+    "AD/Exam/Svar/April 24.md",
+    "Assets/Pasted image 20260407154605.png",
+    "AD/Data structures/Tree traversal.md",
+    "AD/Exam/Set/exam-june-2025.pdf",
+    "AD/Algorithms/Greedy algorithms.md",
+    "Assets/Pasted image 20260407151559.png",
+    "Assets/Pasted image 20260407151312.png",
+    "Assets/Pasted image 20260407150248.png",
+    "Assets/Pasted image 20260407145847.png",
+    "Assets/Pasted image 20260407145545.png",
+    "Assets/Pasted image 20260407145525.png",
+    "AD/Exam/Set/exam-march-2025.pdf",
+    "AD/Algorithms/Longest common subsequence.md",
+    "AD/Algorithms/Rod cutting.md",
+    "AD/Algorithms/Dynamisk programmering.md",
+    "Assets/Pasted image 20260407144736.png",
+    "AD/Exam/Set/exam--june-2024-1.pdf",
+    "Assets/Pasted image 20260407142217.png",
+    "AD/Algoritmisk geometri/Graham’s Scan.md",
+    "AD/Algoritmisk geometri/Jarvis March.md",
+    "AD/Forelæsninger/cg.pdf",
+    "AD/Algoritmisk geometri/Convex quantities.md",
+    "AD/Algoritmisk geometri/Convex hull.md",
+    "AD/Algorithms/Parallel algorithms/Recursion equations.md",
+    "AD/Algorithms/Parallel algorithms/Critical path.md",
+    "AD/Algorithms/Parallel algorithms/Grafmodel for parallelforløb.md",
+    "LINALG/Underrum/Span.md",
+    "AD/Problems/Matrixkædemultiplikation.md",
+    "AD/Algorithms/Matrixkædemultiplikation.md",
+    "AD/Exam/Set/exam-april-2023-final-1.pdf",
+    "AD/Ordliste_for_algoritmer_og_datastrukturer-1.pdf",
+    "AD/Exam/Set/trial-exam-march-2023-final-1.pdf",
+    "AD/Exam/Set/opgavesamling-1.pdf",
+    "AD/Exam/Set/exam-april-2024-1.pdf",
+    "AD/Exam/Svar",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

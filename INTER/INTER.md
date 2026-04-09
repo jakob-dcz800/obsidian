@@ -14,7 +14,7 @@ tags:
 #### Brugergrænseflader
 [[Brugergrænseflader]]
 [[Feltstudier og spørgeskemaer]]
-[[Interviews]]
+[[INTER/3. Brugergrænseflader/Interviews]]
 #### Design
 [[Design og kognition]]
 [[Praksis og processer]]

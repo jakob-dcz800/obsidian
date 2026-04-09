@@ -1,3 +1,4 @@
+# Substitution method
 >[!INFO] Purpose
 >The substitution method is used to find upper- (and lower) bounds on [[recurrences]] using mathematical [[induction]].
 

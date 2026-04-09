@@ -2,7 +2,7 @@
 > Floor and ceiling can be ignored
 > Base step can be ignored
 
-# Examples
+# Recursion trees
 
 ## [[Mergesort|Merge-sort]]
 

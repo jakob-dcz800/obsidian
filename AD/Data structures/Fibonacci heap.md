@@ -1,4 +1,5 @@
-# Operationer
+# Fibonacci heap
+## Operationer
 
 | Operation      | Running time |
 | -------------- | ------------ |
@@ -9,26 +10,30 @@
 | `Union`        | $O(1)$       |
 | `Decrease-key` | $O(1)$       |
 | `Delete`       | $O(\lg n)$   |
-[[Amortized analysis|Amortiserede]] køretider, ikke worst-case ligesom [[binary heap]]. Dvs. omtrent gennemsnitlige køretider 
-## Heap-Insert
+[[Amortized analysis|Amortiserede]] køretider, ikke worst-case ligesom [[binary heap]]. 
+Dvs. omtrent gennemsnitlige køretider 
+### Heap-Insert
+
 ![[Pasted image 20260216161513.png]]
 
-## Extract-Min
+### Extract-Min
+
 ![[Pasted image 20260216161540.png]]
 
 Sidste skridt i `Extract-Min`, der leder til bedre amortiseret kompleksitet: 
 	`Consolidate` sørger for at der ikke findes to rodknuder med lige mange børn
 
-## Consolidate
+### Consolidate
 
 ![[Pasted image 20260216162218.png]]
 
-# Definition
+## Definition
 
-Fibonacci [[Stakke, køer, lister, hobe#Hobe|hoben]] er et samling af rodfæstede træer.
+`kFibonacci` [[Stakke, køer, lister, hobe#Hobe|hoben]] er et samling af rodfæstede træer.
 Hver knude `x` har nøgle `key(x)`$\in \mathbb{R}$. Nøglen svarer til den indsatte reelle værdi.
 
 ### Attributter
+invariant: Nøgler falder i værdi når man går mod roden
 
 | Attribut  | Betydning                           |
 | --------- | ----------------------------------- |
@@ -64,16 +69,16 @@ En heap kan have op til flere træer.
 ![[Slides_Fibonacci_uden_indlagte_pauser-1.pdf#page=6&rect=273,154,560,767|Slides_Fibonacci_uden_indlagte_pauser-1, p.6]]
 
 ![[Pasted image 20260216160641.png]]
-## Fordele
+### Fordele
 
 Det, at `Decrease-key` kører i tid $O(1)$ er en fordel når det kommer til 
 [[Dijkstras algoritme|Dijkstra]]'s- og [[Prims algoritme]]
-## Ulemper
+### Ulemper
 
 Fibonacci heaps er i praksis ret langsomme, men giver gode teoretiske begrænsninger for køretid.
 Man skal op på meget store problemstørrelser før at fibonacci heaps slår [[binary heap|binary heaps]]
 
-# Amortiseret omkostning
+## Amortiseret omkostning
 
 Se [[potentialmetoden]]
 

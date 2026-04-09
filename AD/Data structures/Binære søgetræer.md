@@ -1,4 +1,5 @@
-# Operationer
+# Binære søgetræer 
+## Operationer
 
 | Operation        | Køretid | Betydning |
 | ---------------- | ------- | --------- |
@@ -13,3 +14,5 @@ $\lg n ≤ h < n$
 [[LSM Trees]]
 
 Vi vil gerne have et balanceret træ som har dybde $\log_{2}n$
+
+![[Pasted image 20260403182923.png]]

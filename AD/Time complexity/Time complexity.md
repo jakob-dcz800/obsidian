@@ -1,3 +1,4 @@
+# Time complexity
 [[Køretidsanalyse]]
 ## Running time
 

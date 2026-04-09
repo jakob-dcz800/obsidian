@@ -1,3 +1,4 @@
+# Binary counter
 I forbindelse med [[Amortized analysis|amortiseret analyse]] kigger vi på omkostningen ved at lægge binære tal sammen.
 
 ![[Pasted image 20260211134432.png]]

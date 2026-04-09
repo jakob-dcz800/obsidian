@@ -1,8 +1,8 @@
+# Max heap
 A min heap is a [[Binary heap]]
-# Egenskaber
-## Operationer
+## Egenskaber
 
-## Invarianter
+### Invarianter
 - Træet er perfekt balanceret 
 - Knuder på nederste niveau er placeret længst til venstre 
 - Værdierne er **ikke-aftagende** på stier fra blade til roden
