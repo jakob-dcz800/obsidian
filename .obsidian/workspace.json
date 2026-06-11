@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1038b407115605fd",
+        "id": "ad09a951053bb786",
         "type": "tabs",
         "children": [
           {
-            "id": "0aec45157cc88393",
+            "id": "90cd0024c8d11e39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AD/Exam/Svar/June 24.md",
+                "file": "IPS/Automatons/Converting to a DFA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "June 24"
+              "title": "Converting to a DFA"
             }
           },
           {
-            "id": "873cd361d6843d91",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Index)"
-            }
-          },
-          {
-            "id": "890974a20fcb943c",
+            "id": "a88bf9b9b596b2b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AD/Data structures/Rød-sorte søgetræer.md",
+                "file": "IPS/Automatons/Epsilon closure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -67,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rød-sorte søgetræer"
+              "title": "Epsilon closure"
             }
           }
         ],
@@ -111,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 237.5
   },
   "right": {
     "id": "7305112d2ee5dcb1",
@@ -128,26 +113,59 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "IPS/Automatons/Epsilon closure.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Epsilon closure"
             }
           },
           {
-            "id": "ca7189efa4e5df0c",
+            "id": "ea9d7339b50ce7b7",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "backlink",
+              "state": {
+                "file": "IPS/Automatons/Epsilon closure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Epsilon closure"
+            }
+          },
+          {
+            "id": "e31da73139a5592e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IPS/Automatons/Epsilon closure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Epsilon closure"
+            }
+          },
+          {
+            "id": "4a2bc385748d0a26",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3510cc42799a34ef",
@@ -160,6 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "IPS/Automatons/Epsilon closure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +206,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Epsilon closure"
             }
           }
         ]
@@ -209,54 +228,54 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "873cd361d6843d91",
+  "active": "a88bf9b9b596b2b7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "AD/Exam/Svar/June 24.md",
-    "AD/Exam/Svar/March 23.md",
-    "AD/Exam/Svar/June 25.md",
-    "Assets/Pasted image 20260407161948.png",
-    "AD/Data structures/Rød-sorte søgetræer.md",
-    "AD/Exam/Svar/April 23.md",
+    "IPS/Automatons/Converting to a DFA.md",
+    "IPS/Automatons/Minimizing a DFA.md",
+    "Assets/Pasted image 20260611154256.png",
+    "Assets/Pasted image 20260611154243.png",
+    "IPS/Automatons/Epsilon closure.md",
+    "IPS/Automatons/NFA.md",
+    "IPS/Automatons/DFA.md",
+    "Assets/Pasted image 20260611125600.png",
+    "Assets/Pasted image 20260611121613.png",
+    "SU/Exam/Slides.md",
+    "CompSys/Tools/masterclass/unix/unix_cheat_sheet.md",
+    "Assets/Pasted image 20260611114048.png",
+    "Assets/Pasted image 20260611113815.png",
+    "Assets/Pasted image 20260608163439.png",
+    "Assets/Pasted image 20260608161728.png",
+    "Assets/Pasted image 20260608161624.png",
+    "Assets/Pasted image 20260608161325.png",
+    "IPS/Compiler/Syntax/Syntax tree.md",
+    "IPS/Automatons",
+    "IPS/Compiler/Syntax/Syntax Analysis.md",
+    "IPS/Compiler/Syntax/Context-free grammars.md",
+    "IPS/Compiler/Lexing/Lexical Analysis.md",
+    "DIS/Relational algebra/RANF.md",
+    "DIS/Relational algebra/Queries.md",
+    "DIS/Relational algebra/Relational algebra.md",
+    "DIS/Relational algebra/Relational calculus.md",
+    "DIS/Relational algebra/Domain independence.md",
+    "DIS/Relational algebra",
+    "DIS/Assigment/1.md",
     "AD/One pager.md",
-    "AD/Algoritmer og datastrukturer.md",
-    "AD/Exam/Exam.md",
-    "AD/Exam/Svar/March 25.md",
-    "AD/Exam/Svar/April 24.md",
-    "Assets/Pasted image 20260407154605.png",
-    "AD/Data structures/Tree traversal.md",
-    "AD/Exam/Set/exam-june-2025.pdf",
-    "AD/Algorithms/Greedy algorithms.md",
-    "Assets/Pasted image 20260407151559.png",
-    "Assets/Pasted image 20260407151312.png",
-    "Assets/Pasted image 20260407150248.png",
-    "Assets/Pasted image 20260407145847.png",
-    "Assets/Pasted image 20260407145545.png",
-    "Assets/Pasted image 20260407145525.png",
-    "AD/Exam/Set/exam-march-2025.pdf",
-    "AD/Algorithms/Longest common subsequence.md",
-    "AD/Algorithms/Rod cutting.md",
-    "AD/Algorithms/Dynamisk programmering.md",
-    "Assets/Pasted image 20260407144736.png",
-    "AD/Exam/Set/exam--june-2024-1.pdf",
-    "Assets/Pasted image 20260407142217.png",
-    "AD/Algoritmisk geometri/Graham’s Scan.md",
-    "AD/Algoritmisk geometri/Jarvis March.md",
-    "AD/Forelæsninger/cg.pdf",
-    "AD/Algoritmisk geometri/Convex quantities.md",
-    "AD/Algoritmisk geometri/Convex hull.md",
-    "AD/Algorithms/Parallel algorithms/Recursion equations.md",
-    "AD/Algorithms/Parallel algorithms/Critical path.md",
-    "AD/Algorithms/Parallel algorithms/Grafmodel for parallelforløb.md",
-    "LINALG/Underrum/Span.md",
-    "AD/Problems/Matrixkædemultiplikation.md",
-    "AD/Algorithms/Matrixkædemultiplikation.md",
-    "AD/Exam/Set/exam-april-2023-final-1.pdf",
+    "DIS/Assigment",
+    "LINALG/Underrum/Nulrum.md",
+    "LINALG/Underrum/Gram-Schmidt processen.md",
+    "LINALG/Underrum/Egenrum.md",
+    "AD/Untitled.md",
     "AD/Ordliste_for_algoritmer_og_datastrukturer-1.pdf",
-    "AD/Exam/Set/trial-exam-march-2023-final-1.pdf",
-    "AD/Exam/Set/opgavesamling-1.pdf",
-    "AD/Exam/Set/exam-april-2024-1.pdf",
-    "AD/Exam/Svar",
+    "IPS/Regular expressions",
+    "IPS/Compiler/Syntax/Analysis (# Edit conflict 2026-04-27 nb97spC #).md",
+    "IPS/Compiler/Lexing",
+    "DIS/Regex/Regular Expressions.md",
+    "IPS/Compiler/Syntax",
+    "DIS/Regex/Regular Expressions (# Edit conflict 2026-04-23 22kpf9C #).md",
+    "DIS/Databases/Keys.md",
+    "DIS/Regex",
+    "IPS/Compiler",
+    "IPS/Interpretation",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
