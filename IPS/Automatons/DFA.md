@@ -25,3 +25,7 @@ No $ϵ$ transitions, no 2 identically labelled transitions from a state.
 >[!IMPORTANT] Important
 >**At most one** transition possible from any state, uniquely identified by current state & input char.
 
+## Dead states
+
+A dead state is a state from which no accepting state can be reached.
+They do not occur in [[DFA]]'s constructed from [[NFA]]'s with no dead states.

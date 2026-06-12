@@ -1,5 +1,8 @@
 {
   "cssTheme": "Minimal",
   "textFontFamily": "",
-  "theme": "system"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "math-colors"
+  ]
 }

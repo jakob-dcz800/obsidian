@@ -1,0 +1,16 @@
+.math {
+    color: #86d8e6;
+}
+
+.math.math-inline {
+    color: #06b6d4;
+}
+
+.math.math-block {
+    color: #3b82f6;
+}
+
+/* .cm-inline-code {
+    color: crimson !important;
+    font-weight:900;
+} */

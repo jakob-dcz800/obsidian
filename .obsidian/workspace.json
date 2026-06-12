@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad09a951053bb786",
+        "id": "f9d39f8d397a77bd",
         "type": "tabs",
         "children": [
           {
-            "id": "90cd0024c8d11e39",
+            "id": "02758f71281a2e9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPS/Automatons/Converting to a DFA.md",
+                "file": "IPS/Compiler/Parsing/Look ahead set.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Converting to a DFA"
+              "title": "Look ahead set"
             }
           },
           {
-            "id": "a88bf9b9b596b2b7",
+            "id": "3bf88762f680783a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPS/Automatons/Epsilon closure.md",
+                "file": "IPS/Compiler/Parsing/Follow Set.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Epsilon closure"
+              "title": "Follow Set"
+            }
+          },
+          {
+            "id": "ef625e0ca2202cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPS/Compiler/Parsing/Nullable Property.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nullable Property"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,124 +119,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 282.5
   },
   "right": {
     "id": "7305112d2ee5dcb1",
     "type": "split",
-    "children": [
-      {
-        "id": "167aa6f59446d8fe",
-        "type": "tabs",
-        "dimension": 63.96713615023474,
-        "children": [
-          {
-            "id": "89dff08fc1191aff",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "IPS/Automatons/Epsilon closure.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Epsilon closure"
-            }
-          },
-          {
-            "id": "ea9d7339b50ce7b7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "IPS/Automatons/Epsilon closure.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Epsilon closure"
-            }
-          },
-          {
-            "id": "e31da73139a5592e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "IPS/Automatons/Epsilon closure.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Epsilon closure"
-            }
-          },
-          {
-            "id": "4a2bc385748d0a26",
-            "type": "leaf",
-            "state": {
-              "type": "Saved Queries View",
-              "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3510cc42799a34ef",
-        "type": "tabs",
-        "dimension": 36.032863849765256,
-        "children": [
-          {
-            "id": "42a405c0ad7d9490",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "IPS/Automatons/Epsilon closure.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.08255208333333,
-                  "lineSizeMultiplier": 1.51640625,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0131766086394138,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Epsilon closure"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,54 +142,54 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a88bf9b9b596b2b7",
+  "active": "02758f71281a2e9f",
   "lastOpenFiles": [
-    "IPS/Automatons/Converting to a DFA.md",
-    "IPS/Automatons/Minimizing a DFA.md",
-    "Assets/Pasted image 20260611154256.png",
-    "Assets/Pasted image 20260611154243.png",
-    "IPS/Automatons/Epsilon closure.md",
-    "IPS/Automatons/NFA.md",
-    "IPS/Automatons/DFA.md",
-    "Assets/Pasted image 20260611125600.png",
-    "Assets/Pasted image 20260611121613.png",
-    "SU/Exam/Slides.md",
-    "CompSys/Tools/masterclass/unix/unix_cheat_sheet.md",
-    "Assets/Pasted image 20260611114048.png",
-    "Assets/Pasted image 20260611113815.png",
-    "Assets/Pasted image 20260608163439.png",
-    "Assets/Pasted image 20260608161728.png",
-    "Assets/Pasted image 20260608161624.png",
-    "Assets/Pasted image 20260608161325.png",
-    "IPS/Compiler/Syntax/Syntax tree.md",
-    "IPS/Automatons",
-    "IPS/Compiler/Syntax/Syntax Analysis.md",
-    "IPS/Compiler/Syntax/Context-free grammars.md",
-    "IPS/Compiler/Lexing/Lexical Analysis.md",
-    "DIS/Relational algebra/RANF.md",
-    "DIS/Relational algebra/Queries.md",
-    "DIS/Relational algebra/Relational algebra.md",
-    "DIS/Relational algebra/Relational calculus.md",
-    "DIS/Relational algebra/Domain independence.md",
-    "DIS/Relational algebra",
-    "DIS/Assigment/1.md",
+    "Assets/Pasted image 20260612190338.png",
+    "Assets/Pasted image 20260612190325.png",
+    "Assets/Pasted image 20260612190253.png",
+    "Assets/Pasted image 20260612190229.png",
+    "IPS/Compiler/Parsing/Top-Down Parsing.md",
+    "IPS/Compiler/Parsing/Look ahead set.md",
+    "IPS/Compiler/Parsing/Nullable Property.md",
+    "IPS/Compiler/Parsing/Follow Set.md",
+    "IPS/Exam/2025.md",
+    "IPS/Compiler/Parsing/LL(1).md",
+    "IPS/Compiler/Parsing/First Set.md",
+    "Excalidraw/Drawing 2026-06-12 15.26.32.excalidraw.md",
+    "Assets/Pasted Image 20260612152635_713.png",
     "AD/One pager.md",
+    "IPS/Compiler/Syntax/Context-free grammars.md",
+    "Assets/Pasted image 20260611221332.png",
+    "Assets/Pasted image 20260611221110.png",
+    "Assets/Pasted image 20260611221051.png",
+    "Assets/Pasted image 20260611220823.png",
+    "Assets/Pasted image 20260611215303.png",
+    "Assets/Pasted image 20260611215249.png",
+    "IPS/Compiler/Parsing/Bottom-Up Parsing.md",
+    "IPS/Automatons/Epsilon closure.md",
+    "IPS/Automatons/Minimizing a DFA.md",
+    "IPS/Compiler/Syntax/Syntax trees.md",
+    "IPS/Compiler/Syntax/Syntax tree.md",
+    "IPS/Compiler/Syntax/Syntax Analysis.md",
+    "IPS/Compiler/Parsing/Untitled.base",
+    "IPS/Compiler/Parsing",
+    "IPS/Compiler/Syntax/Language.md",
+    "IPS/Implementation of Programming Languages (IPS).md",
+    "IPS/Exam",
+    "IPS/Automatons/DFA.md",
+    "IPS/Automatons/Converting to a DFA.md",
+    "AD/Amortized analysis/Amortized analysis.md",
+    "AD/Exam/Svar/April 23.md",
+    "AD/Data structures/Forest.md",
+    "AD/Data structures/Binary heap.md",
+    "IPS/Automatons/NFA.md",
+    "IPS/Automatons",
+    "DIS/Relational algebra",
     "DIS/Assigment",
-    "LINALG/Underrum/Nulrum.md",
-    "LINALG/Underrum/Gram-Schmidt processen.md",
-    "LINALG/Underrum/Egenrum.md",
-    "AD/Untitled.md",
     "AD/Ordliste_for_algoritmer_og_datastrukturer-1.pdf",
     "IPS/Regular expressions",
-    "IPS/Compiler/Syntax/Analysis (# Edit conflict 2026-04-27 nb97spC #).md",
     "IPS/Compiler/Lexing",
-    "DIS/Regex/Regular Expressions.md",
     "IPS/Compiler/Syntax",
-    "DIS/Regex/Regular Expressions (# Edit conflict 2026-04-23 22kpf9C #).md",
-    "DIS/Databases/Keys.md",
-    "DIS/Regex",
-    "IPS/Compiler",
-    "IPS/Interpretation",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

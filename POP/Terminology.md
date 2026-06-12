@@ -87,7 +87,7 @@ $({x = 18}, λy.x + y)$
 Represents the mathematical function that maps $y$ to $x + y$ where $x = 18$
 The function value $({x = 18}, λy.x + y)$ can be written as
 
-```kotlin
+```fsharp
 let x = 18  
 fun y -> x + y  
 ```

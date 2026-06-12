@@ -22,12 +22,12 @@
   "trimNames": true,
   "labeledNav": false,
   "fullWidthMedia": true,
-  "bordersToggle": false,
+  "bordersToggle": true,
   "minimalStatus": true,
   "focusMode": false,
   "underlineInternal": true,
   "underlineExternal": true,
   "folding": true,
-  "lineNumbers": false,
+  "lineNumbers": true,
   "readableLineLength": true
 }

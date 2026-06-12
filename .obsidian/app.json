@@ -10,5 +10,8 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "showLineNumber": false
+  "showLineNumber": true,
+  "showInlineTitle": false,
+  "foldIndent": false,
+  "readableLineLength": true
 }

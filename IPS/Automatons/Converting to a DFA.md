@@ -17,3 +17,4 @@ We have our sets from the [[epsilon closure]].
 ## Tradeoff
 
 ![[Pasted image 20260611154256.png]]
+
