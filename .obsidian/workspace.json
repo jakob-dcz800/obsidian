@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9d39f8d397a77bd",
+        "id": "353d1af12301eae2",
         "type": "tabs",
         "children": [
           {
-            "id": "02758f71281a2e9f",
+            "id": "8315d0ee5539aba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPS/Compiler/Parsing/Look ahead set.md",
+                "file": "IPS/Exam/2024.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Look ahead set"
+              "title": "2024"
             }
           },
           {
-            "id": "3bf88762f680783a",
+            "id": "3cbb25accbb30f17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPS/Compiler/Parsing/Follow Set.md",
+                "file": "IPS/Exam/2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,34 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Follow Set"
-            }
-          },
-          {
-            "id": "ef625e0ca2202cb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IPS/Compiler/Parsing/Nullable Property.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nullable Property"
+              "title": "2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,14 +96,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7305112d2ee5dcb1",
     "type": "split",
     "children": [],
     "direction": "horizontal",
-    "width": 278.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -142,32 +120,38 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "02758f71281a2e9f",
+  "active": "8315d0ee5539aba6",
   "lastOpenFiles": [
-    "Assets/Pasted image 20260612190338.png",
-    "Assets/Pasted image 20260612190325.png",
-    "Assets/Pasted image 20260612190253.png",
-    "Assets/Pasted image 20260612190229.png",
-    "IPS/Compiler/Parsing/Top-Down Parsing.md",
-    "IPS/Compiler/Parsing/Look ahead set.md",
-    "IPS/Compiler/Parsing/Nullable Property.md",
-    "IPS/Compiler/Parsing/Follow Set.md",
     "IPS/Exam/2025.md",
-    "IPS/Compiler/Parsing/LL(1).md",
+    "IPS/Exam/2024.md",
+    "Assets/Pasted image 20260614223250.png",
+    "Assets/Pasted image 20260614223141.png",
+    "Assets/Pasted image 20260614223113.png",
+    "Assets/Pasted image 20260614223013.png",
+    "Assets/Pasted image 20260614222556.png",
+    "Assets/Pasted image 20260614222547.png",
+    "Assets/Pasted image 20260614222409.png",
+    "Assets/Pasted image 20260614222356.png",
+    "Assets/Pasted image 20260614222325.png",
+    "Assets/Pasted image 20260614222254.png",
+    "IPS/Compiler/Parsing/Follow Set.md",
     "IPS/Compiler/Parsing/First Set.md",
-    "Excalidraw/Drawing 2026-06-12 15.26.32.excalidraw.md",
-    "Assets/Pasted Image 20260612152635_713.png",
-    "AD/One pager.md",
     "IPS/Compiler/Syntax/Context-free grammars.md",
-    "Assets/Pasted image 20260611221332.png",
-    "Assets/Pasted image 20260611221110.png",
-    "Assets/Pasted image 20260611221051.png",
-    "Assets/Pasted image 20260611220823.png",
-    "Assets/Pasted image 20260611215303.png",
-    "Assets/Pasted image 20260611215249.png",
-    "IPS/Compiler/Parsing/Bottom-Up Parsing.md",
-    "IPS/Automatons/Epsilon closure.md",
     "IPS/Automatons/Minimizing a DFA.md",
+    "IPS/Automatons/Converting to a DFA.md",
+    "IPS/Automatons/Epsilon closure.md",
+    "IPS/Automatons/NFA.md",
+    "IPS/Automatons/DFA.md",
+    "IPS/Compiler/Register allocation/Data-Flow Equations.md",
+    "IPS/Compiler/Register allocation/Liveness analysis.md",
+    "IPS/Compiler/Register allocation",
+    "IPS/Compiler/Parsing/LL(1).md",
+    "IPS/Compiler/Parsing/Look ahead set.md",
+    "IPS/Compiler/Parsing/Top-Down Parsing.md",
+    "IPS/Compiler/Parsing/Nullable Property.md",
+    "Excalidraw/Drawing 2026-06-12 15.26.32.excalidraw.md",
+    "AD/One pager.md",
+    "IPS/Compiler/Parsing/Bottom-Up Parsing.md",
     "IPS/Compiler/Syntax/Syntax trees.md",
     "IPS/Compiler/Syntax/Syntax tree.md",
     "IPS/Compiler/Syntax/Syntax Analysis.md",
@@ -176,20 +160,13 @@
     "IPS/Compiler/Syntax/Language.md",
     "IPS/Implementation of Programming Languages (IPS).md",
     "IPS/Exam",
-    "IPS/Automatons/DFA.md",
-    "IPS/Automatons/Converting to a DFA.md",
     "AD/Amortized analysis/Amortized analysis.md",
-    "AD/Exam/Svar/April 23.md",
-    "AD/Data structures/Forest.md",
-    "AD/Data structures/Binary heap.md",
-    "IPS/Automatons/NFA.md",
     "IPS/Automatons",
     "DIS/Relational algebra",
     "DIS/Assigment",
     "AD/Ordliste_for_algoritmer_og_datastrukturer-1.pdf",
     "IPS/Regular expressions",
     "IPS/Compiler/Lexing",
-    "IPS/Compiler/Syntax",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
