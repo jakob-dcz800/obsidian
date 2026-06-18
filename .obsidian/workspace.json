@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "353d1af12301eae2",
+        "id": "c394839fab48e2da",
         "type": "tabs",
         "children": [
           {
-            "id": "8315d0ee5539aba6",
+            "id": "34868e335a194204",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPS/Exam/2024.md",
+                "file": "DIS/Exam/2024.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "3cbb25accbb30f17",
+            "id": "38783839625a6d06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPS/Exam/2025.md",
+                "file": "DIS/Relational Calculus/Relational Calculus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "Relational Calculus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,16 +95,90 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "7305112d2ee5dcb1",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "1dd7abc15044884c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bad9202bb4ed67d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IPS/Exam/2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024"
+            }
+          },
+          {
+            "id": "63c416a782cd1b49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IPS/Exam/2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024"
+            }
+          },
+          {
+            "id": "5acdf2ee4df44ac2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DIS/Exam/2024.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024"
+            }
+          },
+          {
+            "id": "e65278816a6bb88c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4f18b3ab01efcc41",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -114,59 +187,57 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "8315d0ee5539aba6",
+  "active": "34868e335a194204",
   "lastOpenFiles": [
-    "IPS/Exam/2025.md",
+    "Assets/Pasted image 20260618121310.png",
+    "DIS/Relational Calculus/Relational Calculus.md",
+    "DIS/SQL/SQL.md",
+    "DIS/Exam/2024.md",
+    "Assets/Pasted image 20260618115550.png",
+    "Assets/Pasted image 20260618115530.png",
+    "Assets/Pasted image 20260618115509.png",
+    "Assets/Pasted image 20260618115505.png",
+    "DIS/Exam/2025.md",
+    "Assets/Pasted image 20260617210954.png",
+    "Assets/Pasted image 20260617210941.png",
+    "Assets/Pasted image 20260617200557.png",
+    "DIS/Relational algebra/Relational algebra.md",
+    "DIS/SQL/SQL Basic.md",
+    "Assets/Pasted image 20260617164242.png",
+    "Assets/Pasted image 20260617163352.png",
+    "Assets/Pasted image 20260617163317.png",
+    "DIS/Relational algebra/RANF.md",
+    "DIS/Databases/ER Modeling (# Edit conflict 2026-04-23 gag079C #).md",
+    "DIS/Exam",
+    "DIS/Relational algebra/Queries.md",
+    "DIS/Relational algebra/Domain independence.md",
+    "DIS/Relational Calculus",
     "IPS/Exam/2024.md",
-    "Assets/Pasted image 20260614223250.png",
-    "Assets/Pasted image 20260614223141.png",
-    "Assets/Pasted image 20260614223113.png",
-    "Assets/Pasted image 20260614223013.png",
-    "Assets/Pasted image 20260614222556.png",
-    "Assets/Pasted image 20260614222547.png",
-    "Assets/Pasted image 20260614222409.png",
-    "Assets/Pasted image 20260614222356.png",
-    "Assets/Pasted image 20260614222325.png",
-    "Assets/Pasted image 20260614222254.png",
-    "IPS/Compiler/Parsing/Follow Set.md",
-    "IPS/Compiler/Parsing/First Set.md",
-    "IPS/Compiler/Syntax/Context-free grammars.md",
-    "IPS/Automatons/Minimizing a DFA.md",
-    "IPS/Automatons/Converting to a DFA.md",
-    "IPS/Automatons/Epsilon closure.md",
+    "IPS/One pager.md",
     "IPS/Automatons/NFA.md",
+    "IPS/Automatons/Minimizing a DFA.md",
+    "IPS/Automatons/Epsilon closure.md",
     "IPS/Automatons/DFA.md",
-    "IPS/Compiler/Register allocation/Data-Flow Equations.md",
-    "IPS/Compiler/Register allocation/Liveness analysis.md",
-    "IPS/Compiler/Register allocation",
-    "IPS/Compiler/Parsing/LL(1).md",
-    "IPS/Compiler/Parsing/Look ahead set.md",
+    "IPS/Automatons/Converting to a DFA.md",
+    "IPS/Compiler/Lexing/Lexical Analysis.md",
     "IPS/Compiler/Parsing/Top-Down Parsing.md",
     "IPS/Compiler/Parsing/Nullable Property.md",
-    "Excalidraw/Drawing 2026-06-12 15.26.32.excalidraw.md",
-    "AD/One pager.md",
+    "IPS/Compiler/Parsing/Look ahead set.md",
+    "IPS/Compiler/Parsing/LL(1).md",
+    "IPS/Compiler/Parsing/Follow Set.md",
+    "IPS/Compiler/Parsing/First Set.md",
     "IPS/Compiler/Parsing/Bottom-Up Parsing.md",
-    "IPS/Compiler/Syntax/Syntax trees.md",
-    "IPS/Compiler/Syntax/Syntax tree.md",
-    "IPS/Compiler/Syntax/Syntax Analysis.md",
+    "IPS/Compiler/Register allocation",
     "IPS/Compiler/Parsing/Untitled.base",
     "IPS/Compiler/Parsing",
-    "IPS/Compiler/Syntax/Language.md",
-    "IPS/Implementation of Programming Languages (IPS).md",
     "IPS/Exam",
-    "AD/Amortized analysis/Amortized analysis.md",
     "IPS/Automatons",
     "DIS/Relational algebra",
     "DIS/Assigment",
     "AD/Ordliste_for_algoritmer_og_datastrukturer-1.pdf",
-    "IPS/Regular expressions",
-    "IPS/Compiler/Lexing",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
