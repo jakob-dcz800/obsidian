@@ -20,8 +20,24 @@
               "icon": "diff",
               "title": "Diff: workspace.json  (Working Tree)"
             }
+          },
+          {
+            "id": "e33603f328077f24",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "DIS/Exam/2024.md",
+                "bFile": "DIS/Exam/2024.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2024  (Index)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,8 +113,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "38783839625a6d06",
+  "active": "e33603f328077f24",
   "lastOpenFiles": [
+    "Assets/Pasted image 20260618142715.png",
+    "Assets/Pasted image 20260618142835.png",
+    "Assets/Pasted image 20260618142838.png",
+    "conflict-files-obsidian-git.md",
+    "Assets/Pasted image 20260618142706.png",
+    "Assets/Pasted image 20260618142700.png",
     "DIS/Relational Calculus/Relational Calculus.md",
     "DIS/Exam/2024.md",
     "Assets/Pasted image 20260618121310.png",
@@ -108,13 +130,8 @@
     "Assets/Pasted image 20260618115509.png",
     "Assets/Pasted image 20260618115505.png",
     "DIS/Exam/2025.md",
-    "Assets/Pasted image 20260617210954.png",
-    "Assets/Pasted image 20260617210941.png",
-    "Assets/Pasted image 20260617200557.png",
     "DIS/Relational algebra/Relational algebra.md",
     "DIS/SQL/SQL Basic.md",
-    "Assets/Pasted image 20260617164242.png",
-    "Assets/Pasted image 20260617163352.png",
     "DIS/Relational algebra/RANF.md",
     "DIS/Databases/ER Modeling (# Edit conflict 2026-04-23 gag079C #).md",
     "DIS/Exam",
@@ -135,7 +152,6 @@
     "IPS/Compiler/Parsing/LL(1).md",
     "IPS/Compiler/Parsing/Follow Set.md",
     "IPS/Compiler/Parsing/First Set.md",
-    "IPS/Compiler/Parsing/Bottom-Up Parsing.md",
     "IPS/Compiler/Register allocation",
     "IPS/Compiler/Parsing/Untitled.base",
     "IPS/Compiler/Parsing",

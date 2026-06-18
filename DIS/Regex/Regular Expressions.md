@@ -41,3 +41,8 @@ re.findall(r'w[a-z]*', 'whisper words of wisdom let it be')
 
 ```
 
+# Features
+
+![[Pasted image 20260618142706.png]]
+![[Pasted image 20260618142715.png]]
+
