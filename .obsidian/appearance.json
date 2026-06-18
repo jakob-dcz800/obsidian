@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "math-colors"
-  ]
+  ],
+  "accentColor": "#50b6ed"
 }
