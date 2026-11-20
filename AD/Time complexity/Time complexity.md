@@ -2,7 +2,7 @@
 [[Køretidsanalyse]]
 ## Running time
 
-We talk about running times of [[Algorithms|algorithms]]
+We talk about running times of [[AD/Time complexity/Algorithms|algorithms]]
 Function T(n) of input length
 $$
 T(n)=\text{max}\set{T(x):|x|\leq n}

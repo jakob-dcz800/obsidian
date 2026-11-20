@@ -4,40 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "c394839fab48e2da",
+        "id": "4d95be5e1b82997a",
         "type": "tabs",
         "children": [
           {
-            "id": "38783839625a6d06",
+            "id": "104e53104e8681ff",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "LICS/Soundness and completenes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "e33603f328077f24",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "DIS/Exam/2024.md",
-                "bFile": "DIS/Exam/2024.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2024  (Index)"
+              "icon": "lucide-file",
+              "title": "Soundness and completenes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,31 +73,108 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 218.07861995697021
   },
   "right": {
     "id": "7305112d2ee5dcb1",
     "type": "split",
     "children": [
       {
-        "id": "d4f60965719481be",
+        "id": "f798ed9ccb70f094",
         "type": "tabs",
         "children": [
           {
-            "id": "0d1af014d33d13cc",
+            "id": "239b6f2116137890",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "535db006f48417b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "63034ff500941916",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d00cb283edf206d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1c995ec6632c2cd6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d1afdcb4511fa37d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7976ae637796a7de",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -113,53 +186,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e33603f328077f24",
+  "active": "104e53104e8681ff",
   "lastOpenFiles": [
-    "Assets/Pasted image 20260618142715.png",
-    "Assets/Pasted image 20260618142835.png",
-    "Assets/Pasted image 20260618142838.png",
-    "conflict-files-obsidian-git.md",
-    "Assets/Pasted image 20260618142706.png",
-    "Assets/Pasted image 20260618142700.png",
-    "DIS/Relational Calculus/Relational Calculus.md",
-    "DIS/Exam/2024.md",
-    "Assets/Pasted image 20260618121310.png",
-    "DIS/SQL/SQL.md",
-    "Assets/Pasted image 20260618115550.png",
-    "Assets/Pasted image 20260618115530.png",
-    "Assets/Pasted image 20260618115509.png",
-    "Assets/Pasted image 20260618115505.png",
+    "Assets/Pasted image 20261119105504.png",
+    "LICS/Soundness and completenes.md",
+    "LICS/Symbol guide.md",
+    "Assets/Pasted image 20261119105148.png",
+    "Assets/Pasted image 20261119105024.png",
+    "Assets/Pasted image 20261119104953.png",
+    "Assets/Pasted image 20261119104508.png",
+    "LICS/Assignments/1.md",
+    "Assets/Pasted image 20261118131814.png",
+    "Assets/Pasted image 20261118131748.png",
+    "Assets/Pasted image 20261118131734.png",
+    "Assets/Pasted image 20261118131720.png",
+    "Assets/Pasted image 20261118131541.png",
+    "Assets/Pasted image 20261118131518.png",
+    "LICS/Natural deduction.md",
+    "LICS/Assignments",
+    "LICS/Declarative sentences.md",
+    "LICS/Propositional logic.md",
+    "latex-snippets.js",
+    "latex-snippets.txt",
+    "REB",
+    "LICS",
+    "ITS/Exam/its_practice_exam_2026_answers.pdf",
+    "ITS/Lectures/lecture3-crypto.pdf",
+    "ITS/Design principles.md",
+    "ITS/Lectures/lecture7-network-security.pdf",
+    "ITS/Lectures/lecture1-intro.pdf",
+    "ITS/Lectures/lecture6-malware-and-virtualization.pdf",
+    "ITS/Exam/Answers.md",
+    "ITS/Untitled.md",
+    "ITS/Over the wire.md",
+    "ITS/Assignments/1.md",
+    "ITS/Encryption/Algorithms.md",
+    "ITS/Encryption/Initial vector.md",
+    "ITS/Encryption/Padding.md",
+    "SU/Software management/Agile development.md",
+    "CompSys/Networks/Network layer.md",
+    "CompSys/Networks/Layering.md",
+    "CompSys/Networks/IP Adresses.md",
+    "CompSys/Networks/Internet.md",
+    "CompSys/Networks/HTTP.md",
+    "CompSys/Networks/Security/Firewall.md",
+    "ITP/Seminar 2.md",
+    "ITP/Seminar 1.md",
+    "Untitled.md",
     "DIS/Exam/2025.md",
-    "DIS/Relational algebra/Relational algebra.md",
-    "DIS/SQL/SQL Basic.md",
-    "DIS/Relational algebra/RANF.md",
-    "DIS/Databases/ER Modeling (# Edit conflict 2026-04-23 gag079C #).md",
-    "DIS/Exam",
-    "DIS/Relational algebra/Queries.md",
-    "DIS/Relational algebra/Domain independence.md",
-    "DIS/Relational Calculus",
-    "IPS/Exam/2024.md",
-    "IPS/One pager.md",
-    "IPS/Automatons/NFA.md",
-    "IPS/Automatons/Minimizing a DFA.md",
-    "IPS/Automatons/Epsilon closure.md",
-    "IPS/Automatons/DFA.md",
-    "IPS/Automatons/Converting to a DFA.md",
-    "IPS/Compiler/Lexing/Lexical Analysis.md",
-    "IPS/Compiler/Parsing/Top-Down Parsing.md",
-    "IPS/Compiler/Parsing/Nullable Property.md",
-    "IPS/Compiler/Parsing/Look ahead set.md",
-    "IPS/Compiler/Parsing/LL(1).md",
-    "IPS/Compiler/Parsing/Follow Set.md",
-    "IPS/Compiler/Parsing/First Set.md",
-    "IPS/Compiler/Register allocation",
-    "IPS/Compiler/Parsing/Untitled.base",
-    "IPS/Compiler/Parsing",
-    "IPS/Exam",
-    "IPS/Automatons",
-    "DIS/Relational algebra",
-    "DIS/Assigment",
-    "AD/Ordliste_for_algoritmer_og_datastrukturer-1.pdf",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

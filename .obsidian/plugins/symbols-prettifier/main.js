@@ -133,10 +133,14 @@ function getSymbolsPositionField(plugin) {
       value = value.map(transaction.changes);
       const changedLines = [];
       transaction.changes.iterChangedRanges((_f, _t, from, to) => {
-        changedLines.push([
-          transaction.state.doc.lineAt(from).number,
-          transaction.state.doc.lineAt(to).number
-        ]);
+        const start = transaction.state.doc.lineAt(from).number;
+        const end = transaction.state.doc.lineAt(to).number;
+        const lastChangedLine = changedLines[changedLines.length - 1];
+        if (lastChangedLine && start <= lastChangedLine[1] + 1) {
+          lastChangedLine[1] = Math.max(lastChangedLine[1], end);
+        } else {
+          changedLines.push([start, end]);
+        }
       });
       const newRanges = [];
       for (const [start, end] of changedLines) {

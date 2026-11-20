@@ -7,8 +7,6 @@
 ![[Pasted image 20260617101422.png]]
 
 # Examples
-
-
 ## Example 1
 Choose ssn, name, lot from Employees where the name is John:
 `Employees(ssn,name,lot) ∧ name ≈ “John”`

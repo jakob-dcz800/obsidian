@@ -1,3 +1,4 @@
+# Integrity constraint
 
 IC: condition that must be true for **any** instance of the database 
 	• Domain constraints 

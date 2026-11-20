@@ -1,3 +1,5 @@
+# Relational Algebra
+
 Language for mathematical elegance
 Precise communication
 Exact description of what a database system does - [[SQL]] does not do that.
@@ -47,6 +49,7 @@ These operations take two input relations that **must be union-compatible**
 - Same number of fields
 - “Corresponding” fields have the same type
 ![[Pasted image 20260617140738.png|157]]
+
 ![[Pasted image 20260617140647.png]]
 
 ### Cross-product

@@ -2,6 +2,7 @@
 tags:
   - Software-development
 ---
+
 **Agile development** is a flexible and iterative approach to software development that focuses on:
 - **Customer collaboration**
 - **Quick delivery of working software**

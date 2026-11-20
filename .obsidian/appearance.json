@@ -5,5 +5,6 @@
   "enabledCssSnippets": [
     "math-colors"
   ],
-  "accentColor": "#50b6ed"
+  "accentColor": "#50b6ed",
+  "showRibbon": true
 }

@@ -1,3 +1,5 @@
+# Domain independence
+
 Here both sides must exist in DB
 ![[Pasted image 20260505105454.png]]
 

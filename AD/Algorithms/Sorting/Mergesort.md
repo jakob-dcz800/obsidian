@@ -36,7 +36,7 @@ Se [[Rekursionsligninger#Eksempel|løsning]]
 
 `MERGE` er en hjælpe funktion som er del af `MERGE-SORT` funktionen. `MERGE` antager at de to sub-arrays allerede er sorterede internt.
 
-For at merge de to arrays, kigger [[Algorithms|algoritmen]] på den første værdi i begge arrays, og lægger den mindste værdi af de to i output-arrayet.
+For at merge de to arrays, kigger [[AD/Time complexity/Algorithms|algoritmen]] på den første værdi i begge arrays, og lægger den mindste værdi af de to i output-arrayet.
 
 ```jsx
 if (arr1[first] > arr2[first]) {
