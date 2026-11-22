@@ -1,34 +1,20 @@
 {
   "main": {
-    "id": "a4382883349a2944",
+    "id": "35c8cc7a1e9a5521",
     "type": "split",
     "children": [
       {
-        "id": "4d95be5e1b82997a",
+        "id": "759a8fa5c9c0ba25",
         "type": "tabs",
         "children": [
           {
-            "id": "104e53104e8681ff",
+            "id": "078a6873ebffc06e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LICS/Soundness and completenes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Soundness and completenes"
+              "title": "New tab"
             }
           }
         ]
@@ -37,22 +23,22 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "515f8aeef7e2425f",
+    "id": "e022982db59b35e7",
     "type": "split",
     "children": [
       {
-        "id": "a930830c16e2e580",
+        "id": "dbc53bae5e74675e",
         "type": "tabs",
         "children": [
           {
-            "id": "6fee564b4682444f",
+            "id": "b189c4a7942381c3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
-                "showSearch": true,
+                "autoReveal": false,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -60,11 +46,14 @@
             }
           },
           {
-            "id": "60587bfd3cc9993a",
+            "id": "eb63e733ec7c5757",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -73,22 +62,33 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.07861995697021
+    "width": 300
   },
   "right": {
-    "id": "7305112d2ee5dcb1",
+    "id": "db67fd4c1fe10e35",
     "type": "split",
     "children": [
       {
-        "id": "f798ed9ccb70f094",
+        "id": "20805d14066b7e8a",
         "type": "tabs",
         "children": [
           {
-            "id": "239b6f2116137890",
+            "id": "70363d8eac69f5e3",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "b2cee98526f10540",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LICS/Assignments/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,11 +102,12 @@
             }
           },
           {
-            "id": "535db006f48417b2",
+            "id": "7bafff95a9dfa1bc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LICS/Assignments/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -115,11 +116,12 @@
             }
           },
           {
-            "id": "63034ff500941916",
+            "id": "b7f02d4ff7c1e5c4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "LICS/Assignments/1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -129,7 +131,7 @@
             }
           },
           {
-            "id": "d00cb283edf206d0",
+            "id": "4a2697a6628faf55",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +141,7 @@
             }
           },
           {
-            "id": "1c995ec6632c2cd6",
+            "id": "8455eb0673bf6c07",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,17 +151,7 @@
             }
           },
           {
-            "id": "d1afdcb4511fa37d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "7976ae637796a7de",
+            "id": "a1fcd4f108ebf63e",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -173,69 +165,65 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "104e53104e8681ff",
+  "active": "a1fcd4f108ebf63e",
   "lastOpenFiles": [
-    "Assets/Pasted image 20261119105504.png",
-    "LICS/Soundness and completenes.md",
-    "LICS/Symbol guide.md",
-    "Assets/Pasted image 20261119105148.png",
-    "Assets/Pasted image 20261119105024.png",
-    "Assets/Pasted image 20261119104953.png",
-    "Assets/Pasted image 20261119104508.png",
     "LICS/Assignments/1.md",
-    "Assets/Pasted image 20261118131814.png",
-    "Assets/Pasted image 20261118131748.png",
-    "Assets/Pasted image 20261118131734.png",
-    "Assets/Pasted image 20261118131720.png",
-    "Assets/Pasted image 20261118131541.png",
-    "Assets/Pasted image 20261118131518.png",
     "LICS/Natural deduction.md",
-    "LICS/Assignments",
-    "LICS/Declarative sentences.md",
-    "LICS/Propositional logic.md",
+    "Assets/Pasted image 20261120171100.png",
+    "Assets/Pasted image 20261120163814.png",
+    "Assets/Pasted image 20261120163756.png",
+    "LICS/BoxProver.md",
+    "Assets/Pasted image 20261120140108.png",
+    "DIS/Databases/ER Modeling.md",
     "latex-snippets.js",
-    "latex-snippets.txt",
-    "REB",
+    "LICS/Symbol guide.md",
+    "LICS/Soundness and completenes.md",
+    "LICS/Propositional logic.md",
+    "LICS/Declarative sentences.md",
+    "LICS/Assignments",
     "LICS",
-    "ITS/Exam/its_practice_exam_2026_answers.pdf",
-    "ITS/Lectures/lecture3-crypto.pdf",
-    "ITS/Design principles.md",
+    "ITS/Material/NL02.Lampson.pdf",
+    "ITS/Lectures/lecture9-software-security.pdf",
+    "ITS/Lectures/lecture8-data-privacy.pdf",
     "ITS/Lectures/lecture7-network-security.pdf",
-    "ITS/Lectures/lecture1-intro.pdf",
     "ITS/Lectures/lecture6-malware-and-virtualization.pdf",
-    "ITS/Exam/Answers.md",
-    "ITS/Untitled.md",
-    "ITS/Over the wire.md",
+    "ITS/Lectures/lecture5-access-control.pdf",
+    "ITS/Lectures/lecture4-authentication-improved.pdf",
     "ITS/Assignments/1.md",
-    "ITS/Encryption/Algorithms.md",
-    "ITS/Encryption/Initial vector.md",
-    "ITS/Encryption/Padding.md",
-    "SU/Software management/Agile development.md",
-    "CompSys/Networks/Network layer.md",
-    "CompSys/Networks/Layering.md",
-    "CompSys/Networks/IP Adresses.md",
-    "CompSys/Networks/Internet.md",
-    "CompSys/Networks/HTTP.md",
-    "CompSys/Networks/Security/Firewall.md",
+    "ITS/Exam/Answers.md",
+    "ITS/Over the wire.md",
+    "ITS/Design principles.md",
     "ITP/Seminar 2.md",
     "ITP/Seminar 1.md",
-    "Untitled.md",
-    "DIS/Exam/2025.md",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas"
+    "DIS/Notes.md",
+    "DIS/Databases/SQL.md",
+    "DIS/Databases/Normal Forms.md",
+    "DIS/Databases/Functional Dependencies.md",
+    "DIS/Databases/Constraints.md",
+    "Assets/Pasted image 20260619163606.png",
+    "Assets/Pasted image 20260619110123.png",
+    "Assets/Pasted image 20260619110007.png",
+    "Assets/Pasted image 20260619105106.png",
+    "Assets/Pasted image 20260619104405.png",
+    "Assets/Pasted image 20260618211023.png",
+    "DIS/Databases/ER Modeling (# Edit conflict 2026-04-23 gag079C #).md",
+    "DIS/Regex/Regular Expressions.md",
+    "DIS/Exam/2024.md",
+    "AD/Data structures/Fibonacci heap.md",
+    "IPS/Exam/2025.md",
+    "IPS/Exam/2024.md"
   ]
 }

@@ -70,6 +70,7 @@ $$
 (p ∧ q) ∧ r, s ∧ t \vdash q ∧ s
 $$
 
+	
 | 1   | $(p ∧ q) ∧ r$ | premise                  |
 | --- | ------------- | ------------------------ |
 | 2   | $s ∧ t$       | premise                  |
@@ -91,8 +92,9 @@ $$
 ![[Pasted image 20261116184947.png]]
 
 ## Eliminating implication
+Modus ponens
 $$
-\frac{\phi\qquad\phi \to \psi}{\psi} \to e
+\frac{\phi\qquad\phi \to \psi}{\psi} \to MP / \to e
 $$
 ## Modus tollens
 $$
@@ -118,3 +120,17 @@ $$
 }
 \rightarrow i.
 $$
+
+## Disjunction introduction
+
+![[Pasted image 20261120163756.png]]
+
+
+## Disjunction elimination
+![[Pasted image 20261120163814.png]]
+
+
+
+# Exercises
+
+![[Pasted image 20261120171100.png]]
